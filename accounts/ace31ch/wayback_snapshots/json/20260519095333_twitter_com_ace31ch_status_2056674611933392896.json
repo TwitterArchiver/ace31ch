@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1810570297437020160",
+    "conversation_id": "2056601830310961166",
+    "created_at": "2026-05-19T09:53:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T10:53:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056674611933392896"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1430052755352166401",
+          "start": 0,
+          "username": "Wendy_Ai2005"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056674611933392896",
+    "in_reply_to_user_id": "1430052755352166401",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056669020317986868",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Wendy_Ai2005 但他便宜啊🤤"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1810570297437020160",
+        "conversation_id": "2056601830310961166",
+        "created_at": "2026-05-19T09:53:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T10:53:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056674611933392896"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1430052755352166401",
+              "start": 0,
+              "username": "Wendy_Ai2005"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056674611933392896",
+        "in_reply_to_user_id": "1430052755352166401",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056669020317986868",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Wendy_Ai2005 但他便宜啊🤤"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1430052755352166401",
+        "conversation_id": "2056601830310961166",
+        "created_at": "2026-05-19T09:31:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T10:31:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056669020317986868"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1810570297437020160",
+              "start": 0,
+              "username": "ace31ch"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056669020317986868",
+        "in_reply_to_user_id": "1810570297437020160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056601830310961166",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ace31ch 便宜是便宜，但是这10mg不顶事哇，一盒吃2天😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-09T07:03:02.000Z",
+        "description": "- ✰*🎀ੈ✩👾✰*💗ੈ✩-\n生活在互聯網！我是低齡唐逼大傻福，十分抱歉！\n宇宙級嚴重嗜睡\nintp-t/🇨🇳建制左/社會自由主義",
+        "id": "1810570297437020160",
+        "location": "精神衛生中心",
+        "name": "spring风＃星宿四/三周目版",
+        "pinned_tweet_id": "2053483960211214638",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024747915840016390/eLTLiD4Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 181,
+          "following_count": 147,
+          "like_count": 342,
+          "listed_count": 1,
+          "media_count": 55,
+          "tweet_count": 961
+        },
+        "username": "ace31ch",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-24T06:22:15.000Z",
+        "description": "🇨🇳FromChina/05年184天空树🎄65kg/🏫HIE/📡BI7AWY/🟪MTX间断含糖🍥/😝说话是狗屁不通文章生成器/🏥休学8年/ASD+ADHD💊/在读机械狗一枚/全科通识考试弱智，应试教育失败品/🆗机械⚙️电气⚡️天文🔭地理🗺️医学🩺生物🧫瑟瑟🥵/❎历史🏺政治📚脑残🤪",
+        "id": "1430052755352166401",
+        "location": "距离你2.8km",
+        "name": "安雯雨🌧️🌧️Wendy_Ai🍥～🟡⚪️🟣⚫️",
+        "pinned_tweet_id": "2053055248185597964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033212769781387264/ROqqnl7h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 411,
+          "following_count": 792,
+          "like_count": 3482,
+          "listed_count": 1,
+          "media_count": 232,
+          "tweet_count": 1400
+        },
+        "username": "Wendy_Ai2005",
+        "verified": true
+      }
+    ]
+  }
+}

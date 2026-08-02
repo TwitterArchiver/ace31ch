@@ -1,0 +1,317 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1810570297437020160",
+    "conversation_id": "1813199920322728123",
+    "created_at": "2024-07-16T13:47:56.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-16T14:47:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1813208950810288291"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1686901686185721857",
+          "start": 0,
+          "username": "TrumpDailyPosts"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1813208950810288291",
+    "in_reply_to_user_id": "1686901686185721857",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1813199920322728123",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TrumpDailyPosts 日三省吾身：与拜登争论呼。与普京书情书呼。与狙击手躲子弹呼。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1810570297437020160",
+        "conversation_id": "1813199920322728123",
+        "created_at": "2024-07-16T13:47:56.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-16T14:47:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1813208950810288291"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1686901686185721857",
+              "start": 0,
+              "username": "TrumpDailyPosts"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1813208950810288291",
+        "in_reply_to_user_id": "1686901686185721857",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1813199920322728123",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TrumpDailyPosts 日三省吾身：与拜登争论呼。与普京书情书呼。与狙击手躲子弹呼。"
+      },
+      {
+        "attachments": {},
+        "author_id": "1686901686185721857",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "45th US President, Donald Trump",
+              "id": "799022225751871488",
+              "name": "Donald Trump"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "2020 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "45th US President, Donald Trump",
+              "id": "799022225751871488",
+              "name": "Donald Trump"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "45th US President, Donald Trump",
+              "id": "799022225751871488",
+              "name": "Donald Trump"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2020 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "The Republican National Convention is about to convene in Milwaukee to nominate President Donald J. Trump! Tune in live on X starting July 15th at 6pm CT to watch LIVE as we unite for a stronger America!",
+              "id": "1811085126010281984",
+              "name": "2024 Republican National Convention"
+            }
+          }
+        ],
+        "conversation_id": "1813199920322728123",
+        "created_at": "2024-07-16T13:12:03.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-16T14:12:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1813199920322728123"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 116,
+              "normalized_text": "America",
+              "probability": 0.779,
+              "start": 110,
+              "type": "Place"
+            },
+            {
+              "end": 166,
+              "normalized_text": "Donald Trump",
+              "probability": 0.9655,
+              "start": 155,
+              "type": "Person"
+            },
+            {
+              "end": 200,
+              "normalized_text": "AmericaFirst",
+              "probability": 0.4471,
+              "start": 189,
+              "type": "Place"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 201,
+              "start": 188,
+              "tag": "AmericaFirst"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1813199920322728123",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 43473,
+          "like_count": 2050,
+          "quote_count": 18,
+          "reply_count": 91,
+          "retweet_count": 373
+        },
+        "reply_settings": "everyone",
+        "text": "Only 111 days now until the most important election in our lifetime. God is good and may He continue to bless America. Follow and subscribe if you support Donald Trump for president 2024. #AmericaFirst"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-09T07:03:02.000Z",
+        "description": "",
+        "id": "1810570297437020160",
+        "name": "ace31",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1810570420707643392/Gcoxyx8j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 4,
+          "like_count": 0,
+          "listed_count": 0,
+          "tweet_count": 5
+        },
+        "username": "ace31ch",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-03T00:48:07.000Z",
+        "description": "Trump Truth Social Posts, Texts, Emails & Trump Team So They Can Be Shared With Millions On X. (Tap 🔔+ Notify) So Posts Cannot Be Suppressed. No Affiliation",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "TrumpDailyPosts.com",
+                "end": 23,
+                "expanded_url": "http://TrumpDailyPosts.com",
+                "start": 0,
+                "url": "https://t.co/aW7qi6L26j"
+              }
+            ]
+          }
+        },
+        "id": "1686901686185721857",
+        "location": "United States of America",
+        "name": "Donald J. Trump Posts From His Truth Social",
+        "pinned_tweet_id": "1812299853302800651",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1757203362381168640/j9704gu__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 663927,
+          "following_count": 15428,
+          "like_count": 12756,
+          "listed_count": 1278,
+          "tweet_count": 7300
+        },
+        "url": "https://t.co/aW7qi6L26j",
+        "username": "TrumpDailyPosts",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,309 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1810570297437020160",
+    "conversation_id": "2058069572834717804",
+    "created_at": "2026-05-24T03:46:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T04:46:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058394138228441151"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2054196065172344832",
+          "start": 0,
+          "username": "GptRainy"
+        },
+        {
+          "end": 26,
+          "id": "1907414826101669888",
+          "start": 10,
+          "username": "JamFarewellSong"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058394138228441151",
+    "in_reply_to_user_id": "2054196065172344832",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058069572834717804",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GptRainy @JamFarewellSong 超意兴是好文明🤤"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1186,
+        "media_key": "3_2058069412629172224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI-7Ogbb0AArVam.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2058069412612390912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI-7OgXbwAAsBL5.jpg",
+        "width": 1214
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1810570297437020160",
+        "conversation_id": "2058069572834717804",
+        "created_at": "2026-05-24T03:46:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T04:46:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058394138228441151"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2054196065172344832",
+              "start": 0,
+              "username": "GptRainy"
+            },
+            {
+              "end": 26,
+              "id": "1907414826101669888",
+              "start": 10,
+              "username": "JamFarewellSong"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058394138228441151",
+        "in_reply_to_user_id": "2054196065172344832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058069572834717804",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GptRainy @JamFarewellSong 超意兴是好文明🤤"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058069412629172224",
+            "3_2058069412612390912"
+          ]
+        },
+        "author_id": "2054196065172344832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2058069572834717804",
+        "created_at": "2026-05-23T06:16:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T07:16:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058069572834717804"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 23,
+              "id": "1907414826101669888",
+              "start": 7,
+              "username": "JamFarewellSong"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DMksXYar4C",
+              "end": 79,
+              "expanded_url": "https://x.com/GptRainy/status/2058069572834717804/photo/1",
+              "media_key": "3_2058069412629172224",
+              "start": 56,
+              "url": "https://t.co/DMksXYar4C"
+            },
+            {
+              "display_url": "pic.x.com/DMksXYar4C",
+              "end": 79,
+              "expanded_url": "https://x.com/GptRainy/status/2058069572834717804/photo/1",
+              "media_key": "3_2058069412612390912",
+              "start": 56,
+              "url": "https://t.co/DMksXYar4C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058069572834717804",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 285,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "逛街with @JamFarewellSong ❤️\n\n超意兴永远是济南人最信任的食堂！\n这一大盘还不到30！ https://t.co/DMksXYar4C"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-09T07:03:02.000Z",
+        "description": "- ✰*🔮✩👾✰*💜✩-\n生活在互聯網！我是低齡唐逼大傻福，十分抱歉！\n宇宙級嚴重嗜睡\nintp-t/🇨🇳建制左/社會自由主義\n黑色長條生物：@Kuromi_ooooo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 71,
+                "username": "Kuromi_ooooo"
+              }
+            ]
+          }
+        },
+        "id": "1810570297437020160",
+        "location": "精神衛生中心",
+        "name": "spring风＃星宿四/三周目版",
+        "pinned_tweet_id": "2053483960211214638",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024747915840016390/eLTLiD4Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 219,
+          "following_count": 156,
+          "like_count": 413,
+          "listed_count": 1,
+          "media_count": 66,
+          "tweet_count": 1041
+        },
+        "username": "ace31ch",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-12T13:44:50.000Z",
+        "description": "堂堂转生！不回关是因为怕回关太多被封号抱歉呜呜会慢慢回关的\n07年Transfem/🐱我的小猫叫卡尔/o割/🤖独立AI研究者/💊药物咨询 https://t.co/5EE1WxkPHD",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/amecandyx",
+                "end": 92,
+                "expanded_url": "https://ngl.link/amecandyx",
+                "start": 69,
+                "url": "https://t.co/5EE1WxkPHD"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "https://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/b8fHY6IT3G"
+              }
+            ]
+          }
+        },
+        "id": "2054196065172344832",
+        "location": "天堂",
+        "name": "小雨（转生复活ing）",
+        "pinned_tweet_id": "2055593672520171677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054196311235457024/AR_qFcWp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 468,
+          "following_count": 71,
+          "like_count": 103,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 75
+        },
+        "url": "https://t.co/b8fHY6IT3G",
+        "username": "GptRainy",
+        "verified": true
+      },
+      {
+        "created_at": "2025-04-02T12:48:43.000Z",
+        "description": "the Bone Gatherer；电波系中央空调；MtX（断糖中）&泛性恋&ASD&BPD&CPTSD，性别/身材焦虑；od&自伤新手；文娱杂食党，Gore爱好者；心目中主观排行第一的乐队：“神聖かまってちゃん”，其次是“未來電波基地”；“如果海洋注定要决堤，就让所有的苦水都注入我心中”\n欢迎大家都来扩列互fo喵😇",
+        "id": "1907414826101669888",
+        "name": "果酱离歌🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039485605093298176/XoZ5NfRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 267,
+          "following_count": 979,
+          "like_count": 3652,
+          "listed_count": 1,
+          "media_count": 10,
+          "tweet_count": 920
+        },
+        "username": "JamFarewellSong",
+        "verified": false
+      }
+    ]
+  }
+}

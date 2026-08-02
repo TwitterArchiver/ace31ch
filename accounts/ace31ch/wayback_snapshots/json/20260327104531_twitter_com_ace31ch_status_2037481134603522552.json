@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1810570297437020160",
+    "conversation_id": "2037443629606953457",
+    "created_at": "2026-03-27T10:45:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-27T11:45:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037481134603522552"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1766858890636120064",
+          "start": 0,
+          "username": "Linyue7523"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037481134603522552",
+    "in_reply_to_user_id": "1766858890636120064",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037443629606953457",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Linyue7523 甚至吉他10级"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_2037443621381980160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEZ0LcZbwAA0K83.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1810570297437020160",
+        "conversation_id": "2037443629606953457",
+        "created_at": "2026-03-27T10:45:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T11:45:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037481134603522552"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1766858890636120064",
+              "start": 0,
+              "username": "Linyue7523"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037481134603522552",
+        "in_reply_to_user_id": "1766858890636120064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037443629606953457",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Linyue7523 甚至吉他10级"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037443621381980160"
+          ]
+        },
+        "author_id": "1766858890636120064",
+        "conversation_id": "2037443629606953457",
+        "created_at": "2026-03-27T08:16:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T09:16:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037443629606953457"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Xe1uErxFKN",
+              "end": 122,
+              "expanded_url": "https://x.com/Linyue7523/status/2037443629606953457/photo/1",
+              "media_key": "3_2037443621381980160",
+              "start": 99,
+              "url": "https://t.co/Xe1uErxFKN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037443629606953457",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 3180,
+          "like_count": 52,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "有这样一个人\n他曾经是高中的年级第三，吉他十级\n但是由于玩手机被父母送进了这家机构下的一个校区\n机构夺走了他的天赋，给他留下了创伤与无穷尽的自我否定\n这不是孤例，这是全国所有机构的受害者的一个缩影 https://t.co/Xe1uErxFKN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-09T07:03:02.000Z",
+        "description": "od wiki没有活着的传奇",
+        "id": "1810570297437020160",
+        "location": "山东省精神卫生中心",
+        "name": "spring风＃星宿四/三周目版",
+        "pinned_tweet_id": "2032809726925484190",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024747915840016390/eLTLiD4Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85,
+          "following_count": 80,
+          "like_count": 157,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 574
+        },
+        "username": "ace31ch",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-10T16:09:34.000Z",
+        "description": "摄影📷/东方Project",
+        "id": "1766858890636120064",
+        "name": "霖",
+        "pinned_tweet_id": "2035405077222138018",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014974017019535361/pXcdgBH7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3682,
+          "following_count": 1533,
+          "like_count": 21088,
+          "listed_count": 3,
+          "media_count": 337,
+          "tweet_count": 2966
+        },
+        "username": "Linyue7523",
+        "verified": false
+      }
+    ]
+  }
+}

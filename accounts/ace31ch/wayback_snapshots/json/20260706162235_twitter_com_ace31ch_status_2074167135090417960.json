@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1810570297437020160",
+    "conversation_id": "2073939972130996379",
+    "created_at": "2026-07-06T16:22:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T17:22:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074167135090417960"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1247054463329656832",
+          "start": 0,
+          "username": "quasarne"
+        },
+        {
+          "end": 25,
+          "id": "1643877236473208833",
+          "start": 10,
+          "username": "dutyofadvocate"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074167135090417960",
+    "in_reply_to_user_id": "1247054463329656832",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074110575215509612",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@quasarne @dutyofadvocate 说明你不是山东人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1810570297437020160",
+        "conversation_id": "2073939972130996379",
+        "created_at": "2026-07-06T16:22:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T17:22:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074167135090417960"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1247054463329656832",
+              "start": 0,
+              "username": "quasarne"
+            },
+            {
+              "end": 25,
+              "id": "1643877236473208833",
+              "start": 10,
+              "username": "dutyofadvocate"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074167135090417960",
+        "in_reply_to_user_id": "1247054463329656832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074110575215509612",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@quasarne @dutyofadvocate 说明你不是山东人"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1247054463329656832",
+        "conversation_id": "2073939972130996379",
+        "created_at": "2026-07-06T12:37:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T13:37:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074110575215509612"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1643877236473208833",
+              "start": 0,
+              "username": "dutyofadvocate"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074110575215509612",
+        "in_reply_to_user_id": "1643877236473208833",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 109,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074021826729284028",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dutyofadvocate 这里的语序真的影响阅读（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-09T07:03:02.000Z",
+        "description": "- ✰*🔮✩👾✰*💜✩-\n生活在互聯網！我是低齡唐逼大傻福，十分抱歉！\n宇宙級嚴重嗜睡\nintp-t/🇨🇳建制左/社會自由主義/民主社會主義\n黑色長條生物：@Shivam3228",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 78,
+                "username": "Shivam3228"
+              }
+            ]
+          }
+        },
+        "id": "1810570297437020160",
+        "location": "精神衛生中心",
+        "name": "spring风＃星宿四/三周目版",
+        "pinned_tweet_id": "2053483960211214638",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024747915840016390/eLTLiD4Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 257,
+          "following_count": 182,
+          "like_count": 651,
+          "listed_count": 1,
+          "media_count": 83,
+          "tweet_count": 1206
+        },
+        "url": "",
+        "username": "ace31ch",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-06T07:01:04.000Z",
+        "description": "éla 數碼/科幻/政治/Wikier｜🚩◼️ 🌹自意社｜🏳️‍🌈gay/pan🏳️‍⚧️｜ 🌐漢語 吴、普/English OK/打卡Deutsch｜ 社恐，但欢迎来聊天（真的）｜安人Alt @JunenKim ｜目前不太确定该发什么…\n⬇️加群谢谢喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 97,
+                "username": "JunenKim"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+ZkgxPtV5OpVmO…",
+                "end": 23,
+                "expanded_url": "https://t.me/+ZkgxPtV5OpVmOTU1",
+                "start": 0,
+                "url": "https://t.co/xRff4RTd9x"
+              }
+            ]
+          }
+        },
+        "id": "1247054463329656832",
+        "location": "北京市西城区长安街174号",
+        "name": "Ⓐστήρ |星ない",
+        "pinned_tweet_id": "2058825811151450595",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066762624986128384/QLOsTOqL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1271,
+          "following_count": 1131,
+          "like_count": 84455,
+          "listed_count": 6,
+          "media_count": 1434,
+          "tweet_count": 18394
+        },
+        "url": "https://t.co/xRff4RTd9x",
+        "username": "quasarne",
+        "verified": true
+      },
+      {
+        "created_at": "2023-04-06T07:25:40.000Z",
+        "description": "It is the Rights of Freedom, Democracy and Equity that we , the humanity，all own as the intrinsic requirements of human  rights.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "dutyofadvocate.bsky.social",
+                "end": 23,
+                "expanded_url": "http://dutyofadvocate.bsky.social",
+                "start": 0,
+                "url": "https://t.co/klufFfr7Xt"
+              }
+            ]
+          }
+        },
+        "id": "1643877236473208833",
+        "location": "东北雨姐的大炕",
+        "name": "枫糖呐喊（恩师@konekoutena）",
+        "pinned_tweet_id": "1898688969979957507",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909447759008313344/ASqWJJqZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 453,
+          "following_count": 217,
+          "like_count": 686,
+          "listed_count": 8,
+          "media_count": 211,
+          "tweet_count": 11793
+        },
+        "url": "https://t.co/klufFfr7Xt",
+        "username": "dutyofadvocate",
+        "verified": false
+      }
+    ]
+  }
+}

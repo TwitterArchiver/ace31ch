@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1810570297437020160",
+    "conversation_id": "2027301695932530902",
+    "created_at": "2026-02-27T17:18:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T18:18:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027433076809400486"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2007397795532333056",
+          "start": 0,
+          "username": "shaoxiancao1314"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027433076809400486",
+    "in_reply_to_user_id": "2007397795532333056",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027301695932530902",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shaoxiancao1314 神了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1810570297437020160",
+        "conversation_id": "2027301695932530902",
+        "created_at": "2026-02-27T17:18:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T18:18:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027433076809400486"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2007397795532333056",
+              "start": 0,
+              "username": "shaoxiancao1314"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027433076809400486",
+        "in_reply_to_user_id": "2007397795532333056",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027301695932530902",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shaoxiancao1314 神了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2007397795532333056",
+        "conversation_id": "2027301695932530902",
+        "created_at": "2026-02-27T08:36:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T09:36:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027301695932530902"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/gdioiui/status…",
+              "end": 54,
+              "expanded_url": "https://twitter.com/gdioiui/status/2027242138342449404",
+              "start": 31,
+              "url": "https://t.co/nFzos1kKoh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027301695932530902",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1808,
+          "like_count": 30,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027242138342449404",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "教完第2天 对面家长：就是你把我儿子教成人妖的！我要报警了！ https://t.co/nFzos1kKoh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-09T07:03:02.000Z",
+        "description": "od wiki没有活着的传奇",
+        "id": "1810570297437020160",
+        "location": "山东省精神卫生中心",
+        "name": "spring风＃星宿四/三周目版",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024747915840016390/eLTLiD4Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 45,
+          "like_count": 63,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 227
+        },
+        "username": "ace31ch",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-03T10:25:12.000Z",
+        "description": "10倍凝胶请联系TG https://t.co/eQ5f55oGxr丨\nmtf地雷系女子丨09年161cm药娘丨曾20小时内极限逃离扭转机构丨坐标郑州丨照片在亮点丨对象兼闺蜜@YuwenT233丨姐姐@Delusions6515 @Snegur0chk 丨纯绿交友🚪18私信口令 同类免丨蓝V互fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 97,
+                "start": 87,
+                "username": "YuwenT233"
+              },
+              {
+                "end": 114,
+                "start": 100,
+                "username": "Delusions6515"
+              },
+              {
+                "end": 126,
+                "start": 115,
+                "username": "Snegur0chk"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/shaoxiancao1314",
+                "end": 34,
+                "expanded_url": "http://t.me/shaoxiancao1314",
+                "start": 11,
+                "url": "https://t.co/eQ5f55oGxr"
+              }
+            ]
+          }
+        },
+        "id": "2007397795532333056",
+        "location": "坐在唐毓文无敌几把上",
+        "name": "烧仙草🍥🏳️‍⚧️（出10倍凝胶）",
+        "pinned_tweet_id": "2021027137004896416",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007399225236361216/pD-sGP7Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1158,
+          "following_count": 408,
+          "like_count": 2891,
+          "listed_count": 2,
+          "media_count": 28,
+          "tweet_count": 204
+        },
+        "username": "shaoxiancao1314",
+        "verified": true
+      }
+    ]
+  }
+}

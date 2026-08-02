@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1810570297437020160",
+    "conversation_id": "2059127579081314788",
+    "created_at": "2026-05-26T04:20:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T05:20:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059127579081314788"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2041449281677045760",
+          "start": 3,
+          "username": "Sorcerer198964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059127579081314788",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059067486751121479",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Sorcerer198964: 什么是紫砂？\n我们相信一个人的自由意志，因此不去阻碍他的选择，同时我们相信人的生命力和本能，因此规劝非理性的紫砂\n然而，如果主观上就没想死的紫砂，这种行为无论是什么目的，都不值得我们肯定\n衡量主观性如何，只要看他是不是真会致死，何不信任他…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1810570297437020160",
+        "conversation_id": "2059127579081314788",
+        "created_at": "2026-05-26T04:20:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T05:20:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059127579081314788"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2041449281677045760",
+              "start": 3,
+              "username": "Sorcerer198964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059127579081314788",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059067486751121479",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Sorcerer198964: 什么是紫砂？\n我们相信一个人的自由意志，因此不去阻碍他的选择，同时我们相信人的生命力和本能，因此规劝非理性的紫砂\n然而，如果主观上就没想死的紫砂，这种行为无论是什么目的，都不值得我们肯定\n衡量主观性如何，只要看他是不是真会致死，何不信任他…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2059067486751121479",
+        "created_at": "2026-05-26T00:21:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T01:21:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059067486751121479"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059067486751121479",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 394,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "什么是紫砂？\n我们相信一个人的自由意志，因此不去阻碍他的选择，同时我们相信人的生命力和本能，因此规劝非理性的紫砂\n然而，如果主观上就没想死的紫砂，这种行为无论是什么目的，都不值得我们肯定\n衡量主观性如何，只要看他是不是真会致死，何不信任他们的药理学呢？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-09T07:03:02.000Z",
+        "description": "- ✰*🔮✩👾✰*💜✩-\n生活在互聯網！我是低齡唐逼大傻福，十分抱歉！\n宇宙級嚴重嗜睡\nintp-t/🇨🇳建制左/社會自由主義\n黑色長條生物：@Kuromi_ooooo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 71,
+                "username": "Kuromi_ooooo"
+              }
+            ]
+          }
+        },
+        "id": "1810570297437020160",
+        "location": "精神衛生中心",
+        "name": "spring风＃星宿四/三周目版",
+        "pinned_tweet_id": "2053483960211214638",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024747915840016390/eLTLiD4Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 219,
+          "following_count": 163,
+          "like_count": 444,
+          "listed_count": 1,
+          "media_count": 69,
+          "tweet_count": 1062
+        },
+        "username": "ace31ch",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世：@Witch198964 互fo寻回中｜ 06 ｜ enby/MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "Witch198964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sorcerer15803",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sorcerer15803",
+                "start": 0,
+                "url": "https://t.co/vX258E0roU"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041452438411227136/lEeNP37m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 777,
+          "following_count": 645,
+          "like_count": 739,
+          "listed_count": 2,
+          "media_count": 301,
+          "tweet_count": 1833
+        },
+        "url": "https://t.co/vX258E0roU",
+        "username": "Sorcerer198964",
+        "verified": false
+      }
+    ]
+  }
+}

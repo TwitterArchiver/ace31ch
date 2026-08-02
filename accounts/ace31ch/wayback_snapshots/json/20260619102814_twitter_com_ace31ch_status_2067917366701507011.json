@@ -1,0 +1,312 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067795937578340352",
+        "3_2067795944821997568"
+      ],
+      "media_source_tweet_id": [
+        "2067795950916255983",
+        "2067795950916255983"
+      ]
+    },
+    "author_id": "1810570297437020160",
+    "conversation_id": "2067917366701507011",
+    "created_at": "2026-06-19T10:28:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T11:28:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067917366701507011"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "858091506149629952",
+          "start": 3,
+          "username": "ViscountBP"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/8y40ElEseP",
+          "end": 100,
+          "expanded_url": "https://x.com/ViscountBP/status/2067795950916255983/photo/1",
+          "media_key": "3_2067795937578340352",
+          "start": 77,
+          "url": "https://t.co/8y40ElEseP"
+        },
+        {
+          "display_url": "pic.x.com/8y40ElEseP",
+          "end": 100,
+          "expanded_url": "https://x.com/ViscountBP/status/2067795950916255983/photo/1",
+          "media_key": "3_2067795944821997568",
+          "start": 77,
+          "url": "https://t.co/8y40ElEseP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067917366701507011",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 203
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067795950916255983",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ViscountBP: They look like they are about to join the Central Politburo. https://t.co/8y40ElEseP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1114,
+        "media_key": "3_2067795937578340352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLJJcxdaUAA8pBp.jpg",
+        "width": 1100
+      },
+      {
+        "height": 870,
+        "media_key": "3_2067795944821997568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLJJdMcbwAAkfV-.jpg",
+        "width": 1824
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067795937578340352",
+            "3_2067795944821997568"
+          ],
+          "media_source_tweet_id": [
+            "2067795950916255983",
+            "2067795950916255983"
+          ]
+        },
+        "author_id": "1810570297437020160",
+        "conversation_id": "2067917366701507011",
+        "created_at": "2026-06-19T10:28:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T11:28:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067917366701507011"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "858091506149629952",
+              "start": 3,
+              "username": "ViscountBP"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8y40ElEseP",
+              "end": 100,
+              "expanded_url": "https://x.com/ViscountBP/status/2067795950916255983/photo/1",
+              "media_key": "3_2067795937578340352",
+              "start": 77,
+              "url": "https://t.co/8y40ElEseP"
+            },
+            {
+              "display_url": "pic.x.com/8y40ElEseP",
+              "end": 100,
+              "expanded_url": "https://x.com/ViscountBP/status/2067795950916255983/photo/1",
+              "media_key": "3_2067795944821997568",
+              "start": 77,
+              "url": "https://t.co/8y40ElEseP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067917366701507011",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 203
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067795950916255983",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ViscountBP: They look like they are about to join the Central Politburo. https://t.co/8y40ElEseP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067795937578340352",
+            "3_2067795944821997568"
+          ]
+        },
+        "author_id": "858091506149629952",
+        "conversation_id": "2067795950916255983",
+        "created_at": "2026-06-19T02:25:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T03:25:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067795950916255983"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8y40ElEseP",
+              "end": 84,
+              "expanded_url": "https://x.com/ViscountBP/status/2067795950916255983/photo/1",
+              "media_key": "3_2067795937578340352",
+              "start": 61,
+              "url": "https://t.co/8y40ElEseP"
+            },
+            {
+              "display_url": "pic.x.com/8y40ElEseP",
+              "end": 84,
+              "expanded_url": "https://x.com/ViscountBP/status/2067795950916255983/photo/1",
+              "media_key": "3_2067795944821997568",
+              "start": 61,
+              "url": "https://t.co/8y40ElEseP"
+            },
+            {
+              "display_url": "x.com/sighyam/status…",
+              "end": 108,
+              "expanded_url": "https://twitter.com/sighyam/status/2067577696536973620",
+              "start": 85,
+              "url": "https://t.co/PjmvKFS6EI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067795950916255983",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 178,
+          "impression_count": 112032,
+          "like_count": 1621,
+          "quote_count": 14,
+          "reply_count": 18,
+          "retweet_count": 203
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067577696536973620",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "They look like they are about to join the Central Politburo. https://t.co/8y40ElEseP https://t.co/PjmvKFS6EI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-09T07:03:02.000Z",
+        "description": "- ✰*🔮✩👾✰*💜✩-\n生活在互聯網！我是低齡唐逼大傻福，十分抱歉！\n宇宙級嚴重嗜睡\nintp-t/🇨🇳建制左/社會自由主義/民主社會主義\n黑色長條生物：@Shivam3228",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 78,
+                "username": "Shivam3228"
+              }
+            ]
+          }
+        },
+        "id": "1810570297437020160",
+        "location": "精神衛生中心",
+        "name": "spring风＃星宿四/三周目版",
+        "pinned_tweet_id": "2053483960211214638",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024747915840016390/eLTLiD4Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 236,
+          "following_count": 174,
+          "like_count": 591,
+          "listed_count": 1,
+          "media_count": 81,
+          "tweet_count": 1155
+        },
+        "url": "",
+        "username": "ace31ch",
+        "verified": false
+      },
+      {
+        "created_at": "2017-04-28T22:52:12.000Z",
+        "description": "Back into the land of hotness and rain 🇸🇬. Uncle to two cats.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/viscountbp",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/viscountbp",
+                "start": 0,
+                "url": "https://t.co/sYIYy9BnOL"
+              }
+            ]
+          }
+        },
+        "id": "858091506149629952",
+        "location": "Singapore",
+        "name": "Viscount Bukit Panjang",
+        "pinned_tweet_id": "1857391596377129320",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044393910156558336/i_uHqUL0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2584,
+          "following_count": 953,
+          "like_count": 85877,
+          "listed_count": 14,
+          "media_count": 7933,
+          "tweet_count": 43599
+        },
+        "url": "https://t.co/sYIYy9BnOL",
+        "username": "ViscountBP",
+        "verified": false
+      }
+    ]
+  }
+}

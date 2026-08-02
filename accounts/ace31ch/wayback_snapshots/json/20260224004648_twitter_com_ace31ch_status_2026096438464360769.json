@@ -1,0 +1,328 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2025944032845664256",
+        "3_2025944032715677696"
+      ],
+      "media_source_tweet_id": [
+        "2025944042798788808",
+        "2025944042798788808"
+      ]
+    },
+    "author_id": "1810570297437020160",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2026096438464360769",
+    "created_at": "2026-02-24T00:46:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-24T01:46:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026096438464360769"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1754494415152766976",
+          "start": 3,
+          "username": "NagiExpress"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Lz7ezQvi9v",
+          "end": 45,
+          "expanded_url": "https://x.com/NagiExpress/status/2025944042798788808/photo/1",
+          "media_key": "3_2025944032845664256",
+          "start": 22,
+          "url": "https://t.co/Lz7ezQvi9v"
+        },
+        {
+          "display_url": "pic.x.com/Lz7ezQvi9v",
+          "end": 45,
+          "expanded_url": "https://x.com/NagiExpress/status/2025944042798788808/photo/1",
+          "media_key": "3_2025944032715677696",
+          "start": 22,
+          "url": "https://t.co/Lz7ezQvi9v"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026096438464360769",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025944042798788808",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @NagiExpress: 双厨狂喜 https://t.co/Lz7ezQvi9v"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2025944032845664256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB2ZXSyWkAA8doD.jpg",
+        "width": 933
+      },
+      {
+        "height": 1792,
+        "media_key": "3_2025944032715677696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB2ZXSTXIAAwqEW.jpg",
+        "width": 828
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025944032845664256",
+            "3_2025944032715677696"
+          ],
+          "media_source_tweet_id": [
+            "2025944042798788808",
+            "2025944042798788808"
+          ]
+        },
+        "author_id": "1810570297437020160",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2026096438464360769",
+        "created_at": "2026-02-24T00:46:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T01:46:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026096438464360769"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1754494415152766976",
+              "start": 3,
+              "username": "NagiExpress"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Lz7ezQvi9v",
+              "end": 45,
+              "expanded_url": "https://x.com/NagiExpress/status/2025944042798788808/photo/1",
+              "media_key": "3_2025944032845664256",
+              "start": 22,
+              "url": "https://t.co/Lz7ezQvi9v"
+            },
+            {
+              "display_url": "pic.x.com/Lz7ezQvi9v",
+              "end": 45,
+              "expanded_url": "https://x.com/NagiExpress/status/2025944042798788808/photo/1",
+              "media_key": "3_2025944032715677696",
+              "start": 22,
+              "url": "https://t.co/Lz7ezQvi9v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026096438464360769",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025944042798788808",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @NagiExpress: 双厨狂喜 https://t.co/Lz7ezQvi9v"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025944032845664256",
+            "3_2025944032715677696"
+          ]
+        },
+        "author_id": "1754494415152766976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2025944042798788808",
+        "created_at": "2026-02-23T14:41:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T15:41:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025944042798788808"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Lz7ezQvi9v",
+              "end": 28,
+              "expanded_url": "https://x.com/NagiExpress/status/2025944042798788808/photo/1",
+              "media_key": "3_2025944032845664256",
+              "start": 5,
+              "url": "https://t.co/Lz7ezQvi9v"
+            },
+            {
+              "display_url": "pic.x.com/Lz7ezQvi9v",
+              "end": 28,
+              "expanded_url": "https://x.com/NagiExpress/status/2025944042798788808/photo/1",
+              "media_key": "3_2025944032715677696",
+              "start": 5,
+              "url": "https://t.co/Lz7ezQvi9v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025944042798788808",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1163,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "双厨狂喜 https://t.co/Lz7ezQvi9v"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-09T07:03:02.000Z",
+        "description": "od wiki没有活着的传奇",
+        "id": "1810570297437020160",
+        "location": "山东省精神卫生中心",
+        "name": "spring风＃星宿四/三周目版",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024747915840016390/eLTLiD4Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 35,
+          "like_count": 38,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 144
+        },
+        "username": "ace31ch",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-05T13:17:29.000Z",
+        "description": "平等的羡慕每一个重庆人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tfl.gov.uk/tube/route/vic…",
+                "end": 23,
+                "expanded_url": "https://tfl.gov.uk/tube/route/victoria/",
+                "start": 0,
+                "url": "https://t.co/O8fBywpcGi"
+              }
+            ]
+          }
+        },
+        "id": "1754494415152766976",
+        "location": "沙坪坝",
+        "name": "精神Nagi🥥",
+        "pinned_tweet_id": "2024296660231164293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025751628112953344/XNzW1TDY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5164,
+          "following_count": 2237,
+          "like_count": 23075,
+          "listed_count": 7,
+          "media_count": 1988,
+          "tweet_count": 19499
+        },
+        "url": "https://t.co/O8fBywpcGi",
+        "username": "NagiExpress",
+        "verified": false
+      }
+    ]
+  }
+}

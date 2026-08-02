@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1810570297437020160",
+    "conversation_id": "2059732043416916252",
+    "created_at": "2026-05-28T04:03:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T05:03:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059848047346217015"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2059848047346217015",
+    "in_reply_to_user_id": "1810570297437020160",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059732043416916252",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "木木雨你赢了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1810570297437020160",
+        "conversation_id": "2059732043416916252",
+        "created_at": "2026-05-28T04:03:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T05:03:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059848047346217015"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059848047346217015",
+        "in_reply_to_user_id": "1810570297437020160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059732043416916252",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "木木雨你赢了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1810570297437020160",
+        "conversation_id": "2059732043416916252",
+        "created_at": "2026-05-27T20:22:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T21:22:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059732043416916252"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 3,
+              "start": 0,
+              "tag": "名媛"
+            },
+            {
+              "end": 7,
+              "start": 4,
+              "tag": "羞辱"
+            },
+            {
+              "end": 11,
+              "start": 8,
+              "tag": "母狗"
+            },
+            {
+              "end": 15,
+              "start": 12,
+              "tag": "母猪"
+            },
+            {
+              "end": 20,
+              "start": 17,
+              "tag": "骚逼"
+            },
+            {
+              "end": 24,
+              "start": 21,
+              "tag": "贱逼"
+            },
+            {
+              "end": 28,
+              "start": 25,
+              "tag": "妓女"
+            },
+            {
+              "end": 32,
+              "start": 29,
+              "tag": "精盆"
+            },
+            {
+              "end": 37,
+              "start": 33,
+              "tag": "肉便器"
+            },
+            {
+              "end": 41,
+              "start": 38,
+              "tag": "自毁"
+            },
+            {
+              "end": 46,
+              "start": 43,
+              "tag": "社死"
+            },
+            {
+              "end": 50,
+              "start": 47,
+              "tag": "女权"
+            },
+            {
+              "end": 54,
+              "start": 51,
+              "tag": "傻逼"
+            },
+            {
+              "end": 58,
+              "start": 55,
+              "tag": "丧志"
+            },
+            {
+              "end": 62,
+              "start": 59,
+              "tag": "犯贱"
+            },
+            {
+              "end": 66,
+              "start": 63,
+              "tag": "爆耍"
+            },
+            {
+              "end": 70,
+              "start": 67,
+              "tag": "性奴"
+            },
+            {
+              "end": 74,
+              "start": 71,
+              "tag": "母畜"
+            },
+            {
+              "end": 78,
+              "start": 75,
+              "tag": "自毁"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059732043416916252",
+        "lang": "qht",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 318,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "#名媛 #羞辱 #母狗 #母猪  #骚逼 #贱逼 #妓女 #精盆 #肉便器 #自毁  #社死 #女权 #傻逼 #丧志 #犯贱 #爆耍 #性奴 #母畜 #自毁"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-09T07:03:02.000Z",
+        "description": "- ✰*🔮✩👾✰*💜✩-\n生活在互聯網！我是低齡唐逼大傻福，十分抱歉！\n宇宙級嚴重嗜睡\nintp-t/🇨🇳建制左/社會自由主義\n黑色長條生物：@Kuromi_ooooo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 71,
+                "username": "Kuromi_ooooo"
+              }
+            ]
+          }
+        },
+        "id": "1810570297437020160",
+        "location": "精神衛生中心",
+        "name": "spring风＃星宿四/三周目版",
+        "pinned_tweet_id": "2053483960211214638",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024747915840016390/eLTLiD4Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 225,
+          "following_count": 167,
+          "like_count": 470,
+          "listed_count": 1,
+          "media_count": 70,
+          "tweet_count": 1085
+        },
+        "username": "ace31ch",
+        "verified": false
+      }
+    ]
+  }
+}

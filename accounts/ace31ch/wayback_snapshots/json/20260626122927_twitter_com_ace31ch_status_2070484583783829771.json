@@ -1,0 +1,304 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2070368716282609664"
+      ],
+      "media_source_tweet_id": [
+        "2070368723475841354"
+      ]
+    },
+    "author_id": "1810570297437020160",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      }
+    ],
+    "conversation_id": "2070484583783829771",
+    "created_at": "2026-06-26T12:29:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T13:29:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070484583783829771"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2041449281677045760",
+          "start": 3,
+          "username": "Sorcerer1311"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ooMvv2xI6o",
+          "end": 98,
+          "expanded_url": "https://x.com/Sorcerer1311/status/2070368723475841354/photo/1",
+          "media_key": "3_2070368716282609664",
+          "start": 75,
+          "url": "https://t.co/ooMvv2xI6o"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070484583783829771",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070368723475841354",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Sorcerer1311: 6月26日是第39个国际禁毒日。国家禁毒办提醒您：滥用麻精药品就是吸毒。你我参与，拒绝滥用，守护未来，健康人生。 https://t.co/ooMvv2xI6o"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 500,
+        "media_key": "3_2070368716282609664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLttYNAbQAAojU4.jpg",
+        "width": 750
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070368716282609664"
+          ],
+          "media_source_tweet_id": [
+            "2070368723475841354"
+          ]
+        },
+        "author_id": "1810570297437020160",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2070484583783829771",
+        "created_at": "2026-06-26T12:29:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T13:29:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070484583783829771"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2041449281677045760",
+              "start": 3,
+              "username": "Sorcerer1311"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ooMvv2xI6o",
+              "end": 98,
+              "expanded_url": "https://x.com/Sorcerer1311/status/2070368723475841354/photo/1",
+              "media_key": "3_2070368716282609664",
+              "start": 75,
+              "url": "https://t.co/ooMvv2xI6o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070484583783829771",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070368723475841354",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Sorcerer1311: 6月26日是第39个国际禁毒日。国家禁毒办提醒您：滥用麻精药品就是吸毒。你我参与，拒绝滥用，守护未来，健康人生。 https://t.co/ooMvv2xI6o"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070368716282609664"
+          ]
+        },
+        "author_id": "2041449281677045760",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2070368723475841354",
+        "created_at": "2026-06-26T04:49:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T05:49:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070368723475841354"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ooMvv2xI6o",
+              "end": 80,
+              "expanded_url": "https://x.com/Sorcerer1311/status/2070368723475841354/photo/1",
+              "media_key": "3_2070368716282609664",
+              "start": 57,
+              "url": "https://t.co/ooMvv2xI6o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070368723475841354",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 147,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "6月26日是第39个国际禁毒日。国家禁毒办提醒您：滥用麻精药品就是吸毒。你我参与，拒绝滥用，守护未来，健康人生。 https://t.co/ooMvv2xI6o"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-09T07:03:02.000Z",
+        "description": "- ✰*🔮✩👾✰*💜✩-\n生活在互聯網！我是低齡唐逼大傻福，十分抱歉！\n宇宙級嚴重嗜睡\nintp-t/🇨🇳建制左/社會自由主義/民主社會主義\n黑色長條生物：@Shivam3228",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 78,
+                "username": "Shivam3228"
+              }
+            ]
+          }
+        },
+        "id": "1810570297437020160",
+        "location": "精神衛生中心",
+        "name": "spring风＃星宿四/三周目版",
+        "pinned_tweet_id": "2053483960211214638",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024747915840016390/eLTLiD4Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 233,
+          "following_count": 176,
+          "like_count": 612,
+          "listed_count": 1,
+          "media_count": 81,
+          "tweet_count": 1168
+        },
+        "url": "",
+        "username": "ace31ch",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世被击落， 互fo寻回中｜ 06 ｜ enby/MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sorcerer15803",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sorcerer15803",
+                "start": 0,
+                "url": "https://t.co/e5gRezje76"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041452438411227136/lEeNP37m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 883,
+          "following_count": 856,
+          "like_count": 1536,
+          "listed_count": 2,
+          "media_count": 373,
+          "tweet_count": 2747
+        },
+        "url": "https://t.co/e5gRezje76",
+        "username": "Sorcerer1311",
+        "verified": false
+      }
+    ]
+  }
+}

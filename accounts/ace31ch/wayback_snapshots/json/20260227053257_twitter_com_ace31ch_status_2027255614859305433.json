@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1810570297437020160",
+    "conversation_id": "2027255614859305433",
+    "created_at": "2026-02-27T05:32:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T06:32:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027255614859305433"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2024791258993164289",
+          "start": 3,
+          "username": "zuo837"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027255614859305433",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027069952696758780",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @zuo837: 明天将是我的14岁生日，我将服用pr80庆祝，想起来，13岁生日还是在戒网瘾学校过的，这一年发生了很多事，比如二进宫，杀人未遂，辍学，但我现在很开心，我现在也有收入，也有糖吃，有饭，有床睡觉，这是最好的时候吧……虽然我出不去门，但是可以啦！ https:…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 922,
+        "media_key": "3_2027069945067253760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCGZYAqasAARkz4.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1810570297437020160",
+        "conversation_id": "2027255614859305433",
+        "created_at": "2026-02-27T05:32:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T06:32:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027255614859305433"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2024791258993164289",
+              "start": 3,
+              "username": "zuo837"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027255614859305433",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027069952696758780",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @zuo837: 明天将是我的14岁生日，我将服用pr80庆祝，想起来，13岁生日还是在戒网瘾学校过的，这一年发生了很多事，比如二进宫，杀人未遂，辍学，但我现在很开心，我现在也有收入，也有糖吃，有饭，有床睡觉，这是最好的时候吧……虽然我出不去门，但是可以啦！ https:…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027069945067253760"
+          ]
+        },
+        "author_id": "2024791258993164289",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2027069952696758780",
+        "created_at": "2026-02-26T17:15:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T18:15:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027069952696758780"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/F5FzRG5zl3",
+              "end": 144,
+              "expanded_url": "https://x.com/zuo837/status/2027069952696758780/photo/1",
+              "media_key": "3_2027069945067253760",
+              "start": 121,
+              "url": "https://t.co/F5FzRG5zl3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027069952696758780",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1958,
+          "like_count": 12,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "明天将是我的14岁生日，我将服用pr80庆祝，想起来，13岁生日还是在戒网瘾学校过的，这一年发生了很多事，比如二进宫，杀人未遂，辍学，但我现在很开心，我现在也有收入，也有糖吃，有饭，有床睡觉，这是最好的时候吧……虽然我出不去门，但是可以啦！ https://t.co/F5FzRG5zl3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-09T07:03:02.000Z",
+        "description": "od wiki没有活着的传奇",
+        "id": "1810570297437020160",
+        "location": "山东省精神卫生中心",
+        "name": "spring风＃星宿四/三周目版",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024747915840016390/eLTLiD4Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 45,
+          "like_count": 63,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 224
+        },
+        "username": "ace31ch",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-20T10:20:38.000Z",
+        "description": "生日2012.02.28\nhrt 2024.09.27\n一名overdose研究者\ntg@wmphy896\nqq3938678392\n请添加我的新qq号，向我私聊，以获取最新的药物价格，所有药物已经降价（真的降很多，可怜可怜孩子，买点吧😭）",
+        "id": "2024791258993164289",
+        "name": "錳酸鉀🍥糖商（18小時在線?",
+        "pinned_tweet_id": "2027069952696758780",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024792727897202688/WWsetyri_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 133,
+          "following_count": 353,
+          "like_count": 78,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 73
+        },
+        "username": "zuo837",
+        "verified": false
+      }
+    ]
+  }
+}

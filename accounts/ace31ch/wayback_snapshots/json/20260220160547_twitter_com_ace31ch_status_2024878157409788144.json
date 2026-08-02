@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1810570297437020160",
+    "conversation_id": "2024878157409788144",
+    "created_at": "2026-02-20T16:05:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-20T17:05:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2024878157409788144"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/transman_meme/…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/transman_meme/status/2020872817131299165",
+          "start": 3,
+          "url": "https://t.co/QDvZys235v"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024878157409788144",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020872817131299165",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "难绷 https://t.co/QDvZys235v"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2020872094603763712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAuUdodbYAA8b-5.jpg",
+        "width": 932
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1810570297437020160",
+        "conversation_id": "2024878157409788144",
+        "created_at": "2026-02-20T16:05:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T17:05:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024878157409788144"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/transman_meme/…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/transman_meme/status/2020872817131299165",
+              "start": 3,
+              "url": "https://t.co/QDvZys235v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024878157409788144",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020872817131299165",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "难绷 https://t.co/QDvZys235v"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2020872094603763712"
+          ]
+        },
+        "author_id": "1853728008580050944",
+        "conversation_id": "2020872817131299165",
+        "created_at": "2026-02-09T14:50:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T15:50:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020872817131299165"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 3,
+              "start": 0,
+              "tag": "跨男"
+            },
+            {
+              "end": 8,
+              "start": 4,
+              "tag": "ftm"
+            },
+            {
+              "end": 12,
+              "start": 9,
+              "tag": "迷因"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/e1fhpI1M1D",
+              "end": 36,
+              "expanded_url": "https://x.com/transman_meme/status/2020872817131299165/photo/1",
+              "media_key": "3_2020872094603763712",
+              "start": 13,
+              "url": "https://t.co/e1fhpI1M1D"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020872817131299165",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 10341,
+          "like_count": 126,
+          "quote_count": 2,
+          "reply_count": 3,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "#跨男 #ftm #迷因 https://t.co/e1fhpI1M1D"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-09T07:03:02.000Z",
+        "description": "od wiki没有活着的传奇",
+        "id": "1810570297437020160",
+        "name": "spring风＃星宿四/三周目版",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024747915840016390/eLTLiD4Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 14,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 22
+        },
+        "username": "ace31ch",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-05T09:16:18.000Z",
+        "description": "只求共嗚 \n主帳：@RaisoyaX_X（會有非理性及主觀發言 請斟酌）\n棉花糖：https://t.co/BxL63AFAPE",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 9,
+                "username": "RaisoyaX_X"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/v985ssw9pk6p7m…",
+                "end": 64,
+                "expanded_url": "https://marshmallow-qa.com/v985ssw9pk6p7my?t=ajwEqv&utm_medium=url_text&utm_source=promotion",
+                "start": 41,
+                "url": "https://t.co/BxL63AFAPE"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/transm…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/transmanmeme.bsky.social",
+                "start": 0,
+                "url": "https://t.co/mRidPau6T7"
+              }
+            ]
+          }
+        },
+        "id": "1853728008580050944",
+        "name": "跨男迷因",
+        "pinned_tweet_id": "1945538139894026576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1939723306653097984/CGtjuE-y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 707,
+          "following_count": 105,
+          "like_count": 748,
+          "listed_count": 2,
+          "media_count": 281,
+          "tweet_count": 621
+        },
+        "url": "https://t.co/mRidPau6T7",
+        "username": "transman_meme",
+        "verified": false
+      }
+    ]
+  }
+}

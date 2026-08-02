@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1810570297437020160",
+    "conversation_id": "2035358845359501507",
+    "created_at": "2026-03-22T05:04:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-22T06:04:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035583370378506402"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1662500093717774337",
+          "start": 0,
+          "username": "not_a_jks"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035583370378506402",
+    "in_reply_to_user_id": "1662500093717774337",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035358845359501507",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@not_a_jks 除了在男同社区还能在四爱社区找到，但在绳圈内基本不会出现（，我觉得应该是不喜欢纯束缚"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1810570297437020160",
+        "conversation_id": "2035358845359501507",
+        "created_at": "2026-03-22T05:04:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T06:04:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035583370378506402"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1662500093717774337",
+              "start": 0,
+              "username": "not_a_jks"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035583370378506402",
+        "in_reply_to_user_id": "1662500093717774337",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035358845359501507",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@not_a_jks 除了在男同社区还能在四爱社区找到，但在绳圈内基本不会出现（，我觉得应该是不喜欢纯束缚"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1662500093717774337",
+        "conversation_id": "2035358845359501507",
+        "created_at": "2026-03-21T14:12:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-21T15:12:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035358845359501507"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2035358845359501507",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 14227,
+          "like_count": 88,
+          "quote_count": 2,
+          "reply_count": 22,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我发现很长时间以来不管线下绳屋活动还是刷推，见到的在绳圈有能见度的被缚只有姑娘和男娘，好像被缚只能是女性性别呈现。\n是不是我信息茧房了？\n朋友们有反例可以给我推推，来破一下我的信息茧房。要满足：1.有绳圈能见度(只私下偶尔被绑过or不在公共空间发表不算)，2.非女性性别表达（自己说了算就行"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-09T07:03:02.000Z",
+        "description": "od wiki没有活着的传奇",
+        "id": "1810570297437020160",
+        "location": "山东省精神卫生中心",
+        "name": "spring风＃星宿四/三周目版",
+        "pinned_tweet_id": "2032809726925484190",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024747915840016390/eLTLiD4Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79,
+          "following_count": 78,
+          "like_count": 144,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 523
+        },
+        "username": "ace31ch",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-27T16:44:54.000Z",
+        "description": "喜欢绳子/清水/被缚/缚手/泛性/agender/ADHD/DJ/讨厌性缘脑/不关注黄推/看黄勿关/本体@entangled_pair/如果需要互关请直接和我讲",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 52,
+                "username": "entangled_pair"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/quirkyjelly",
+                "end": 23,
+                "expanded_url": "https://t.me/quirkyjelly",
+                "start": 0,
+                "url": "https://t.co/Q6OSk6GVrT"
+              }
+            ]
+          }
+        },
+        "id": "1662500093717774337",
+        "location": "Shenzhen",
+        "name": "JK is just kidding",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942400414827122689/Z_N0wp2P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1173,
+          "following_count": 177,
+          "like_count": 1921,
+          "listed_count": 6,
+          "media_count": 47,
+          "tweet_count": 142
+        },
+        "url": "https://t.co/Q6OSk6GVrT",
+        "username": "not_a_jks",
+        "verified": false
+      }
+    ]
+  }
+}

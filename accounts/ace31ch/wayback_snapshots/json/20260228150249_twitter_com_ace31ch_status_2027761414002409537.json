@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1810570297437020160",
+    "conversation_id": "2027439169396740336",
+    "created_at": "2026-02-28T15:02:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-28T16:02:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027761414002409537"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1795785939438215168",
+          "start": 0,
+          "username": "EMeowSys"
+        },
+        {
+          "end": 19,
+          "id": "1601893417549967360",
+          "start": 10,
+          "username": "AcboxLiu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027761414002409537",
+    "in_reply_to_user_id": "1795785939438215168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027457190844616707",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@EMeowSys @AcboxLiu 不准养同类"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1810570297437020160",
+        "conversation_id": "2027439169396740336",
+        "created_at": "2026-02-28T15:02:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T16:02:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027761414002409537"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1795785939438215168",
+              "start": 0,
+              "username": "EMeowSys"
+            },
+            {
+              "end": 19,
+              "id": "1601893417549967360",
+              "start": 10,
+              "username": "AcboxLiu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027761414002409537",
+        "in_reply_to_user_id": "1795785939438215168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027457190844616707",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EMeowSys @AcboxLiu 不准养同类"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1795785939438215168",
+        "conversation_id": "2027439169396740336",
+        "created_at": "2026-02-27T18:53:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T19:53:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027457190844616707"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1601893417549967360",
+              "start": 0,
+              "username": "AcboxLiu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027457190844616707",
+        "in_reply_to_user_id": "1601893417549967360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 143,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027439169396740336",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AcboxLiu 猫。。。。想养一只小猫"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-09T07:03:02.000Z",
+        "description": "od wiki没有活着的传奇",
+        "id": "1810570297437020160",
+        "location": "山东省精神卫生中心",
+        "name": "spring风＃星宿四/三周目版",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024747915840016390/eLTLiD4Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 49,
+          "like_count": 69,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 270
+        },
+        "username": "ace31ch",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-29T11:55:18.000Z",
+        "description": "这里易喵系统/末影猫/BG5CYK\n自发型/创伤型多意识体\nCN/EN/JP学习中\n社交渴望\n墙内活跃\n二次元/业余无线电/轨道交通/程序设计/Minecraft\n友跨顺女",
+        "id": "1795785939438215168",
+        "location": "虚空中的易喵系统",
+        "name": "易喵系统(末影猫Project)",
+        "pinned_tweet_id": "1968195420506771945",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1795786104316272640/IXVNkPY1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1239,
+          "following_count": 2705,
+          "like_count": 10472,
+          "listed_count": 5,
+          "media_count": 416,
+          "tweet_count": 4940
+        },
+        "username": "EMeowSys",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-11T10:55:41.000Z",
+        "description": "📦活跃在互联网的神秘箱子/推特当朋友圈发/搞开发的/building @memoh_ai /🐱大猫：@Dustella_Chan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 35,
+                "username": "memoh_ai"
+              },
+              {
+                "end": 64,
+                "start": 50,
+                "username": "Dustella_Chan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/sheepbox8646",
+                "end": 23,
+                "expanded_url": "https://github.com/sheepbox8646",
+                "start": 0,
+                "url": "https://t.co/mRP5RDvKAZ"
+              }
+            ]
+          }
+        },
+        "id": "1601893417549967360",
+        "name": "📦Acbox",
+        "pinned_tweet_id": "2023275489155268769",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000629929281810432/W3tlGjqs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11128,
+          "following_count": 3024,
+          "like_count": 3132,
+          "listed_count": 49,
+          "media_count": 1266,
+          "tweet_count": 6521
+        },
+        "url": "https://t.co/mRP5RDvKAZ",
+        "username": "AcboxLiu",
+        "verified": true
+      }
+    ]
+  }
+}

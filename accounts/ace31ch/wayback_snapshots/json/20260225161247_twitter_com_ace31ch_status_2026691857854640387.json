@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1810570297437020160",
+    "conversation_id": "2026609456830898491",
+    "created_at": "2026-02-25T16:12:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-25T17:12:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026691857854640387"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1676572709742944259",
+          "start": 0,
+          "username": "Technology80420"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026691857854640387",
+    "in_reply_to_user_id": "1676572709742944259",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026609456830898491",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Technology80420 我们这干休所还有卖的啊（）可能地方不一样（（"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2026609422685057028",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB_2iFGaMAQuX_j.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2026609422680862723",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB_2iFFaMAMX4Nl.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1810570297437020160",
+        "conversation_id": "2026609456830898491",
+        "created_at": "2026-02-25T16:12:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T17:12:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026691857854640387"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1676572709742944259",
+              "start": 0,
+              "username": "Technology80420"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026691857854640387",
+        "in_reply_to_user_id": "1676572709742944259",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026609456830898491",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Technology80420 我们这干休所还有卖的啊（）可能地方不一样（（"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026609422685057028",
+            "3_2026609422680862723"
+          ]
+        },
+        "author_id": "1676572709742944259",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2026609456830898491",
+        "created_at": "2026-02-25T10:45:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T11:45:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026609456830898491"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Z5WFH62uA4",
+              "end": 40,
+              "expanded_url": "https://x.com/Technology80420/status/2026609456830898491/photo/1",
+              "media_key": "3_2026609422685057028",
+              "start": 17,
+              "url": "https://t.co/Z5WFH62uA4"
+            },
+            {
+              "display_url": "pic.x.com/Z5WFH62uA4",
+              "end": 40,
+              "expanded_url": "https://x.com/Technology80420/status/2026609456830898491/photo/1",
+              "media_key": "3_2026609422680862723",
+              "start": 17,
+              "url": "https://t.co/Z5WFH62uA4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026609456830898491",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1214,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不是军区超市不卖粉色魔爪了？？？ https://t.co/Z5WFH62uA4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-09T07:03:02.000Z",
+        "description": "od wiki没有活着的传奇",
+        "id": "1810570297437020160",
+        "location": "山东省精神卫生中心",
+        "name": "spring风＃星宿四/三周目版",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024747915840016390/eLTLiD4Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 39,
+          "like_count": 59,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 190
+        },
+        "username": "ace31ch",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-05T12:44:33.000Z",
+        "description": "业余摄影师 she/her",
+        "id": "1676572709742944259",
+        "location": "地球",
+        "name": "TechnologyMatrix科技矩阵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1676575730111598595/d9Z8YgeB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 481,
+          "following_count": 1981,
+          "like_count": 62023,
+          "listed_count": 1,
+          "media_count": 257,
+          "tweet_count": 4078
+        },
+        "username": "Technology80420",
+        "verified": false
+      }
+    ]
+  }
+}

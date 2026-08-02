@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1810570297437020160",
+    "conversation_id": "2053156108764950821",
+    "created_at": "2026-05-09T16:52:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T17:52:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2053156108764950821"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/satireorcry1/s…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/satireorcry1/status/2053005362979016987",
+          "start": 7,
+          "url": "https://t.co/gFGl0b0tgs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053156108764950821",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053005362979016987",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "恋足癖你赢了 https://t.co/gFGl0b0tgs"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 980,
+        "media_key": "3_2053005359309012992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH29fzuWQAAJZ92.jpg",
+        "width": 493
+      },
+      {
+        "height": 991,
+        "media_key": "3_2053005359334199303",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH29fz0WkAcLluy.jpg",
+        "width": 494
+      },
+      {
+        "height": 996,
+        "media_key": "3_2053005359325868037",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH29fzyXcAUh524.jpg",
+        "width": 495
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1810570297437020160",
+        "conversation_id": "2053156108764950821",
+        "created_at": "2026-05-09T16:52:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T17:52:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053156108764950821"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/satireorcry1/s…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/satireorcry1/status/2053005362979016987",
+              "start": 7,
+              "url": "https://t.co/gFGl0b0tgs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053156108764950821",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053005362979016987",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "恋足癖你赢了 https://t.co/gFGl0b0tgs"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053005359309012992",
+            "3_2053005359334199303",
+            "3_2053005359325868037"
+          ]
+        },
+        "author_id": "1993455710274043905",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2053005362979016987",
+        "created_at": "2026-05-09T06:53:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T07:53:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053005362979016987"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qJIccI5Gv6",
+              "end": 63,
+              "expanded_url": "https://x.com/satireorcry1/status/2053005362979016987/photo/1",
+              "media_key": "3_2053005359309012992",
+              "start": 40,
+              "url": "https://t.co/qJIccI5Gv6"
+            },
+            {
+              "display_url": "pic.x.com/qJIccI5Gv6",
+              "end": 63,
+              "expanded_url": "https://x.com/satireorcry1/status/2053005362979016987/photo/1",
+              "media_key": "3_2053005359334199303",
+              "start": 40,
+              "url": "https://t.co/qJIccI5Gv6"
+            },
+            {
+              "display_url": "pic.x.com/qJIccI5Gv6",
+              "end": 63,
+              "expanded_url": "https://x.com/satireorcry1/status/2053005362979016987/photo/1",
+              "media_key": "3_2053005359325868037",
+              "start": 40,
+              "url": "https://t.co/qJIccI5Gv6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053005362979016987",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 139,
+          "impression_count": 289753,
+          "like_count": 589,
+          "quote_count": 5,
+          "reply_count": 351,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "小心！\n现在诡计多端的恋足癖人士用女账号在闲鱼上买女鞋，然后骗取你的脚部照片！ https://t.co/qJIccI5Gv6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-09T07:03:02.000Z",
+        "description": "不发帖就是VPN炸了\n- ✰*🎀ੈ✩🍥✰*💗ੈ✩-\n生活在互联网！我是低龄糖逼大傻福，十分抱歉！\n宇宙级严重嗜睡",
+        "id": "1810570297437020160",
+        "location": "山东省精神卫生中心",
+        "name": "spring风＃星宿四/三周目版",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024747915840016390/eLTLiD4Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 152,
+          "following_count": 106,
+          "like_count": 246,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 754
+        },
+        "username": "ace31ch",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-25T23:04:21.000Z",
+        "description": "专注梗图制作20年。 Professional meme maker for 20 years.\n\n欢迎商业洽谈，请用邮箱联系：furinana.x.com@gmail.com",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/furinanaX",
+                "end": 23,
+                "expanded_url": "https://t.me/furinanaX",
+                "start": 0,
+                "url": "https://t.co/EYxWvofvi1"
+              }
+            ]
+          }
+        },
+        "id": "1993455710274043905",
+        "location": "12 Millbank, London, SW1P 4QE",
+        "name": "芙宁娜娜💙Furinana (王者归来版）",
+        "pinned_tweet_id": "2038163914714660961",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005923449881972736/kaKnegOz_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27705,
+          "following_count": 1573,
+          "like_count": 16609,
+          "listed_count": 64,
+          "media_count": 3459,
+          "tweet_count": 4957
+        },
+        "url": "https://t.co/EYxWvofvi1",
+        "username": "satireorcry1",
+        "verified": true
+      }
+    ]
+  }
+}

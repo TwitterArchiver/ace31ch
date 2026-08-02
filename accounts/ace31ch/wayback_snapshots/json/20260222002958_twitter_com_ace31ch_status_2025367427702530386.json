@@ -1,0 +1,132 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2025367424913264640"
+      ]
+    },
+    "author_id": "1810570297437020160",
+    "conversation_id": "2025367427702530386",
+    "created_at": "2026-02-22T00:29:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-22T01:29:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2025367427702530386"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ozqXZhZV4P",
+          "end": 49,
+          "expanded_url": "https://x.com/ace31ch/status/2025367427702530386/photo/1",
+          "media_key": "3_2025367424913264640",
+          "start": 26,
+          "url": "https://t.co/ozqXZhZV4P"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025367427702530386",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "前往环球影城.ing\n实话说我要坐4个小时的车（摊 https://t.co/ozqXZhZV4P"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2025367424913264640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBuM8S2aUAATz1n.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025367424913264640"
+          ]
+        },
+        "author_id": "1810570297437020160",
+        "conversation_id": "2025367427702530386",
+        "created_at": "2026-02-22T00:29:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T01:29:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025367427702530386"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ozqXZhZV4P",
+              "end": 49,
+              "expanded_url": "https://x.com/ace31ch/status/2025367427702530386/photo/1",
+              "media_key": "3_2025367424913264640",
+              "start": 26,
+              "url": "https://t.co/ozqXZhZV4P"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025367427702530386",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "前往环球影城.ing\n实话说我要坐4个小时的车（摊 https://t.co/ozqXZhZV4P"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-09T07:03:02.000Z",
+        "description": "od wiki没有活着的传奇",
+        "id": "1810570297437020160",
+        "name": "spring风＃星宿四/三周目版",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024747915840016390/eLTLiD4Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 24,
+          "like_count": 12,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 83
+        },
+        "username": "ace31ch",
+        "verified": false
+      }
+    ]
+  }
+}

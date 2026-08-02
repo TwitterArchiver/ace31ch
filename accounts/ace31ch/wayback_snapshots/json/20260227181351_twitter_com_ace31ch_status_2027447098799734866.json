@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1810570297437020160",
+    "conversation_id": "2027287902506414309",
+    "created_at": "2026-02-27T18:13:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T19:13:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027447098799734866"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1900779585832210432",
+          "start": 0,
+          "username": "71y11Qy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027447098799734866",
+    "in_reply_to_user_id": "1900779585832210432",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027287902506414309",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@71y11Qy 这都不会的是神人了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 572,
+        "media_key": "3_2027287891701866496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCJfmLJXIAAG-LG.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1810570297437020160",
+        "conversation_id": "2027287902506414309",
+        "created_at": "2026-02-27T18:13:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T19:13:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027447098799734866"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1900779585832210432",
+              "start": 0,
+              "username": "71y11Qy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027447098799734866",
+        "in_reply_to_user_id": "1900779585832210432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027287902506414309",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@71y11Qy 这都不会的是神人了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027287891701866496"
+          ]
+        },
+        "author_id": "1900779585832210432",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2027287902506414309",
+        "created_at": "2026-02-27T07:41:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T08:41:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027287902506414309"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KqLCtAc1yD",
+              "end": 25,
+              "expanded_url": "https://x.com/77771Yyy/status/2027287902506414309/photo/1",
+              "media_key": "3_2027287891701866496",
+              "start": 2,
+              "url": "https://t.co/KqLCtAc1yD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027287902506414309",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 567,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "？ https://t.co/KqLCtAc1yD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-09T07:03:02.000Z",
+        "description": "od wiki没有活着的传奇",
+        "id": "1810570297437020160",
+        "location": "山东省精神卫生中心",
+        "name": "spring风＃星宿四/三周目版",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024747915840016390/eLTLiD4Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 47,
+          "like_count": 67,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 255
+        },
+        "username": "ace31ch",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-15T05:22:37.000Z",
+        "description": "🚪纯绿52/88/坐标10｜只对部分人感兴趣｜餐券 od 负能 自伤｜同类互fo｜漏了可以私信我 我很好相处 喜欢有礼貌的人 大部分时间在学校请等等我…",
+        "id": "1900779585832210432",
+        "name": "71",
+        "pinned_tweet_id": "2022208733133320205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976968577891659776/czXAeT_t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 300,
+          "following_count": 222,
+          "like_count": 2744,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 1380
+        },
+        "username": "71y11Qy",
+        "verified": false
+      }
+    ]
+  }
+}

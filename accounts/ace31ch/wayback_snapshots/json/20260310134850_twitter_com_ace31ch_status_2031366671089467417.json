@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1810570297437020160",
+    "conversation_id": "2031251764008333681",
+    "created_at": "2026-03-10T13:48:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-10T14:48:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031366671089467417"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1916817753635426304",
+          "start": 0,
+          "username": "Goldwater8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031366671089467417",
+    "in_reply_to_user_id": "1916817753635426304",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031251764008333681",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Goldwater8964 不如原神"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1810570297437020160",
+        "conversation_id": "2031251764008333681",
+        "created_at": "2026-03-10T13:48:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T14:48:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031366671089467417"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1916817753635426304",
+              "start": 0,
+              "username": "Goldwater8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031366671089467417",
+        "in_reply_to_user_id": "1916817753635426304",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031251764008333681",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Goldwater8964 不如原神"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1916817753635426304",
+        "conversation_id": "2031251764008333681",
+        "created_at": "2026-03-10T06:12:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T07:12:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031251764008333681"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/emovooooo/stat…",
+              "end": 145,
+              "expanded_url": "https://twitter.com/emovooooo/status/2031075335652220940",
+              "start": 122,
+              "url": "https://t.co/ljPOYmZO3N"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031251764008333681",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 602,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031075335652220940",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我是很支持禁毒战争的，里根就很支持嘛，你有病就去看，中国医院等位现象没那么严重，而且还便宜。学习压力大，不想学就摆烂，我认识不少混的入活的也不错，打台球抽烟喝酒崩鬼火，也没天天自残割手跳楼。你磕药图个啥，不如去急头白脸开几局暗区突围。\n🤣🤣🤣 https://t.co/ljPOYmZO3N"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-09T07:03:02.000Z",
+        "description": "od wiki没有活着的传奇",
+        "id": "1810570297437020160",
+        "location": "山东省精神卫生中心",
+        "name": "spring风＃星宿四/三周目版",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024747915840016390/eLTLiD4Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 56,
+          "like_count": 89,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 372
+        },
+        "username": "ace31ch",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-28T11:32:29.000Z",
+        "description": "悉尼之鼠🦘 全网最自由的space—上麦判断认知学历 绝对的右派分子 🚪138/1998/19998 支持加密和外币",
+        "id": "1916817753635426304",
+        "location": "Auckland Region, New Zealand",
+        "name": "Friedrich🇳🇿🇦🇺",
+        "pinned_tweet_id": "2029126357465350502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018364510457749504/B0j0ySjd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 708,
+          "following_count": 624,
+          "like_count": 3434,
+          "listed_count": 3,
+          "media_count": 96,
+          "tweet_count": 642
+        },
+        "username": "Goldwater8964",
+        "verified": true
+      }
+    ]
+  }
+}

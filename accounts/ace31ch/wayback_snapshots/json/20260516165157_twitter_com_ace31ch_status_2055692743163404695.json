@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1810570297437020160",
+    "conversation_id": "2055692743163404695",
+    "created_at": "2026-05-16T16:51:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T17:51:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2055692743163404695"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/NPC888666/stat…",
+          "end": 81,
+          "expanded_url": "https://twitter.com/NPC888666/status/2055452082556268669",
+          "start": 58,
+          "url": "https://t.co/Spcl1GAIqQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055692743163404695",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055452082556268669",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这是避税的办法，因为微信个人年收入到达一定量就要交税，我爸妈也干过这种事但我提议换成我的二维码的时候父母拒绝了（） https://t.co/Spcl1GAIqQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1548,
+        "media_key": "3_2055452068937428992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIZuxDXbcAA-ry-.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1810570297437020160",
+        "conversation_id": "2055692743163404695",
+        "created_at": "2026-05-16T16:51:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T17:51:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055692743163404695"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/NPC888666/stat…",
+              "end": 81,
+              "expanded_url": "https://twitter.com/NPC888666/status/2055452082556268669",
+              "start": 58,
+              "url": "https://t.co/Spcl1GAIqQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055692743163404695",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055452082556268669",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这是避税的办法，因为微信个人年收入到达一定量就要交税，我爸妈也干过这种事但我提议换成我的二维码的时候父母拒绝了（） https://t.co/Spcl1GAIqQ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055452068937428992"
+          ]
+        },
+        "author_id": "1620328547847110656",
+        "conversation_id": "2055452082556268669",
+        "created_at": "2026-05-16T00:55:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T01:55:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055452082556268669"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0ZCF07DSVy",
+              "end": 37,
+              "expanded_url": "https://x.com/NPC888666/status/2055452082556268669/photo/1",
+              "media_key": "3_2055452068937428992",
+              "start": 14,
+              "url": "https://t.co/0ZCF07DSVy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055452082556268669",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 19,
+          "impression_count": 74299,
+          "like_count": 820,
+          "quote_count": 1,
+          "reply_count": 96,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "哈哈哈，在学生眼中可是巨款 https://t.co/0ZCF07DSVy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-09T07:03:02.000Z",
+        "description": "不发帖就是VPN炸了\n- ✰*🎀ੈ✩👾✰*💗ੈ✩-\n生活在互联网！我是低龄糖逼大傻福，十分抱歉！\n宇宙级严重嗜睡\nintp-t/🇨🇳建制左/社会自由主义/心理学一窍不通",
+        "id": "1810570297437020160",
+        "location": "山东省精神卫生中心",
+        "name": "spring风＃星宿四/三周目版",
+        "pinned_tweet_id": "2053483960211214638",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024747915840016390/eLTLiD4Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 180,
+          "following_count": 144,
+          "like_count": 294,
+          "listed_count": 1,
+          "media_count": 47,
+          "tweet_count": 901
+        },
+        "username": "ace31ch",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-31T07:50:10.000Z",
+        "description": "我喜欢讲故事和分享一些感悟，主打一个真实，不虚伪。 一个普通散户 不是KOL。",
+        "id": "1620328547847110656",
+        "name": "有故事的NPC",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897867547439251457/CcDVFS1A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43254,
+          "following_count": 1322,
+          "like_count": 7242,
+          "listed_count": 247,
+          "media_count": 1130,
+          "tweet_count": 7602
+        },
+        "username": "NPC888666",
+        "verified": true
+      }
+    ]
+  }
+}

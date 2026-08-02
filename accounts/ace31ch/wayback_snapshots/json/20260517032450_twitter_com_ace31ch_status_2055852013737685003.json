@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1810570297437020160",
+    "conversation_id": "2055658365649559874",
+    "created_at": "2026-05-17T03:24:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T04:24:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055852013737685003"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1546075741430751232",
+          "start": 0,
+          "username": "0GaS_Pr0toc0l"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055852013737685003",
+    "in_reply_to_user_id": "1546075741430751232",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055658365649559874",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0GaS_Pr0toc0l 小王其实就是个吉祥物"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1810570297437020160",
+        "conversation_id": "2055658365649559874",
+        "created_at": "2026-05-17T03:24:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T04:24:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055852013737685003"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1546075741430751232",
+              "start": 0,
+              "username": "0GaS_Pr0toc0l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055852013737685003",
+        "in_reply_to_user_id": "1546075741430751232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055658365649559874",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0GaS_Pr0toc0l 小王其实就是个吉祥物"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1546075741430751232",
+        "conversation_id": "2055658365649559874",
+        "created_at": "2026-05-16T14:35:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T15:35:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055658365649559874"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/zhngjing322708…",
+              "end": 57,
+              "expanded_url": "https://twitter.com/zhngjing322708/status/2055648907066311130",
+              "start": 34,
+              "url": "https://t.co/QrpLUfHjuH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055658365649559874",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 670,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055648907066311130",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你都文革了还搞那么大一个领导人头像\n还搞个人崇拜\n那我不是白革命了 https://t.co/QrpLUfHjuH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-09T07:03:02.000Z",
+        "description": "不发帖就是VPN炸了\n- ✰*🎀ੈ✩👾✰*💗ੈ✩-\n生活在互联网！我是低龄糖逼大傻福，十分抱歉！\n宇宙级严重嗜睡\nintp-t/🇨🇳建制左/社会自由主义/心理学一窍不通",
+        "id": "1810570297437020160",
+        "location": "山东省精神卫生中心",
+        "name": "spring风＃星宿四/三周目版",
+        "pinned_tweet_id": "2053483960211214638",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024747915840016390/eLTLiD4Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 180,
+          "following_count": 144,
+          "like_count": 300,
+          "listed_count": 1,
+          "media_count": 48,
+          "tweet_count": 913
+        },
+        "username": "ace31ch",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-10T10:16:13.000Z",
+        "description": "🌈 Pansexual | he/them |CN/EN|现在是生活推了，但我会骂所有我看不惯的玩意。二次元/计算机/战雷/猫猫友好",
+        "id": "1546075741430751232",
+        "location": "Jurong West, Singapore",
+        "name": "6Ж1П-ЕВ 🇲🇾🏳️‍⚧️",
+        "pinned_tweet_id": "2055733292327149898",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018773427046539264/L2oVMaOM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1609,
+          "following_count": 1743,
+          "like_count": 19385,
+          "listed_count": 13,
+          "media_count": 714,
+          "tweet_count": 13779
+        },
+        "username": "0GaS_Pr0toc0l",
+        "verified": false
+      }
+    ]
+  }
+}

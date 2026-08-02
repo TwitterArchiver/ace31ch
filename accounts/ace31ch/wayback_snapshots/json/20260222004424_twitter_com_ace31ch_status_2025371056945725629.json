@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1810570297437020160",
+    "conversation_id": "2025256338071454022",
+    "created_at": "2026-02-22T00:44:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-22T01:44:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025371056945725629"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1560444251917647874",
+          "start": 0,
+          "username": "Ymuchi9758013"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025371056945725629",
+    "in_reply_to_user_id": "1560444251917647874",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025256338071454022",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ymuchi9758013 那样的话尸体不好看"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1810570297437020160",
+        "conversation_id": "2025256338071454022",
+        "created_at": "2026-02-22T00:44:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T01:44:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025371056945725629"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1560444251917647874",
+              "start": 0,
+              "username": "Ymuchi9758013"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025371056945725629",
+        "in_reply_to_user_id": "1560444251917647874",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025256338071454022",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ymuchi9758013 那样的话尸体不好看"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1560444251917647874",
+        "conversation_id": "2025256338071454022",
+        "created_at": "2026-02-21T17:08:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T18:08:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025256338071454022"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Im_Just__Girl/…",
+              "end": 116,
+              "expanded_url": "https://twitter.com/Im_Just__Girl/status/2025183514950545720",
+              "start": 93,
+              "url": "https://t.co/aWDoJFBGaj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025256338071454022",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025183514950545720",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "初中时被同学勒过脖子，一开始确实会很痛苦，但过了几秒会有一种非常平静的感觉然后立马昏过去\n后来我自己又试了几遍，发现只要掐住颈动脉几秒钟就会立马晕过去，从那之后我对上吊就没有那么抵触了 https://t.co/aWDoJFBGaj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-09T07:03:02.000Z",
+        "description": "od wiki没有活着的传奇",
+        "id": "1810570297437020160",
+        "name": "spring风＃星宿四/三周目版",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024747915840016390/eLTLiD4Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 24,
+          "like_count": 14,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 88
+        },
+        "username": "ace31ch",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-19T01:51:29.000Z",
+        "description": "But I'm not mad\nI want breakfast",
+        "id": "1560444251917647874",
+        "location": "Shanghai",
+        "name": "遥远的彼方",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975671901470257152/1H0wBlgZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 71,
+          "like_count": 2561,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 644
+        },
+        "username": "Ymuchi9758013",
+        "verified": false
+      }
+    ]
+  }
+}

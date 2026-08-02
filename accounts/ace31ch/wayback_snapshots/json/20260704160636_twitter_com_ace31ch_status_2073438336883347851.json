@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1810570297437020160",
+    "conversation_id": "2073267551996698770",
+    "created_at": "2026-07-04T16:06:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T17:06:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073438336883347851"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2062730121853992960",
+          "start": 0,
+          "username": "ZaKosauce"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073438336883347851",
+    "in_reply_to_user_id": "2062730121853992960",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073437947840655844",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ZaKosauce 法法法"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1810570297437020160",
+        "conversation_id": "2073267551996698770",
+        "created_at": "2026-07-04T16:06:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T17:06:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073438336883347851"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2062730121853992960",
+              "start": 0,
+              "username": "ZaKosauce"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073438336883347851",
+        "in_reply_to_user_id": "2062730121853992960",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073437947840655844",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZaKosauce 法法法"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2062730121853992960",
+        "conversation_id": "2073267551996698770",
+        "created_at": "2026-07-04T16:05:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T17:05:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073437947840655844"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1810570297437020160",
+              "start": 0,
+              "username": "ace31ch"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073437947840655844",
+        "in_reply_to_user_id": "1810570297437020160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073267551996698770",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ace31ch 法外之地😀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-09T07:03:02.000Z",
+        "description": "- ✰*🔮✩👾✰*💜✩-\n生活在互聯網！我是低齡唐逼大傻福，十分抱歉！\n宇宙級嚴重嗜睡\nintp-t/🇨🇳建制左/社會自由主義/民主社會主義\n黑色長條生物：@Shivam3228",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 78,
+                "username": "Shivam3228"
+              }
+            ]
+          }
+        },
+        "id": "1810570297437020160",
+        "location": "精神衛生中心",
+        "name": "spring风＃星宿四/三周目版",
+        "pinned_tweet_id": "2053483960211214638",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024747915840016390/eLTLiD4Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 252,
+          "following_count": 181,
+          "like_count": 647,
+          "listed_count": 1,
+          "media_count": 83,
+          "tweet_count": 1203
+        },
+        "url": "",
+        "username": "ace31ch",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-05T03:00:56.000Z",
+        "description": "Pharmacy student/A newbie artist learning digital drawing/Heavy anime Addict/        🏳️‍⚧️A trans girl on the journey to become herself",
+        "id": "2062730121853992960",
+        "name": "text",
+        "pinned_tweet_id": "2064716240032252389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062731870522200064/XHWoeTrD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 59,
+          "like_count": 93,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 94
+        },
+        "url": "",
+        "username": "ZaKosauce",
+        "verified": true
+      }
+    ]
+  }
+}

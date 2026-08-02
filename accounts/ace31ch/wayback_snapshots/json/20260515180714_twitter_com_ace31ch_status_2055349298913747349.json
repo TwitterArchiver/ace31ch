@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1810570297437020160",
+    "conversation_id": "2055320451916976343",
+    "created_at": "2026-05-15T18:07:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T19:07:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055349298913747349"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1169174984389885952",
+          "start": 0,
+          "username": "Angel_SaveUsAll"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055349298913747349",
+    "in_reply_to_user_id": "1169174984389885952",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055320451916976343",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Angel_SaveUsAll 好棒的生活"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 3251,
+        "height": 1180,
+        "media_key": "13_2055320373525389313",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2055320373525389313/img/W9qHoQpt67gCKSgS.jpg",
+        "public_metrics": {
+          "view_count": 80
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2055320373525389313/vid/avc1/478x360/XJBNEIq3PEHt8KqF.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2055320373525389313/vid/avc1/1572x1180/zEMTWk8KkigwyF-I.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2055320373525389313/vid/avc1/358x270/a4PVfKwEyjGggFsm.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2055320373525389313/vid/avc1/958x720/uNADA4fb1mBQUGaG.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2055320373525389313/pl/OJ2s7TjxkjvjlaaD.m3u8"
+          }
+        ],
+        "width": 1572
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1810570297437020160",
+        "conversation_id": "2055320451916976343",
+        "created_at": "2026-05-15T18:07:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T19:07:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055349298913747349"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1169174984389885952",
+              "start": 0,
+              "username": "Angel_SaveUsAll"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055349298913747349",
+        "in_reply_to_user_id": "1169174984389885952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055320451916976343",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Angel_SaveUsAll 好棒的生活"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2055320373525389313"
+          ]
+        },
+        "author_id": "1169174984389885952",
+        "conversation_id": "2055320451916976343",
+        "created_at": "2026-05-15T16:12:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T17:12:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055320451916976343"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ThLL9Yki29",
+              "end": 27,
+              "expanded_url": "https://x.com/Angel_SaveUsAll/status/2055320451916976343/video/1",
+              "media_key": "13_2055320373525389313",
+              "start": 4,
+              "url": "https://t.co/ThLL9Yki29"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055320451916976343",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 189,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "挂壁中 https://t.co/ThLL9Yki29"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-09T07:03:02.000Z",
+        "description": "不发帖就是VPN炸了\n- ✰*🎀ੈ✩👾✰*💗ੈ✩-\n生活在互联网！我是低龄糖逼大傻福，十分抱歉！\n宇宙级严重嗜睡\nintp-t/🇨🇳建制左/不聊政治/心理学一窍不通",
+        "id": "1810570297437020160",
+        "location": "山东省精神卫生中心",
+        "name": "spring风＃星宿四/三周目版",
+        "pinned_tweet_id": "2053483960211214638",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024747915840016390/eLTLiD4Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 174,
+          "following_count": 140,
+          "like_count": 286,
+          "listed_count": 1,
+          "media_count": 46,
+          "tweet_count": 876
+        },
+        "username": "ace31ch",
+        "verified": false
+      },
+      {
+        "created_at": "2019-09-04T09:07:06.000Z",
+        "description": "救贖天使 含糖 新人画师，阴湿蕾蕾 只是会吃神秘小药片💊💊噶手手🩸🔪 情绪不稳定/双相/焦虑症 舞萌 经常碎碎念EN&CN OK 日本語苦手 欢迎同类找我聊天贴贴🍥老婆@linwei130",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 84,
+                "username": "linwei130"
+              }
+            ]
+          }
+        },
+        "id": "1169174984389885952",
+        "location": "New York, NY",
+        "name": "小救「昇天」",
+        "pinned_tweet_id": "2043782475936120911",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043325022249381888/KmL2tecR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1457,
+          "following_count": 532,
+          "like_count": 11193,
+          "listed_count": 3,
+          "media_count": 356,
+          "tweet_count": 3873
+        },
+        "username": "Angel_SaveUsAll",
+        "verified": true
+      }
+    ]
+  }
+}

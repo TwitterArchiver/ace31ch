@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1810570297437020160",
+    "conversation_id": "2038304483193823723",
+    "created_at": "2026-03-29T17:17:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-29T18:17:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2038304483193823723"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2038304483193823723",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "GBC最好听的歌是爆裂绽放和即便无人，最经典的熙熙攘攘和空の箱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1810570297437020160",
+        "conversation_id": "2038304483193823723",
+        "created_at": "2026-03-29T17:17:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T18:17:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038304483193823723"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2038304483193823723",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "GBC最好听的歌是爆裂绽放和即便无人，最经典的熙熙攘攘和空の箱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-09T07:03:02.000Z",
+        "description": "od wiki没有活着的传奇",
+        "id": "1810570297437020160",
+        "location": "山东省精神卫生中心",
+        "name": "spring风＃星宿四/三周目版",
+        "pinned_tweet_id": "2032809726925484190",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024747915840016390/eLTLiD4Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98,
+          "following_count": 82,
+          "like_count": 184,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 625
+        },
+        "username": "ace31ch",
+        "verified": false
+      }
+    ]
+  }
+}

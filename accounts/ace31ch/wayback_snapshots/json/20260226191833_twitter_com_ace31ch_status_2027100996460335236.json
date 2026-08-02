@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1810570297437020160",
+    "conversation_id": "2027100996460335236",
+    "created_at": "2026-02-26T19:18:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-26T20:18:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2027100996460335236"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Etsuko827/stat…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/Etsuko827/status/2026975612846723456",
+          "start": 5,
+          "url": "https://t.co/93ifCHgnx9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027100996460335236",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026975612846723456",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "年少有为 https://t.co/93ifCHgnx9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1029,
+        "media_key": "3_2026975607750594560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCFDk2xbEAAiHeM.jpg",
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1810570297437020160",
+        "conversation_id": "2027100996460335236",
+        "created_at": "2026-02-26T19:18:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T20:18:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027100996460335236"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Etsuko827/stat…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/Etsuko827/status/2026975612846723456",
+              "start": 5,
+              "url": "https://t.co/93ifCHgnx9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027100996460335236",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026975612846723456",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "年少有为 https://t.co/93ifCHgnx9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026975607750594560"
+          ]
+        },
+        "author_id": "1815416264770428928",
+        "conversation_id": "2026975612846723456",
+        "created_at": "2026-02-26T11:00:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T12:00:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026975612846723456"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WES9D0bV3W",
+              "end": 32,
+              "expanded_url": "https://x.com/Etsuko827/status/2026975612846723456/photo/1",
+              "media_key": "3_2026975607750594560",
+              "start": 9,
+              "url": "https://t.co/WES9D0bV3W"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026975612846723456",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 18,
+          "impression_count": 36063,
+          "like_count": 858,
+          "quote_count": 4,
+          "reply_count": 25,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "这孩子打小就压抑 https://t.co/WES9D0bV3W"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-09T07:03:02.000Z",
+        "description": "od wiki没有活着的传奇",
+        "id": "1810570297437020160",
+        "location": "山东省精神卫生中心",
+        "name": "spring风＃星宿四/三周目版",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024747915840016390/eLTLiD4Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 43,
+          "like_count": 63,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 214
+        },
+        "username": "ace31ch",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-22T15:59:25.000Z",
+        "description": "cosplayer 梦游发电姬^感谢喜欢｜工作v238｜接正片/自拍/拍立得委托｜ ♡ Patreon: https://t.co/tKVfKb6BYG ♡ ♡淘宝：https://t.co/KLdb2jImUk ♡",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "patreon.com/c/ZhiYueEtsu_ko",
+                "end": 76,
+                "expanded_url": "http://www.patreon.com/c/ZhiYueEtsu_ko",
+                "start": 53,
+                "url": "https://t.co/tKVfKb6BYG"
+              },
+              {
+                "display_url": "m.tb.cn/h.7YnEneRmnTRL…",
+                "end": 106,
+                "expanded_url": "https://m.tb.cn/h.7YnEneRmnTRLfmI",
+                "start": 83,
+                "url": "https://t.co/KLdb2jImUk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "patreon.com/c/ZhiYueEtsu_ko",
+                "end": 23,
+                "expanded_url": "http://patreon.com/c/ZhiYueEtsu_ko",
+                "start": 0,
+                "url": "https://t.co/63666W5E7Q"
+              }
+            ]
+          }
+        },
+        "id": "1815416264770428928",
+        "name": "纸悦 Etsu_ko",
+        "pinned_tweet_id": "2021154784300945917",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1815416629813190657/QY61eLDR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 169608,
+          "following_count": 236,
+          "like_count": 4818,
+          "listed_count": 695,
+          "media_count": 449,
+          "tweet_count": 1144
+        },
+        "url": "https://t.co/63666W5E7Q",
+        "username": "Etsuko827",
+        "verified": false
+      }
+    ]
+  }
+}

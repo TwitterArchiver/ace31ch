@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1810570297437020160",
+    "conversation_id": "2033489124611797296",
+    "created_at": "2026-03-16T12:52:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-16T13:52:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033526873259680155"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1886385501130866688",
+          "start": 0,
+          "username": "Lomyral"
+        },
+        {
+          "end": 18,
+          "id": "1541438677879885826",
+          "start": 9,
+          "username": "xynnuomi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033526873259680155",
+    "in_reply_to_user_id": "1886385501130866688",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033526352918478946",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lomyral @xynnuomi 我没o过，我对托莫西汀耐受，可乐定耐药比较玄学，哌甲酯还没开到"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1810570297437020160",
+        "conversation_id": "2033489124611797296",
+        "created_at": "2026-03-16T12:52:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T13:52:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033526873259680155"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1886385501130866688",
+              "start": 0,
+              "username": "Lomyral"
+            },
+            {
+              "end": 18,
+              "id": "1541438677879885826",
+              "start": 9,
+              "username": "xynnuomi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033526873259680155",
+        "in_reply_to_user_id": "1886385501130866688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033526352918478946",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lomyral @xynnuomi 我没o过，我对托莫西汀耐受，可乐定耐药比较玄学，哌甲酯还没开到"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1886385501130866688",
+        "conversation_id": "2033489124611797296",
+        "created_at": "2026-03-16T12:50:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T13:50:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033526352918478946"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1541438677879885826",
+              "start": 0,
+              "username": "xynnuomi"
+            },
+            {
+              "end": 18,
+              "id": "1810570297437020160",
+              "start": 10,
+              "username": "ace31ch"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033526352918478946",
+        "in_reply_to_user_id": "1541438677879885826",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033518924458057911",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xynnuomi @ace31ch 你耐受如何？我最开始是18mg加到36mg的第一天喝了550ml可乐就有非常明显的躁狂和欣快。后来可乐没用了我就换成了咖啡因。再后来需要90mg哌甲酯+400mg咖啡因才有欣快。我家长不管我了任由我睡得昏天黑地，就把药停了直到我复学，今年彻底停药八个月后18mg哌甲酯+300mg咖啡因也只是轻微欣快和轻躁狂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-09T07:03:02.000Z",
+        "description": "od wiki没有活着的传奇",
+        "id": "1810570297437020160",
+        "location": "山东省精神卫生中心",
+        "name": "spring风＃星宿四/三周目版",
+        "pinned_tweet_id": "2032809726925484190",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024747915840016390/eLTLiD4Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 69,
+          "like_count": 116,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 457
+        },
+        "username": "ace31ch",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-03T12:05:49.000Z",
+        "description": "enby,he/they.泛性恋.除了碎碎念就没别的了.不贩卖任何东西.互fo私信，会查成分选拒.我不吸毒，别钓了",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lomyral",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lomyral",
+                "start": 0,
+                "url": "https://t.co/TsibFHazM8"
+              }
+            ]
+          }
+        },
+        "id": "1886385501130866688",
+        "location": "医院药房",
+        "name": "Lomyral",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888630778453729280/vZIfPLyg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 253,
+          "following_count": 355,
+          "like_count": 29039,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 2511
+        },
+        "url": "https://t.co/TsibFHazM8",
+        "username": "Lomyral",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-27T15:10:04.000Z",
+        "description": "我们不止一个！",
+        "id": "1541438677879885826",
+        "name": "诺米不是诺米",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1812652972372885505/jFnqWe9l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60,
+          "following_count": 131,
+          "like_count": 142,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 159
+        },
+        "username": "xynnuomi",
+        "verified": false
+      }
+    ]
+  }
+}

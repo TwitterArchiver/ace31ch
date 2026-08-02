@@ -1,0 +1,326 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2063188528604008448"
+      ],
+      "media_source_tweet_id": [
+        "2063188541916717533"
+      ]
+    },
+    "author_id": "1810570297437020160",
+    "conversation_id": "2063262692526424529",
+    "created_at": "2026-06-06T14:12:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T15:12:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063262692526424529"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1103830967163117568",
+          "start": 3,
+          "username": "anblk984"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/xkYBBlUxm2",
+          "end": 54,
+          "expanded_url": "https://x.com/anblk984/status/2063188541916717533/video/1",
+          "media_key": "7_2063188528604008448",
+          "start": 31,
+          "url": "https://t.co/xkYBBlUxm2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063262692526424529",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063188541916717533",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @anblk984: 恭喜习主席当选第48任美国总统🥳 https://t.co/xkYBBlUxm2"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10123,
+        "height": 1012,
+        "media_key": "7_2063188528604008448",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2063188528604008448/pu/img/lv10nI1ih5Kn8spm.jpg",
+        "public_metrics": {
+          "view_count": 760
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2063188528604008448/pu/vid/avc1/320x562/a4EYFp_eyBCfExle.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2063188528604008448/pu/vid/avc1/480x842/HsK958bqf7U44rAp.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2063188528604008448/pu/vid/avc1/576x1012/cRZ03565oF9j3T_6.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2063188528604008448/pu/pl/hOMPoBJP3kHiV7ly.m3u8?v=faf"
+          }
+        ],
+        "width": 576
+      },
+      {
+        "duration_ms": 10123,
+        "height": 1012,
+        "media_key": "7_2063188528604008448",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2063188528604008448/pu/img/lv10nI1ih5Kn8spm.jpg",
+        "public_metrics": {
+          "view_count": 782
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2063188528604008448/pu/vid/avc1/320x562/a4EYFp_eyBCfExle.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2063188528604008448/pu/vid/avc1/480x842/HsK958bqf7U44rAp.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2063188528604008448/pu/vid/avc1/576x1012/cRZ03565oF9j3T_6.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2063188528604008448/pu/pl/hOMPoBJP3kHiV7ly.m3u8?v=faf"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2063188528604008448"
+          ],
+          "media_source_tweet_id": [
+            "2063188541916717533"
+          ]
+        },
+        "author_id": "1810570297437020160",
+        "conversation_id": "2063262692526424529",
+        "created_at": "2026-06-06T14:12:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T15:12:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063262692526424529"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1103830967163117568",
+              "start": 3,
+              "username": "anblk984"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xkYBBlUxm2",
+              "end": 54,
+              "expanded_url": "https://x.com/anblk984/status/2063188541916717533/video/1",
+              "media_key": "7_2063188528604008448",
+              "start": 31,
+              "url": "https://t.co/xkYBBlUxm2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063262692526424529",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063188541916717533",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @anblk984: 恭喜习主席当选第48任美国总统🥳 https://t.co/xkYBBlUxm2"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2063188528604008448"
+          ]
+        },
+        "author_id": "1103830967163117568",
+        "conversation_id": "2063188541916717533",
+        "created_at": "2026-06-06T09:17:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T10:17:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063188541916717533"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xkYBBlUxm2",
+              "end": 40,
+              "expanded_url": "https://x.com/anblk984/status/2063188541916717533/video/1",
+              "media_key": "7_2063188528604008448",
+              "start": 17,
+              "url": "https://t.co/xkYBBlUxm2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063188541916717533",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 2012,
+          "like_count": 75,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "恭喜习主席当选第48任美国总统🥳 https://t.co/xkYBBlUxm2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-09T07:03:02.000Z",
+        "description": "- ✰*🔮✩👾✰*💜✩-\n生活在互聯網！我是低齡唐逼大傻福，十分抱歉！\n宇宙級嚴重嗜睡\nintp-t/🇨🇳建制左/社會自由主義/民主社會主義\n黑色長條生物：@Shivam3228",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 78,
+                "username": "Shivam3228"
+              }
+            ]
+          }
+        },
+        "id": "1810570297437020160",
+        "location": "精神衛生中心",
+        "name": "spring风＃星宿四/三周目版",
+        "pinned_tweet_id": "2053483960211214638",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024747915840016390/eLTLiD4Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 229,
+          "following_count": 169,
+          "like_count": 561,
+          "listed_count": 1,
+          "media_count": 80,
+          "tweet_count": 1140
+        },
+        "username": "ace31ch",
+        "verified": false
+      },
+      {
+        "created_at": "2019-03-08T01:33:05.000Z",
+        "description": "黄泛区说书人/17岁美少蛆/狐鸣鬼泣，醒时尽皆虚妄；嬉笑怒骂，更无一物是真  /数学家教接单中私信窝即可 /最后感谢大爹画窝头像@data_syuxchu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 64,
+                "username": "data_syuxchu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/orewamaruganesu",
+                "end": 23,
+                "expanded_url": "https://t.me/orewamaruganesu",
+                "start": 0,
+                "url": "https://t.co/H2pejl6igE"
+              }
+            ]
+          }
+        },
+        "id": "1103830967163117568",
+        "location": "梁家河冲浪里          下面是tg频道",
+        "name": "琵琶牧々",
+        "pinned_tweet_id": "1991346530033496380",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020118049534472192/Qa7ES9rk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15032,
+          "following_count": 1025,
+          "like_count": 120871,
+          "listed_count": 71,
+          "media_count": 2949,
+          "tweet_count": 29282
+        },
+        "url": "https://t.co/H2pejl6igE",
+        "username": "anblk984",
+        "verified": true
+      }
+    ]
+  }
+}

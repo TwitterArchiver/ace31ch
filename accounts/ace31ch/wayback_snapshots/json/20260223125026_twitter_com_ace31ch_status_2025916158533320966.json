@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1810570297437020160",
+    "conversation_id": "2025916158533320966",
+    "created_at": "2026-02-23T12:50:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-23T13:50:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2025916158533320966"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ww123qwq/statu…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/ww123qwq/status/2025893776640868514",
+          "start": 6,
+          "url": "https://t.co/1W55CjZbbX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025916158533320966",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025893776640868514",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "经典永流传 https://t.co/1W55CjZbbX"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1810570297437020160",
+        "conversation_id": "2025916158533320966",
+        "created_at": "2026-02-23T12:50:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T13:50:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025916158533320966"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ww123qwq/statu…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/ww123qwq/status/2025893776640868514",
+              "start": 6,
+              "url": "https://t.co/1W55CjZbbX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025916158533320966",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025893776640868514",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "经典永流传 https://t.co/1W55CjZbbX"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1521553831775158273",
+        "conversation_id": "2025893776640868514",
+        "created_at": "2026-02-23T11:21:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T12:21:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025893776640868514"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/bghtnya/status…",
+              "end": 79,
+              "expanded_url": "https://twitter.com/bghtnya/status/2025861432126976397",
+              "start": 56,
+              "url": "https://t.co/6du0ZY1iuV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025893776640868514",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 377,
+          "like_count": 6,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025861432126976397",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "n55总书记发表重要讲话精神:\n我办了精神残疾证警察就不能送我去监狱，送我去精卫就和回家一样，宾至如归了属于是 https://t.co/6du0ZY1iuV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-09T07:03:02.000Z",
+        "description": "od wiki没有活着的传奇",
+        "id": "1810570297437020160",
+        "location": "山东省精神卫生中心",
+        "name": "spring风＃星宿四/三周目版",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024747915840016390/eLTLiD4Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 34,
+          "like_count": 37,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 137
+        },
+        "username": "ace31ch",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "我看着幸福的日子被摧毁后开心地闭上了眼/口粮：@420420420CTL/ 接受药圈新闻投稿/od/生活费乞讨，赞助支付宝口令红包52/88/188/过门有福利图加药物咨询/支持usdt。/上海/日本，纸烟代购/电子烟代购",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 23,
+                "username": "420420420CTL"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.34KM",
+        "name": "一奈🍥🧊🍔🍜💊",
+        "pinned_tweet_id": "2020737266617135421",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007153270452826114/pm8bi18h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1514,
+          "following_count": 261,
+          "like_count": 41763,
+          "listed_count": 6,
+          "media_count": 625,
+          "tweet_count": 12415
+        },
+        "username": "ww123qwq",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1810570297437020160",
+    "conversation_id": "2079025116923720085",
+    "created_at": "2026-07-20T10:32:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T11:32:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079152379862323336"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1594984148044636160",
+          "start": 0,
+          "username": "Antichenk8964"
+        },
+        {
+          "end": 23,
+          "id": "1693450364341948416",
+          "start": 15,
+          "username": "igeekbb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079152379862323336",
+    "in_reply_to_user_id": "1594984148044636160",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079140357535850897",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Antichenk8964 @igeekbb 我还想多活几天✋😭🤚"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1810570297437020160",
+        "conversation_id": "2079025116923720085",
+        "created_at": "2026-07-20T10:32:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T11:32:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079152379862323336"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1594984148044636160",
+              "start": 0,
+              "username": "Antichenk8964"
+            },
+            {
+              "end": 23,
+              "id": "1693450364341948416",
+              "start": 15,
+              "username": "igeekbb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079152379862323336",
+        "in_reply_to_user_id": "1594984148044636160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079140357535850897",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Antichenk8964 @igeekbb 我还想多活几天✋😭🤚"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1594984148044636160",
+        "conversation_id": "2079025116923720085",
+        "created_at": "2026-07-20T09:44:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T10:44:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079140357535850897"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1810570297437020160",
+              "start": 0,
+              "username": "ace31ch"
+            },
+            {
+              "end": 17,
+              "id": "1693450364341948416",
+              "start": 9,
+              "username": "igeekbb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079140357535850897",
+        "in_reply_to_user_id": "1810570297437020160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 86,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079133359012483246",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ace31ch @igeekbb 你去大陆的打印店打印出来再发到网上试试，就像视频中在日本打印出来还发在互联网上一样😅"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-09T07:03:02.000Z",
+        "description": "- ✰*🔮✩👾✰*💜✩-\n生活在互聯網！我是低齡唐逼大傻福，十分抱歉！\nintp-t/🇨🇳建制左/社會自由主義/民主社會主義\n黑色長條生物：@Shivam3228",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 70,
+                "username": "Shivam3228"
+              }
+            ]
+          }
+        },
+        "id": "1810570297437020160",
+        "location": "精神衛生中心",
+        "name": "spring风＃星宿四/三周目版",
+        "pinned_tweet_id": "2053483960211214638",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024747915840016390/eLTLiD4Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 288,
+          "following_count": 190,
+          "like_count": 671,
+          "listed_count": 1,
+          "media_count": 91,
+          "tweet_count": 1247
+        },
+        "url": "",
+        "username": "ace31ch",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-22T09:20:35.000Z",
+        "description": "I am a Catholic✝ sinner, but I will fight for the innocent.",
+        "id": "1594984148044636160",
+        "location": "Freistaat Bayern",
+        "name": "Der Einzige Kommandant",
+        "pinned_tweet_id": "1978169122341998992",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935234397793595392/_31jLql__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1121,
+          "following_count": 1932,
+          "like_count": 878,
+          "listed_count": 1,
+          "media_count": 4125,
+          "tweet_count": 41682
+        },
+        "url": "",
+        "username": "Antichenk8964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-21T02:30:22.000Z",
+        "description": "🕹️发一些碎碎念和有趣的东东，主打一个快分享。-私信开放欢迎投稿-",
+        "id": "1693450364341948416",
+        "name": "iGeekbb",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1799328738871750657/9Shu8NrP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85768,
+          "following_count": 1,
+          "like_count": 17147,
+          "listed_count": 342,
+          "media_count": 8939,
+          "tweet_count": 13772
+        },
+        "url": "",
+        "username": "igeekbb",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066240862112370688"
+      ],
+      "media_source_tweet_id": [
+        "2066240872585511256"
+      ]
+    },
+    "author_id": "1810570297437020160",
+    "conversation_id": "2066537218089660504",
+    "created_at": "2026-06-15T15:04:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T16:04:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066537218089660504"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2060032916189773824",
+          "start": 3,
+          "username": "WuCanObject"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/a6Te1h92zM",
+          "end": 56,
+          "expanded_url": "https://x.com/WuCanObject/status/2066240872585511256/photo/1",
+          "media_key": "3_2066240862112370688",
+          "start": 33,
+          "url": "https://t.co/a6Te1h92zM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066537218089660504",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066240872585511256",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @WuCanObject: 洗头佬你怎么了😭怎么被夺舍了😭 https://t.co/a6Te1h92zM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1650,
+        "media_key": "3_2066240862112370688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKzDHd6a0AAgMRn.jpg",
+        "width": 1125
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066240862112370688"
+          ],
+          "media_source_tweet_id": [
+            "2066240872585511256"
+          ]
+        },
+        "author_id": "1810570297437020160",
+        "conversation_id": "2066537218089660504",
+        "created_at": "2026-06-15T15:04:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T16:04:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066537218089660504"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2060032916189773824",
+              "start": 3,
+              "username": "WuCanObject"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/a6Te1h92zM",
+              "end": 56,
+              "expanded_url": "https://x.com/WuCanObject/status/2066240872585511256/photo/1",
+              "media_key": "3_2066240862112370688",
+              "start": 33,
+              "url": "https://t.co/a6Te1h92zM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066537218089660504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066240872585511256",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @WuCanObject: 洗头佬你怎么了😭怎么被夺舍了😭 https://t.co/a6Te1h92zM"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066240862112370688"
+          ]
+        },
+        "author_id": "2060032916189773824",
+        "conversation_id": "2066240872585511256",
+        "created_at": "2026-06-14T19:26:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T20:26:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066240872585511256"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/a6Te1h92zM",
+              "end": 39,
+              "expanded_url": "https://x.com/WuCanObject/status/2066240872585511256/photo/1",
+              "media_key": "3_2066240862112370688",
+              "start": 16,
+              "url": "https://t.co/a6Te1h92zM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066240872585511256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1940,
+          "like_count": 65,
+          "quote_count": 1,
+          "reply_count": 11,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "洗头佬你怎么了😭怎么被夺舍了😭 https://t.co/a6Te1h92zM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-09T07:03:02.000Z",
+        "description": "- ✰*🔮✩👾✰*💜✩-\n生活在互聯網！我是低齡唐逼大傻福，十分抱歉！\n宇宙級嚴重嗜睡\nintp-t/🇨🇳建制左/社會自由主義/民主社會主義\n黑色長條生物：@Shivam3228",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 78,
+                "username": "Shivam3228"
+              }
+            ]
+          }
+        },
+        "id": "1810570297437020160",
+        "location": "精神衛生中心",
+        "name": "spring风＃星宿四/三周目版",
+        "pinned_tweet_id": "2053483960211214638",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024747915840016390/eLTLiD4Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 233,
+          "following_count": 169,
+          "like_count": 578,
+          "listed_count": 1,
+          "media_count": 81,
+          "tweet_count": 1152
+        },
+        "username": "ace31ch",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-28T16:18:44.000Z",
+        "description": "互联网流浪中 男生 快成年了～\n你对我好，我会偷偷开心很久！\n我不太会说话\n但我可以陪你，只要你不嫌我烦…TWT",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/canwu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/canwu",
+                "start": 0,
+                "url": "https://t.co/1aQOKqN89K"
+              }
+            ]
+          }
+        },
+        "id": "2060032916189773824",
+        "location": "初次见面之时",
+        "name": "残物",
+        "pinned_tweet_id": "2060755471846527321",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060033124416032768/tWh0j9-z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64,
+          "following_count": 279,
+          "like_count": 1461,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 438
+        },
+        "url": "https://t.co/1aQOKqN89K",
+        "username": "WuCanObject",
+        "verified": false
+      }
+    ]
+  }
+}

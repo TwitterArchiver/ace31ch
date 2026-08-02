@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2053469909653635072"
+      ]
+    },
+    "author_id": "1810570297437020160",
+    "conversation_id": "2053428920473751814",
+    "created_at": "2026-05-10T13:39:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T14:39:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053469924535001185"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1433833820810211332",
+          "start": 0,
+          "username": "Ettf_Cabage"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ctAC1qfxLD",
+          "end": 36,
+          "expanded_url": "https://x.com/ace31ch/status/2053469924535001185/photo/1",
+          "media_key": "3_2053469909653635072",
+          "start": 13,
+          "url": "https://t.co/ctAC1qfxLD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053469924535001185",
+    "in_reply_to_user_id": "1433833820810211332",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053428920473751814",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ettf_Cabage https://t.co/ctAC1qfxLD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 840,
+        "media_key": "3_2053469909653635072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH9kAMnbwAALYn0.jpg",
+        "width": 1260
+      },
+      {
+        "height": 272,
+        "media_key": "3_2053428744459796480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH8-kEUaQAAbd6q.png",
+        "width": 321
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053469909653635072"
+          ]
+        },
+        "author_id": "1810570297437020160",
+        "conversation_id": "2053428920473751814",
+        "created_at": "2026-05-10T13:39:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T14:39:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053469924535001185"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1433833820810211332",
+              "start": 0,
+              "username": "Ettf_Cabage"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ctAC1qfxLD",
+              "end": 36,
+              "expanded_url": "https://x.com/ace31ch/status/2053469924535001185/photo/1",
+              "media_key": "3_2053469909653635072",
+              "start": 13,
+              "url": "https://t.co/ctAC1qfxLD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053469924535001185",
+        "in_reply_to_user_id": "1433833820810211332",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053428920473751814",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ettf_Cabage https://t.co/ctAC1qfxLD"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053428744459796480"
+          ]
+        },
+        "author_id": "1433833820810211332",
+        "conversation_id": "2053428920473751814",
+        "created_at": "2026-05-10T10:56:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T11:56:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053428920473751814"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UoUc3qYcZh",
+              "end": 50,
+              "expanded_url": "https://x.com/Ettf_Cabage/status/2053428920473751814/photo/1",
+              "media_key": "3_2053428744459796480",
+              "start": 27,
+              "url": "https://t.co/UoUc3qYcZh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053428920473751814",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 198,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "都怪某些抽象故事导致我现在看这台机器名字的眼色都变了 https://t.co/UoUc3qYcZh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-09T07:03:02.000Z",
+        "description": "不发帖就是VPN炸了\n- ✰*🎀ੈ✩🍥✰*💗ੈ✩-\n生活在互联网！我是低龄糖逼大傻福，十分抱歉！\n宇宙级严重嗜睡\nintp-t/🇨🇳建制派/不聊政治",
+        "id": "1810570297437020160",
+        "location": "山东省精神卫生中心",
+        "name": "spring风＃星宿四/三周目版",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024747915840016390/eLTLiD4Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 159,
+          "following_count": 112,
+          "like_count": 247,
+          "listed_count": 1,
+          "media_count": 42,
+          "tweet_count": 767
+        },
+        "username": "ace31ch",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-03T16:46:52.000Z",
+        "description": "中文/English 我是白菜！ 双性恋 男孩子！活动范围以泉州／厦门为主 现在是19岁想可爱的183cm 91kg性压抑肥猪 - Citroen C4 Coupe车主 - 坚定的伊蕾娜厨 r18转发bot（x）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ettfcabage.airrice.cn",
+                "end": 23,
+                "expanded_url": "http://ettfcabage.airrice.cn",
+                "start": 0,
+                "url": "https://t.co/p5B0lrWGcf"
+              }
+            ]
+          }
+        },
+        "id": "1433833820810211332",
+        "location": "Airrice space center",
+        "name": "Ettf Cabage @什么都只会一点的废物人生",
+        "pinned_tweet_id": "2032747309088518195",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1617749411005857793/1ffSoHVm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1233,
+          "following_count": 1927,
+          "like_count": 59674,
+          "listed_count": 13,
+          "media_count": 389,
+          "tweet_count": 16041
+        },
+        "url": "https://t.co/p5B0lrWGcf",
+        "username": "Ettf_Cabage",
+        "verified": false
+      }
+    ]
+  }
+}

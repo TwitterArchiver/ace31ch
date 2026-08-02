@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2060739550209830912"
+      ]
+    },
+    "author_id": "1810570297437020160",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2060739597790036449",
+    "created_at": "2026-05-30T15:06:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T16:06:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060739597790036449"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Vw5ZpTKw8x",
+          "end": 28,
+          "expanded_url": "https://x.com/ace31ch/status/2060739597790036449/photo/1",
+          "media_key": "3_2060739550209830912",
+          "start": 5,
+          "url": "https://t.co/Vw5ZpTKw8x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060739597790036449",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "汪精卫🤤 https://t.co/Vw5ZpTKw8x"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2060739550209830912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJk3s-Da8AA0EWQ.jpg",
+        "width": 998
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060739550209830912"
+          ]
+        },
+        "author_id": "1810570297437020160",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2060739597790036449",
+        "created_at": "2026-05-30T15:06:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T16:06:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060739597790036449"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Vw5ZpTKw8x",
+              "end": 28,
+              "expanded_url": "https://x.com/ace31ch/status/2060739597790036449/photo/1",
+              "media_key": "3_2060739550209830912",
+              "start": 5,
+              "url": "https://t.co/Vw5ZpTKw8x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060739597790036449",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "汪精卫🤤 https://t.co/Vw5ZpTKw8x"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-09T07:03:02.000Z",
+        "description": "- ✰*🔮✩👾✰*💜✩-\n生活在互聯網！我是低齡唐逼大傻福，十分抱歉！\n宇宙級嚴重嗜睡\nintp-t/🇨🇳建制左/社會自由主義\n黑色長條生物：@Shivam3228",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 82,
+                "start": 71,
+                "username": "Shivam3228"
+              }
+            ]
+          }
+        },
+        "id": "1810570297437020160",
+        "location": "精神衛生中心",
+        "name": "spring风＃星宿四/三周目版",
+        "pinned_tweet_id": "2053483960211214638",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024747915840016390/eLTLiD4Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 227,
+          "following_count": 170,
+          "like_count": 490,
+          "listed_count": 1,
+          "media_count": 72,
+          "tweet_count": 1109
+        },
+        "username": "ace31ch",
+        "verified": false
+      }
+    ]
+  }
+}

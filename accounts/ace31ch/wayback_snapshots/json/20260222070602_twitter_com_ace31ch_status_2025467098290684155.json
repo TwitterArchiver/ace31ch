@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1810570297437020160",
+    "conversation_id": "2025467098290684155",
+    "created_at": "2026-02-22T07:06:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-22T08:06:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2025467098290684155"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/mhtqwq/status/…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/mhtqwq/status/2025431161879544293",
+          "start": 5,
+          "url": "https://t.co/1DRBMLbriM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025467098290684155",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025431161879544293",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这期神了 https://t.co/1DRBMLbriM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 944,
+        "media_key": "3_2025431118577537024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBvG3wPWEAAN7qr.jpg",
+        "width": 1088
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1810570297437020160",
+        "conversation_id": "2025467098290684155",
+        "created_at": "2026-02-22T07:06:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T08:06:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025467098290684155"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mhtqwq/status/…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/mhtqwq/status/2025431161879544293",
+              "start": 5,
+              "url": "https://t.co/1DRBMLbriM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025467098290684155",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025431161879544293",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这期神了 https://t.co/1DRBMLbriM"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025431118577537024"
+          ]
+        },
+        "author_id": "1685784710285266944",
+        "conversation_id": "2025431161879544293",
+        "created_at": "2026-02-22T04:43:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T05:43:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025431161879544293"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/U86uY3bQDy",
+              "end": 45,
+              "expanded_url": "https://x.com/mhtqwq/status/2025431161879544293/photo/1",
+              "media_key": "3_2025431118577537024",
+              "start": 22,
+              "url": "https://t.co/U86uY3bQDy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025431161879544293",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 3303,
+          "like_count": 95,
+          "quote_count": 2,
+          "reply_count": 8,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "这张图不知道出处，但是已经诡异到一个程度了 https://t.co/U86uY3bQDy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-09T07:03:02.000Z",
+        "description": "od wiki没有活着的传奇",
+        "id": "1810570297437020160",
+        "name": "spring风＃星宿四/三周目版",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024747915840016390/eLTLiD4Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 25,
+          "like_count": 17,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 93
+        },
+        "username": "ace31ch",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-30T22:49:53.000Z",
+        "description": "牢东西｜友善对待所有人｜什么都会点什么都做不好的咸鱼｜差点一口气活了｜不建政｜Minecraft｜格雷科寄｜p社战犯｜❤️@dancingsnow0517｜可爱男娘@Ran_Mitake37",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 61,
+                "username": "dancingsnow0517"
+              },
+              {
+                "end": 95,
+                "start": 82,
+                "username": "Ran_Mitake37"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mhtqwq",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mhtqwq",
+                "start": 0,
+                "url": "https://t.co/cLjIhp3Fve"
+              }
+            ]
+          }
+        },
+        "id": "1685784710285266944",
+        "location": "天津四,联合,人类联邦",
+        "name": "🍓草莓棉花糖🍥",
+        "pinned_tweet_id": "1988657671986376739",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927601749453307904/biDH0_YY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5263,
+          "following_count": 418,
+          "like_count": 9263,
+          "listed_count": 11,
+          "media_count": 2134,
+          "tweet_count": 9712
+        },
+        "url": "https://t.co/cLjIhp3Fve",
+        "username": "mhtqwq",
+        "verified": true
+      }
+    ]
+  }
+}

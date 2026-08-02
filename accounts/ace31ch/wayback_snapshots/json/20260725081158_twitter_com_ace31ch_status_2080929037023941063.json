@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1810570297437020160",
+    "conversation_id": "2080558798721482896",
+    "created_at": "2026-07-25T08:11:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T09:11:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080929037023941063"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1942770189030023174",
+          "start": 0,
+          "username": "Ariyairis"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080929037023941063",
+    "in_reply_to_user_id": "1942770189030023174",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080928337682432238",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ariyairis 那我带你去一个管吃管住的地方，但是没有手机和药吃🤤"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1810570297437020160",
+        "conversation_id": "2080558798721482896",
+        "created_at": "2026-07-25T08:11:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T09:11:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080929037023941063"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1942770189030023174",
+              "start": 0,
+              "username": "Ariyairis"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080929037023941063",
+        "in_reply_to_user_id": "1942770189030023174",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080928337682432238",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ariyairis 那我带你去一个管吃管住的地方，但是没有手机和药吃🤤"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942770189030023174",
+        "conversation_id": "2080558798721482896",
+        "created_at": "2026-07-25T08:09:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T09:09:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080928337682432238"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1810570297437020160",
+              "start": 0,
+              "username": "ace31ch"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080928337682432238",
+        "in_reply_to_user_id": "1810570297437020160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080928209127059827",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ace31ch 😡管你有没有兴趣反正赖上你了喵😡"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-09T07:03:02.000Z",
+        "description": "- ✰*🔮✩👾✰*💜✩-\n生活在互聯網！我是低齡唐逼大傻福，十分抱歉！\nintp-t/🇨🇳建制左/社會自由主義/民主社會主義\n黑色長條生物：@Shivam3228",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 70,
+                "username": "Shivam3228"
+              }
+            ]
+          }
+        },
+        "id": "1810570297437020160",
+        "location": "精神衛生中心",
+        "name": "spring风＃星宿四/三周目版",
+        "pinned_tweet_id": "2053483960211214638",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024747915840016390/eLTLiD4Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 291,
+          "following_count": 196,
+          "like_count": 708,
+          "listed_count": 1,
+          "media_count": 99,
+          "tweet_count": 1264
+        },
+        "url": "",
+        "username": "ace31ch",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-09T02:18:21.000Z",
+        "description": "我是可爱的超级天使酱哦！2008.1.22｜水瓶座｜adhd｜焦虑｜抑郁 可以互fo/找我玩",
+        "id": "1942770189030023174",
+        "name": "Ariya",
+        "pinned_tweet_id": "2078132194460201340",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032773880352485376/-vXmFljl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 335,
+          "following_count": 509,
+          "like_count": 181,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 562
+        },
+        "url": "",
+        "username": "Ariyairis",
+        "verified": false
+      }
+    ]
+  }
+}

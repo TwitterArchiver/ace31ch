@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "poll_ids": [
+        "2053180400768630784"
+      ]
+    },
+    "author_id": "1810570297437020160",
+    "conversation_id": "2053164985845760187",
+    "created_at": "2026-05-09T18:28:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T19:28:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053180404350513404"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1916005601563590656",
+          "start": 0,
+          "username": "Qiongli_BAKA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053180404350513404",
+    "in_reply_to_user_id": "1916005601563590656",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053164985845760187",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Qiongli_BAKA 🤔"
+  },
+  "includes": {
+    "polls": [
+      {
+        "duration_minutes": 1260,
+        "end_datetime": "2026-05-10T15:28:48.000Z",
+        "id": "2053180400768630784",
+        "options": [
+          {
+            "label": "玩原神",
+            "position": 1,
+            "votes": 0
+          },
+          {
+            "label": "玩原神",
+            "position": 2,
+            "votes": 0
+          }
+        ],
+        "voting_status": "open"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "2053180400768630784"
+          ]
+        },
+        "author_id": "1810570297437020160",
+        "conversation_id": "2053164985845760187",
+        "created_at": "2026-05-09T18:28:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T19:28:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053180404350513404"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1916005601563590656",
+              "start": 0,
+              "username": "Qiongli_BAKA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053180404350513404",
+        "in_reply_to_user_id": "1916005601563590656",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053164985845760187",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Qiongli_BAKA 🤔"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "2053164984633540608"
+          ]
+        },
+        "author_id": "1916005601563590656",
+        "conversation_id": "2053164985845760187",
+        "created_at": "2026-05-09T17:27:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T18:27:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053164985845760187"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2053164985845760187",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 109,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我失去所有的好朋友了\n也没有对象了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-09T07:03:02.000Z",
+        "description": "不发帖就是VPN炸了\n- ✰*🎀ੈ✩🍥✰*💗ੈ✩-\n生活在互联网！我是低龄糖逼大傻福，十分抱歉！\n宇宙级严重嗜睡",
+        "id": "1810570297437020160",
+        "location": "山东省精神卫生中心",
+        "name": "spring风＃星宿四/三周目版",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024747915840016390/eLTLiD4Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 154,
+          "following_count": 109,
+          "like_count": 246,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 755
+        },
+        "username": "ace31ch",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-26T05:45:16.000Z",
+        "description": "这里是笨蛋穹璃呀｜不混任何圈｜16岁｜180东北入（身高进一步缩水）｜欢迎交友喵｜重抑 重焦 双相 解离 惊恐 ADHD 被打出来的PTSD/buff叠满/｜诡异男生｜不稳定｜随时可能极端｜穷的要死｜辽宁人｜没有人喜欢我了…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/3tPgjPG",
+                "end": 23,
+                "expanded_url": "https://b23.tv/3tPgjPG",
+                "start": 0,
+                "url": "https://t.co/GTQahueaFa"
+              }
+            ]
+          }
+        },
+        "id": "1916005601563590656",
+        "location": "fufu头顶上",
+        "name": "穹璃吖",
+        "pinned_tweet_id": "2048802062545420307",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043239285445599232/8NR-8Gxj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 781,
+          "following_count": 904,
+          "like_count": 3886,
+          "listed_count": 3,
+          "media_count": 196,
+          "tweet_count": 1234
+        },
+        "url": "https://t.co/GTQahueaFa",
+        "username": "Qiongli_BAKA",
+        "verified": false
+      }
+    ]
+  }
+}

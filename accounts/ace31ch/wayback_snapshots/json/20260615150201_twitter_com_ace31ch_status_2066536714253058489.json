@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1810570297437020160",
+    "conversation_id": "2066536714253058489",
+    "created_at": "2026-06-15T15:02:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T16:02:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066536714253058489"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/whyyoutouzhele…",
+          "end": 36,
+          "expanded_url": "https://twitter.com/whyyoutouzhele/status/2066400311112261693",
+          "start": 13,
+          "url": "https://t.co/Jl1tPJaKTT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066536714253058489",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066400311112261693",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "国际部的团员:请输入文本 https://t.co/Jl1tPJaKTT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1182,
+        "media_key": "3_2066099959188140032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKxC91nbsAA2QvV.jpg",
+        "width": 810
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1810570297437020160",
+        "conversation_id": "2066536714253058489",
+        "created_at": "2026-06-15T15:02:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T16:02:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066536714253058489"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/whyyoutouzhele…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/2066400311112261693",
+              "start": 13,
+              "url": "https://t.co/Jl1tPJaKTT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066536714253058489",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066400311112261693",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "国际部的团员:请输入文本 https://t.co/Jl1tPJaKTT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066099959188140032"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "conversation_id": "2066400311112261693",
+        "created_at": "2026-06-15T06:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T07:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066400311112261693"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/b5vkAEOS23",
+              "end": 52,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2066400311112261693/photo/1",
+              "media_key": "3_2066099959188140032",
+              "start": 29,
+              "url": "https://t.co/b5vkAEOS23"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066400311112261693",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 21,
+          "impression_count": 49485,
+          "like_count": 186,
+          "quote_count": 6,
+          "reply_count": 72,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "网友投稿\n杭州师范学院要求学生签署《网络安全使用承诺书》 https://t.co/b5vkAEOS23"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-09T07:03:02.000Z",
+        "description": "- ✰*🔮✩👾✰*💜✩-\n生活在互聯網！我是低齡唐逼大傻福，十分抱歉！\n宇宙級嚴重嗜睡\nintp-t/🇨🇳建制左/社會自由主義/民主社會主義\n黑色長條生物：@Shivam3228",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 78,
+                "username": "Shivam3228"
+              }
+            ]
+          }
+        },
+        "id": "1810570297437020160",
+        "location": "精神衛生中心",
+        "name": "spring风＃星宿四/三周目版",
+        "pinned_tweet_id": "2053483960211214638",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024747915840016390/eLTLiD4Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 233,
+          "following_count": 169,
+          "like_count": 578,
+          "listed_count": 1,
+          "media_count": 81,
+          "tweet_count": 1151
+        },
+        "username": "ace31ch",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/SwoJzv97eA\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://t.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/SwoJzv97eA"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 129,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 106,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "2054198924127178832",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004720683905904640/8ZEZs67v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2236646,
+          "following_count": 1070,
+          "like_count": 9702,
+          "listed_count": 8790,
+          "media_count": 48637,
+          "tweet_count": 55797
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

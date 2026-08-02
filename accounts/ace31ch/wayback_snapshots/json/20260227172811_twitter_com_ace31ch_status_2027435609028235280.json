@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1810570297437020160",
+    "conversation_id": "2027332854796239178",
+    "created_at": "2026-02-27T17:28:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T18:28:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027435609028235280"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1745799972576968705",
+          "start": 0,
+          "username": "bubblepipe42"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027435609028235280",
+    "in_reply_to_user_id": "1745799972576968705",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027332854796239178",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bubblepipe42 我终于理解了什么是「贱气」 二字"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 768,
+        "media_key": "3_2027332835598909440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCKIeQNbwAA4zfO.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1810570297437020160",
+        "conversation_id": "2027332854796239178",
+        "created_at": "2026-02-27T17:28:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T18:28:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027435609028235280"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1745799972576968705",
+              "start": 0,
+              "username": "bubblepipe42"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027435609028235280",
+        "in_reply_to_user_id": "1745799972576968705",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027332854796239178",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bubblepipe42 我终于理解了什么是「贱气」 二字"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027332835598909440"
+          ]
+        },
+        "author_id": "1745799972576968705",
+        "conversation_id": "2027332854796239178",
+        "created_at": "2026-02-27T10:39:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T11:39:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027332854796239178"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zqqQIeT2xg",
+              "end": 41,
+              "expanded_url": "https://x.com/bubblepipe42/status/2027332854796239178/photo/1",
+              "media_key": "3_2027332835598909440",
+              "start": 18,
+              "url": "https://t.co/zqqQIeT2xg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027332854796239178",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 13528,
+          "like_count": 86,
+          "quote_count": 3,
+          "reply_count": 8,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "我发现只要我一直喝水就可以尿到地上 https://t.co/zqqQIeT2xg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-09T07:03:02.000Z",
+        "description": "od wiki没有活着的传奇",
+        "id": "1810570297437020160",
+        "location": "山东省精神卫生中心",
+        "name": "spring风＃星宿四/三周目版",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024747915840016390/eLTLiD4Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 45,
+          "like_count": 65,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 235
+        },
+        "username": "ace31ch",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-12T13:29:34.000Z",
+        "description": "活的像个家养猫。",
+        "id": "1745799972576968705",
+        "name": "代糖空泡",
+        "pinned_tweet_id": "2020023264811315232",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997240850732961792/1_d8Kddi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1224,
+          "following_count": 882,
+          "like_count": 7207,
+          "listed_count": 5,
+          "media_count": 311,
+          "tweet_count": 1732
+        },
+        "username": "bubblepipe42",
+        "verified": false
+      }
+    ]
+  }
+}

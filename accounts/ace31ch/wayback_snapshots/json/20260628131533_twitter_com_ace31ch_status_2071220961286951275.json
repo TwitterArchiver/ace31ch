@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1810570297437020160",
+    "conversation_id": "2070760010511159705",
+    "created_at": "2026-06-28T13:15:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T14:15:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071220961286951275"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1761486450376560640",
+          "start": 0,
+          "username": "RCJ_USSR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071220961286951275",
+    "in_reply_to_user_id": "1761486450376560640",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071220554561134861",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RCJ_USSR 我并不知道这些政党的处境，但我对立宪的印象还不错，平时不关心现实政治，我更多的是研究理论"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1810570297437020160",
+        "conversation_id": "2070760010511159705",
+        "created_at": "2026-06-28T13:15:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T14:15:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071220961286951275"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1761486450376560640",
+              "start": 0,
+              "username": "RCJ_USSR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071220961286951275",
+        "in_reply_to_user_id": "1761486450376560640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071220554561134861",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RCJ_USSR 我并不知道这些政党的处境，但我对立宪的印象还不错，平时不关心现实政治，我更多的是研究理论"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1761486450376560640",
+        "conversation_id": "2070760010511159705",
+        "created_at": "2026-06-28T13:13:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T14:13:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071220554561134861"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1810570297437020160",
+              "start": 0,
+              "username": "ace31ch"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071220554561134861",
+        "in_reply_to_user_id": "1810570297437020160",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071220216072442157",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ace31ch 中道も立憲も国民も社民もガタガタだから野党の終わりになりそう"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-09T07:03:02.000Z",
+        "description": "- ✰*🔮✩👾✰*💜✩-\n生活在互聯網！我是低齡唐逼大傻福，十分抱歉！\n宇宙級嚴重嗜睡\nintp-t/🇨🇳建制左/社會自由主義/民主社會主義\n黑色長條生物：@Shivam3228",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 78,
+                "username": "Shivam3228"
+              }
+            ]
+          }
+        },
+        "id": "1810570297437020160",
+        "location": "精神衛生中心",
+        "name": "spring风＃星宿四/三周目版",
+        "pinned_tweet_id": "2053483960211214638",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024747915840016390/eLTLiD4Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 236,
+          "following_count": 178,
+          "like_count": 627,
+          "listed_count": 1,
+          "media_count": 81,
+          "tweet_count": 1183
+        },
+        "url": "",
+        "username": "ace31ch",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-24T20:21:16.000Z",
+        "description": "現在フォローいいねリツイート制限\nいいね&リツイート≠賛成",
+        "id": "1761486450376560640",
+        "name": "RCJ(SSSR)",
+        "pinned_tweet_id": "2070861158349967433",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1768246575464341504/i4wMA3Yg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 725,
+          "following_count": 1684,
+          "like_count": 5725,
+          "listed_count": 1,
+          "media_count": 49,
+          "tweet_count": 8259
+        },
+        "url": "",
+        "username": "RCJ_USSR",
+        "verified": false
+      }
+    ]
+  }
+}

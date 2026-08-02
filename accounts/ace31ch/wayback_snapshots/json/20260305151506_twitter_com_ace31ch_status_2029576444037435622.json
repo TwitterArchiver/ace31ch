@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1810570297437020160",
+    "conversation_id": "2029415682211999763",
+    "created_at": "2026-03-05T15:15:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-05T16:15:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029576444037435622"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1916817753635426304",
+          "start": 0,
+          "username": "Goldwater8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029576444037435622",
+    "in_reply_to_user_id": "1916817753635426304",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029415682211999763",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Goldwater8964 我看是开学了家长收手机导致的钟离假死🤓☝"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1810570297437020160",
+        "conversation_id": "2029415682211999763",
+        "created_at": "2026-03-05T15:15:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-05T16:15:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029576444037435622"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1916817753635426304",
+              "start": 0,
+              "username": "Goldwater8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029576444037435622",
+        "in_reply_to_user_id": "1916817753635426304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029415682211999763",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Goldwater8964 我看是开学了家长收手机导致的钟离假死🤓☝"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1916817753635426304",
+        "conversation_id": "2029415682211999763",
+        "created_at": "2026-03-05T04:36:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-05T05:36:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029415682211999763"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/haranowata71/s…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/haranowata71/status/2029163295077482610",
+              "start": 12,
+              "url": "https://t.co/jYs5VJhFyo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029415682211999763",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 9507,
+          "like_count": 109,
+          "quote_count": 1,
+          "reply_count": 16,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029163295077482610",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "中推莫名其妙的紫砂狂潮 https://t.co/jYs5VJhFyo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-09T07:03:02.000Z",
+        "description": "od wiki没有活着的传奇",
+        "id": "1810570297437020160",
+        "location": "山东省精神卫生中心",
+        "name": "spring风＃星宿四/三周目版",
+        "pinned_tweet_id": "2028112366370464090",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024747915840016390/eLTLiD4Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 52,
+          "like_count": 77,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 305
+        },
+        "username": "ace31ch",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-28T11:32:29.000Z",
+        "description": "悉尼之鼠🦘 全网最自由的space—上麦判断认知学历 绝对的右派分子 🚪138/1998/19998 支持加密和外币",
+        "id": "1916817753635426304",
+        "location": "Auckland Region, New Zealand",
+        "name": "Friedrich🇳🇿🇦🇺",
+        "pinned_tweet_id": "2029126357465350502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018364510457749504/B0j0ySjd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 678,
+          "following_count": 588,
+          "like_count": 3181,
+          "listed_count": 3,
+          "media_count": 82,
+          "tweet_count": 571
+        },
+        "username": "Goldwater8964",
+        "verified": true
+      }
+    ]
+  }
+}

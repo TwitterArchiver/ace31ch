@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1810570297437020160",
+    "conversation_id": "2056057886506140055",
+    "created_at": "2026-05-18T04:34:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T05:34:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056231987917316506"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2053116713692966913",
+          "start": 0,
+          "username": "FREUNDIS4021"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056231987917316506",
+    "in_reply_to_user_id": "2053116713692966913",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056057886506140055",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FREUNDIS4021 安非他酮不是二精，而且安非他酮很容易癲癇"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2056057873545764864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIiVvhZXIAAoqCV.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2056057873667358720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIiVvh2WgAAqn3c.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1810570297437020160",
+        "conversation_id": "2056057886506140055",
+        "created_at": "2026-05-18T04:34:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T05:34:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056231987917316506"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2053116713692966913",
+              "start": 0,
+              "username": "FREUNDIS4021"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056231987917316506",
+        "in_reply_to_user_id": "2053116713692966913",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056057886506140055",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FREUNDIS4021 安非他酮不是二精，而且安非他酮很容易癲癇"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056057873545764864",
+            "3_2056057873667358720"
+          ]
+        },
+        "author_id": "2053116713692966913",
+        "conversation_id": "2056057886506140055",
+        "created_at": "2026-05-17T17:02:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T18:02:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056057886506140055"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dXsu0y4e7G",
+              "end": 115,
+              "expanded_url": "https://x.com/FREUNDIS4021/status/2056057886506140055/photo/1",
+              "media_key": "3_2056057873545764864",
+              "start": 92,
+              "url": "https://t.co/dXsu0y4e7G"
+            },
+            {
+              "display_url": "pic.x.com/dXsu0y4e7G",
+              "end": 115,
+              "expanded_url": "https://x.com/FREUNDIS4021/status/2056057886506140055/photo/1",
+              "media_key": "3_2056057873667358720",
+              "start": 92,
+              "url": "https://t.co/dXsu0y4e7G"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056057886506140055",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 346,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "p1右美沙芬、氯胺酮、安非他命、曲马多、阿普唑仑、安非他酮\np2我记得无极老师有促智药你可以去问问。你也可以再带上病例去三甲医院看看，可以问一下能不能开托莫西汀/盐酸胍法辛缓释片啥的 https://t.co/dXsu0y4e7G"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-09T07:03:02.000Z",
+        "description": "- ✰*🎀ੈ✩👾✰*💗ੈ✩-\n生活在互聯網！我是低齡唐逼大傻福，十分抱歉！\n宇宙級嚴重嗜睡\nintp-t/🇨🇳建制左/社會自由主義",
+        "id": "1810570297437020160",
+        "location": "精神衛生中心",
+        "name": "spring风＃星宿四/三周目版",
+        "pinned_tweet_id": "2053483960211214638",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024747915840016390/eLTLiD4Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 182,
+          "following_count": 151,
+          "like_count": 329,
+          "listed_count": 1,
+          "media_count": 53,
+          "tweet_count": 937
+        },
+        "username": "ace31ch",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-09T14:16:39.000Z",
+        "description": "废物daze⭐️卢关寻回中\n提问箱：https://t.co/St6DRfqBjY\n着急的可以直接私信",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "miyu.link/Freundis",
+                "end": 41,
+                "expanded_url": "https://miyu.link/Freundis",
+                "start": 18,
+                "url": "https://t.co/St6DRfqBjY"
+              }
+            ]
+          }
+        },
+        "id": "2053116713692966913",
+        "name": "我是废物",
+        "pinned_tweet_id": "2053119419383988699",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053117224747945988/DuiogWip_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 298,
+          "following_count": 330,
+          "like_count": 89,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 51
+        },
+        "username": "FREUNDIS4021",
+        "verified": false
+      }
+    ]
+  }
+}

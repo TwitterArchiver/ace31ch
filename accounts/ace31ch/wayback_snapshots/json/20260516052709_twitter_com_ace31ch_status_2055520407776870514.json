@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1810570297437020160",
+    "conversation_id": "2052413549553844516",
+    "created_at": "2026-05-16T05:27:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T06:27:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055520407776870514"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1891748269853700096",
+          "start": 0,
+          "username": "Entropy149868"
+        },
+        {
+          "end": 31,
+          "id": "2052312493167656960",
+          "start": 15,
+          "username": "Constantin82816"
+        },
+        {
+          "end": 42,
+          "id": "1903459467230072832",
+          "start": 32,
+          "username": "LaptiReed"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055520407776870514",
+    "in_reply_to_user_id": "1891748269853700096",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052525679313572017",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Entropy149868 @Constantin82816 @LaptiReed 真的李文亚好像有点背景，应该晶不了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1810570297437020160",
+        "conversation_id": "2052413549553844516",
+        "created_at": "2026-05-16T05:27:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T06:27:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055520407776870514"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1891748269853700096",
+              "start": 0,
+              "username": "Entropy149868"
+            },
+            {
+              "end": 31,
+              "id": "2052312493167656960",
+              "start": 15,
+              "username": "Constantin82816"
+            },
+            {
+              "end": 42,
+              "id": "1903459467230072832",
+              "start": 32,
+              "username": "LaptiReed"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055520407776870514",
+        "in_reply_to_user_id": "1891748269853700096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052525679313572017",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Entropy149868 @Constantin82816 @LaptiReed 真的李文亚好像有点背景，应该晶不了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1891748269853700096",
+        "conversation_id": "2052413549553844516",
+        "created_at": "2026-05-07T23:07:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T00:07:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052525679313572017"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2052312493167656960",
+              "start": 0,
+              "username": "Constantin82816"
+            },
+            {
+              "end": 27,
+              "id": "1903459467230072832",
+              "start": 17,
+              "username": "LaptiReed"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052525679313572017",
+        "in_reply_to_user_id": "2052312493167656960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 165,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052413549553844516",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Constantin82816 @LaptiReed 原来是这个李文亚，要是真李文亚教授被晶了才好呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-09T07:03:02.000Z",
+        "description": "不发帖就是VPN炸了\n- ✰*🎀ੈ✩👾✰*💗ੈ✩-\n生活在互联网！我是低龄糖逼大傻福，十分抱歉！\n宇宙级严重嗜睡\nintp-t/🇨🇳建制左/社会自由主义/心理学一窍不通",
+        "id": "1810570297437020160",
+        "location": "山东省精神卫生中心",
+        "name": "spring风＃星宿四/三周目版",
+        "pinned_tweet_id": "2053483960211214638",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024747915840016390/eLTLiD4Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 177,
+          "following_count": 142,
+          "like_count": 289,
+          "listed_count": 1,
+          "media_count": 46,
+          "tweet_count": 884
+        },
+        "username": "ace31ch",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-18T07:15:35.000Z",
+        "description": "网哲网左弗洛伊德精神分析荒谬主义前卫摇滚黑金属最喜欢的乐队psychonaut4半建全人强迫症主体倒错药物滥用entp小县城人求互fo查成分互fo门槛妹。匿名提问https://t.co/8AjoSO1NNL",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/entropy3159",
+                "end": 104,
+                "expanded_url": "https://ngl.link/entropy3159",
+                "start": 81,
+                "url": "https://t.co/8AjoSO1NNL"
+              }
+            ]
+          }
+        },
+        "id": "1891748269853700096",
+        "location": "安徽人",
+        "name": "ENTROPY💊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033192882195312640/4-foBkF-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 393,
+          "following_count": 444,
+          "like_count": 1035,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 527
+        },
+        "username": "Entropy149868",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-07T09:01:08.000Z",
+        "description": "惟郢路之遼遠兮，江與夏之不可涉",
+        "id": "2052312493167656960",
+        "name": "回风Lament#大陵五",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052394391671898113/46wng0M9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 34,
+          "like_count": 16,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 16
+        },
+        "username": "Constantin82816",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-22T14:52:40.000Z",
+        "description": "三百年来伤国步\n八千里外吊民残",
+        "id": "1903459467230072832",
+        "location": "in terra longinqua…",
+        "name": "Historiacus",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040943996101611520/YwE7uX_6_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 69,
+          "like_count": 112,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 163
+        },
+        "username": "LaptiReed",
+        "verified": false
+      }
+    ]
+  }
+}

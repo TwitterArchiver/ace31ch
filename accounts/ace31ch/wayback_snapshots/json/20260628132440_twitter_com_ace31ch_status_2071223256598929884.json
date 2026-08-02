@@ -1,0 +1,299 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1810570297437020160",
+    "conversation_id": "2070909282292470229",
+    "created_at": "2026-06-28T13:24:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T14:24:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071223256598929884"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1208009532158267392",
+          "start": 0,
+          "username": "nDguFI25U1aJwVJ"
+        },
+        {
+          "end": 29,
+          "id": "1910147268302483456",
+          "start": 17,
+          "username": "shin_yo_jyu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071223256598929884",
+    "in_reply_to_user_id": "1208009532158267392",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071001352143315418",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nDguFI25U1aJwVJ @shin_yo_jyu 资本在马克思眼里是中性的，并不是敌对，所以要合理的应用"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1810570297437020160",
+        "conversation_id": "2070909282292470229",
+        "created_at": "2026-06-28T13:24:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T14:24:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071223256598929884"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1208009532158267392",
+              "start": 0,
+              "username": "nDguFI25U1aJwVJ"
+            },
+            {
+              "end": 29,
+              "id": "1910147268302483456",
+              "start": 17,
+              "username": "shin_yo_jyu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071223256598929884",
+        "in_reply_to_user_id": "1208009532158267392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071001352143315418",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nDguFI25U1aJwVJ @shin_yo_jyu 资本在马克思眼里是中性的，并不是敌对，所以要合理的应用"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1208009532158267392",
+        "conversation_id": "2070909282292470229",
+        "created_at": "2026-06-27T22:42:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T23:42:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071001352143315418"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1910147268302483456",
+              "start": 0,
+              "username": "shin_yo_jyu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071001352143315418",
+        "in_reply_to_user_id": "1910147268302483456",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 84,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070909282292470229",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shin_yo_jyu 鄧小平は資本主義入れましたね"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-09T07:03:02.000Z",
+        "description": "- ✰*🔮✩👾✰*💜✩-\n生活在互聯網！我是低齡唐逼大傻福，十分抱歉！\n宇宙級嚴重嗜睡\nintp-t/🇨🇳建制左/社會自由主義/民主社會主義\n黑色長條生物：@Shivam3228",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 78,
+                "username": "Shivam3228"
+              }
+            ]
+          }
+        },
+        "id": "1810570297437020160",
+        "location": "精神衛生中心",
+        "name": "spring风＃星宿四/三周目版",
+        "pinned_tweet_id": "2053483960211214638",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024747915840016390/eLTLiD4Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 236,
+          "following_count": 178,
+          "like_count": 628,
+          "listed_count": 1,
+          "media_count": 81,
+          "tweet_count": 1185
+        },
+        "url": "",
+        "username": "ace31ch",
+        "verified": false
+      },
+      {
+        "created_at": "2019-12-20T13:01:40.000Z",
+        "description": "https://t.co/vFQwjn6Jubココナラで相談のってる。心理学人文学、歴史が得意。歴史の本、邦画、ドラマ、アニメも見た、東京も詳しい。ファミマクリエイターなりましたhttps://t.co/ID4HJCbqau https://t.co/hEG9JfwYK5",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "coconala.com/users/207785/?…",
+                "end": 23,
+                "expanded_url": "https://coconala.com/users/207785/?s=",
+                "start": 0,
+                "url": "https://t.co/vFQwjn6Jub"
+              },
+              {
+                "display_url": "lit.link/takashi09",
+                "end": 112,
+                "expanded_url": "https://lit.link/takashi09",
+                "start": 89,
+                "url": "https://t.co/ID4HJCbqau"
+              },
+              {
+                "display_url": "youtu.be/0kwRS7MXi34",
+                "end": 136,
+                "expanded_url": "https://youtu.be/0kwRS7MXi34",
+                "start": 113,
+                "url": "https://t.co/hEG9JfwYK5"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pococha.com/ja-jp/app/live…",
+                "end": 23,
+                "expanded_url": "https://www.pococha.com/ja-jp/app/lives/shared/24925316?timestamp=1654899778",
+                "start": 0,
+                "url": "https://t.co/FudoFdWozB"
+              }
+            ]
+          }
+        },
+        "id": "1208009532158267392",
+        "name": "たかし",
+        "pinned_tweet_id": "2070531009091870782",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1233925350469459968/fyscOTu6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 561,
+          "following_count": 491,
+          "like_count": 7632,
+          "listed_count": 13,
+          "media_count": 1144,
+          "tweet_count": 70417
+        },
+        "url": "https://t.co/FudoFdWozB",
+        "username": "nDguFI25U1aJwVJ",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-10T01:46:37.000Z",
+        "description": "新しき世の 新しき風 我が党のうちより起こる 民主社会の旗明らかに\n国民民主党を政権党へ！\n自称「皇室を戴く社会主義者」\n民社党支持🌹🐇/左右の全体主義に反対/福祉国家実現/社共絶許/国体堅持/自由民主主義堅持\n#今こそ民社 #民社党 #民社ユーアイ\n勤労者の政治、愛国の政治を勝ち取ろう\n野球と中国が趣味",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 112,
+                "start": 106,
+                "tag": "今こそ民社"
+              },
+              {
+                "end": 117,
+                "start": 113,
+                "tag": "民社党"
+              },
+              {
+                "end": 125,
+                "start": 118,
+                "tag": "民社ユーアイ"
+              }
+            ]
+          }
+        },
+        "id": "1910147268302483456",
+        "location": "大阪市",
+        "name": "針葉樹🌹🐰",
+        "pinned_tweet_id": "2063485527429673186",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910147527200104448/hftqa1Og_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 315,
+          "following_count": 566,
+          "like_count": 5613,
+          "listed_count": 7,
+          "media_count": 299,
+          "tweet_count": 6943
+        },
+        "url": "",
+        "username": "shin_yo_jyu",
+        "verified": false
+      }
+    ]
+  }
+}

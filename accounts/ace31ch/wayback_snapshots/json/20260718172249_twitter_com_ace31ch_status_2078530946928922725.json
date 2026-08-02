@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1810570297437020160",
+    "conversation_id": "2078269430602387967",
+    "created_at": "2026-07-18T17:22:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T18:22:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078530946928922725"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1654868723428368384",
+          "start": 0,
+          "username": "suukaikin"
+        },
+        {
+          "end": 20,
+          "id": "193648759",
+          "start": 11,
+          "username": "ripo0079"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078530946928922725",
+    "in_reply_to_user_id": "1654868723428368384",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078502381239828953",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@suukaikin @ripo0079 0.1元的纸币已经见不到了，现在用的都是硬币"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1810570297437020160",
+        "conversation_id": "2078269430602387967",
+        "created_at": "2026-07-18T17:22:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T18:22:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078530946928922725"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1654868723428368384",
+              "start": 0,
+              "username": "suukaikin"
+            },
+            {
+              "end": 20,
+              "id": "193648759",
+              "start": 11,
+              "username": "ripo0079"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078530946928922725",
+        "in_reply_to_user_id": "1654868723428368384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078502381239828953",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@suukaikin @ripo0079 0.1元的纸币已经见不到了，现在用的都是硬币"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1654868723428368384",
+        "conversation_id": "2078269430602387967",
+        "created_at": "2026-07-18T15:29:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T16:29:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078502381239828953"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "193648759",
+              "start": 0,
+              "username": "ripo0079"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078502381239828953",
+        "in_reply_to_user_id": "193648759",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 52,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078269430602387967",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ripo0079 图片中0.1元和0.5元的纸币现在仍然被使用"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-09T07:03:02.000Z",
+        "description": "- ✰*🔮✩👾✰*💜✩-\n生活在互聯網！我是低齡唐逼大傻福，十分抱歉！\n宇宙級嚴重嗜睡\nintp-t/🇨🇳建制左/社會自由主義/民主社會主義\n黑色長條生物：@Shivam3228",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 78,
+                "username": "Shivam3228"
+              }
+            ]
+          }
+        },
+        "id": "1810570297437020160",
+        "location": "精神衛生中心",
+        "name": "spring风＃星宿四/三周目版",
+        "pinned_tweet_id": "2053483960211214638",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024747915840016390/eLTLiD4Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 282,
+          "following_count": 185,
+          "like_count": 664,
+          "listed_count": 1,
+          "media_count": 88,
+          "tweet_count": 1229
+        },
+        "url": "",
+        "username": "ace31ch",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-06T15:20:48.000Z",
+        "description": "19 Motherland：🇨🇳Studying：🇺🇸&🇯🇵\n我想去世界的其他地方看看",
+        "id": "1654868723428368384",
+        "location": "Earth",
+        "name": "鄒かいきん",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075164465138692096/6sCLzQeY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 15,
+          "like_count": 3,
+          "listed_count": 1,
+          "media_count": 0,
+          "tweet_count": 23
+        },
+        "url": "",
+        "username": "suukaikin",
+        "verified": false
+      },
+      {
+        "created_at": "2010-09-22T10:51:40.000Z",
+        "description": "🏳️‍⚧️Ripo(中文:莉珀)🏳️‍⚧️ Jpn/Eng/在学中文 インターネット🏳️‍⚧️界隈 国際ニートなご令嬢。青組。🍥跨性别。人間はやっていく生き物です。ソ連、オタク、歴史、旅行、ジェンダーを雑多にやっていくアカウントです。オタクをきちんとやっていきます。🏳️‍⚧️pride.",
+        "id": "193648759",
+        "location": "東側",
+        "name": "りぽたん",
+        "pinned_tweet_id": "2035310430252581331",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1489537206905872384/Wlz54C4Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12756,
+          "following_count": 1435,
+          "like_count": 75437,
+          "listed_count": 141,
+          "media_count": 4548,
+          "tweet_count": 55362
+        },
+        "url": "",
+        "username": "ripo0079",
+        "verified": true
+      }
+    ]
+  }
+}

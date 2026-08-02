@@ -1,0 +1,349 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1810570297437020160",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      }
+    ],
+    "conversation_id": "1812299853302800651",
+    "created_at": "2024-07-15T12:10:47.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-15T13:10:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1812822116766806374"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1686901686185721857",
+          "start": 0,
+          "username": "TrumpDailyPosts"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1812822116766806374",
+    "in_reply_to_user_id": "1686901686185721857",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1812299853302800651",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TrumpDailyPosts 差点你就可以cosplay肯迪尼了🤣👆"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1810570297437020160",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "1812299853302800651",
+        "created_at": "2024-07-15T12:10:47.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-15T13:10:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1812822116766806374"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1686901686185721857",
+              "start": 0,
+              "username": "TrumpDailyPosts"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1812822116766806374",
+        "in_reply_to_user_id": "1686901686185721857",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1812299853302800651",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TrumpDailyPosts 差点你就可以cosplay肯迪尼了🤣👆"
+      },
+      {
+        "attachments": {},
+        "author_id": "1686901686185721857",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A section of a government, like The Supreme Court",
+              "id": "88",
+              "name": "Political Body"
+            },
+            "entity": {
+              "description": "United States Secret Service",
+              "id": "941710627025829888",
+              "name": "United States Secret Service"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "United States Secret Service",
+              "id": "941710627025829888",
+              "name": "United States Secret Service"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political Body",
+              "id": "1068583660914266113",
+              "name": "Government institutions"
+            }
+          },
+          {
+            "domain": {
+              "description": "States, provinces, or prefectures, like California or Fukushima Prefecture",
+              "id": "159",
+              "name": "States"
+            },
+            "entity": {
+              "description": "Pennsylvania",
+              "id": "1010255110465679361",
+              "name": "Pennsylvania"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "The Secret Service responded to an incident involving a suspicious package located on Pennsylvania Ave.",
+              "id": "1143178863511400456",
+              "name": "White House on lockdown for the second time in 5 days"
+            }
+          }
+        ],
+        "conversation_id": "1812299853302800651",
+        "created_at": "2024-07-14T01:35:30.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-14T02:35:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1812299853302800651"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 47,
+              "normalized_text": "United States Secret Service",
+              "probability": 0.6203,
+              "start": 20,
+              "type": "Organization"
+            },
+            {
+              "end": 75,
+              "normalized_text": "Enforcement",
+              "probability": 0.5356,
+              "start": 65,
+              "type": "Other"
+            },
+            {
+              "end": 162,
+              "normalized_text": "Pennsylvania",
+              "probability": 0.9341,
+              "start": 151,
+              "type": "Place"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1812299853302800651",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3715,
+          "impression_count": 14690286,
+          "like_count": 204714,
+          "quote_count": 532,
+          "reply_count": 3140,
+          "retweet_count": 18666
+        },
+        "reply_settings": "everyone",
+        "text": "I want to thank The United States Secret Service, and all of Law Enforcement, for their rapid response on the shooting that just took place in Butler, Pennsylvania. Most importantly, I want to extend my condolences to the family of the person at the Rally who was killed, and also…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-09T07:03:02.000Z",
+        "description": "",
+        "id": "1810570297437020160",
+        "name": "ace31",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1810570420707643392/Gcoxyx8j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 3,
+          "like_count": 0,
+          "listed_count": 0,
+          "tweet_count": 3
+        },
+        "username": "ace31ch",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-03T00:48:07.000Z",
+        "description": "Donald Trump Daily Posts & Trump Team Posts So They Can Be Shared With Millions On X. (Tap 🔔+ Notify) So Posts Cannot Be Suppressed. No Affiliation",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "TrumpDailyPosts.com",
+                "end": 23,
+                "expanded_url": "http://TrumpDailyPosts.com",
+                "start": 0,
+                "url": "https://t.co/aW7qi6L26j"
+              }
+            ]
+          }
+        },
+        "id": "1686901686185721857",
+        "location": "United States of America",
+        "name": "Donald J. Trump Posts From His Truth Social",
+        "pinned_tweet_id": "1812299853302800651",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1757203362381168640/j9704gu__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 645198,
+          "following_count": 15384,
+          "like_count": 12685,
+          "listed_count": 1242,
+          "tweet_count": 7277
+        },
+        "url": "https://t.co/aW7qi6L26j",
+        "username": "TrumpDailyPosts",
+        "verified": true
+      }
+    ]
+  }
+}

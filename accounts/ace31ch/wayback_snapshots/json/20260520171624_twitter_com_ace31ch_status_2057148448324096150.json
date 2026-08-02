@@ -1,0 +1,153 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2057148426102710272"
+      ]
+    },
+    "author_id": "1810570297437020160",
+    "conversation_id": "2057148448324096150",
+    "created_at": "2026-05-20T17:16:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T18:16:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2057148448324096150"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/OZ6MhHbqIT",
+          "end": 25,
+          "expanded_url": "https://x.com/ace31ch/status/2057148448324096150/video/1",
+          "media_key": "13_2057148426102710272",
+          "start": 2,
+          "url": "https://t.co/OZ6MhHbqIT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057148448324096150",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "🤤 https://t.co/OZ6MhHbqIT"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 12350,
+        "height": 292,
+        "media_key": "13_2057148426102710272",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2057148426102710272/img/96gXhw3NLgdpBodm.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2057148426102710272/vid/avc1/296x270/vRLEKR5ZENtEbiFH.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2057148426102710272/vid/avc1/322x292/b1aEsV3oG6TRnM5X.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2057148426102710272/pl/7rxkiWLubG1h2pLp.m3u8?tag=14"
+          }
+        ],
+        "width": 322
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2057148426102710272"
+          ]
+        },
+        "author_id": "1810570297437020160",
+        "conversation_id": "2057148448324096150",
+        "created_at": "2026-05-20T17:16:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T18:16:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057148448324096150"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OZ6MhHbqIT",
+              "end": 25,
+              "expanded_url": "https://x.com/ace31ch/status/2057148448324096150/video/1",
+              "media_key": "13_2057148426102710272",
+              "start": 2,
+              "url": "https://t.co/OZ6MhHbqIT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057148448324096150",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "🤤 https://t.co/OZ6MhHbqIT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-09T07:03:02.000Z",
+        "description": "- ✰*🎀ੈ✩👾✰*💗ੈ✩-\n生活在互聯網！我是低齡唐逼大傻福，十分抱歉！\n宇宙級嚴重嗜睡\nintp-t/🇨🇳建制左/社會自由主義",
+        "id": "1810570297437020160",
+        "location": "精神衛生中心",
+        "name": "spring风＃星宿四/三周目版",
+        "pinned_tweet_id": "2053483960211214638",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024747915840016390/eLTLiD4Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 200,
+          "following_count": 150,
+          "like_count": 356,
+          "listed_count": 1,
+          "media_count": 61,
+          "tweet_count": 985
+        },
+        "username": "ace31ch",
+        "verified": false
+      }
+    ]
+  }
+}

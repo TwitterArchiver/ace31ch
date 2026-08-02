@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1810570297437020160",
+    "conversation_id": "2038610254859243737",
+    "created_at": "2026-03-30T15:27:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-30T16:27:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038639372707483843"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1877920404561690624",
+          "start": 0,
+          "username": "EncounRain"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038639372707483843",
+    "in_reply_to_user_id": "1877920404561690624",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038610254859243737",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@EncounRain 霖救回来估计一辈子要做轮椅了🤔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1810570297437020160",
+        "conversation_id": "2038610254859243737",
+        "created_at": "2026-03-30T15:27:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T16:27:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038639372707483843"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1877920404561690624",
+              "start": 0,
+              "username": "EncounRain"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038639372707483843",
+        "in_reply_to_user_id": "1877920404561690624",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038610254859243737",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EncounRain 霖救回来估计一辈子要做轮椅了🤔"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877920404561690624",
+        "conversation_id": "2038610254859243737",
+        "created_at": "2026-03-30T13:32:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T14:32:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038610254859243737"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2038610254859243737",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 232,
+          "like_count": 25,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "霖。霖。霖。你什么时候发一条被救回来了在ICU。hello。你能不能再发一次推文。雨木木。。不要。我的第一个互关啊。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-09T07:03:02.000Z",
+        "description": "od wiki没有活着的传奇",
+        "id": "1810570297437020160",
+        "location": "山东省精神卫生中心",
+        "name": "spring风＃星宿四/三周目版",
+        "pinned_tweet_id": "2038607791414468833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024747915840016390/eLTLiD4Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102,
+          "following_count": 94,
+          "like_count": 206,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 650
+        },
+        "username": "ace31ch",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-11T03:28:16.000Z",
+        "description": "宝宝你的号是不是被用来刷恶评了\nos：想吃奶油味火鸡面\n吐黑泥碎碎念。互fo。。",
+        "id": "1877920404561690624",
+        "location": "東京 新宿区",
+        "name": "wishele",
+        "pinned_tweet_id": "2027287927903129679",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036223766930608128/zKZVsi1s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 262,
+          "like_count": 9181,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 645
+        },
+        "username": "EncounRain",
+        "verified": false
+      }
+    ]
+  }
+}

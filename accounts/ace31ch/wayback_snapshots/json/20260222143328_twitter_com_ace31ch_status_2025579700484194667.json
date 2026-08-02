@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1810570297437020160",
+    "conversation_id": "2025579700484194667",
+    "created_at": "2026-02-22T14:33:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-22T15:33:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025579700484194667"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1654908701772496896",
+          "start": 3,
+          "username": "tsumetaiame514"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025579700484194667",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025488249498862010",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tsumetaiame514: 药娘圈当然有巨大的问题，其中最大的就是它太小了，要是像顺直一样基数都几十亿谁还骂它，海量个例再频发都能被稀释得熟视无睹，我知道绝对会有人拿负面事件的发生比例和曝光频率来呛我，但这套说辞通向同一个答案：药娘圈太小了。你们知道什么是畸形秀吗?"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1810570297437020160",
+        "conversation_id": "2025579700484194667",
+        "created_at": "2026-02-22T14:33:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T15:33:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025579700484194667"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1654908701772496896",
+              "start": 3,
+              "username": "tsumetaiame514"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025579700484194667",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025488249498862010",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tsumetaiame514: 药娘圈当然有巨大的问题，其中最大的就是它太小了，要是像顺直一样基数都几十亿谁还骂它，海量个例再频发都能被稀释得熟视无睹，我知道绝对会有人拿负面事件的发生比例和曝光频率来呛我，但这套说辞通向同一个答案：药娘圈太小了。你们知道什么是畸形秀吗?"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1654908701772496896",
+        "conversation_id": "2025488249498862010",
+        "created_at": "2026-02-22T08:30:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T09:30:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025488249498862010"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/CldGeo/status/…",
+              "end": 143,
+              "expanded_url": "https://twitter.com/CldGeo/status/2025391592366813361",
+              "start": 120,
+              "url": "https://t.co/92S6hzdiDT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025488249498862010",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1748,
+          "like_count": 51,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025391592366813361",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "药娘圈当然有巨大的问题，其中最大的就是它太小了，要是像顺直一样基数都几十亿谁还骂它，海量个例再频发都能被稀释得熟视无睹，我知道绝对会有人拿负面事件的发生比例和曝光频率来呛我，但这套说辞通向同一个答案：药娘圈太小了。你们知道什么是畸形秀吗? https://t.co/92S6hzdiDT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-09T07:03:02.000Z",
+        "description": "od wiki没有活着的传奇",
+        "id": "1810570297437020160",
+        "location": "山东省精神卫生中心",
+        "name": "spring风＃星宿四/三周目版",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024747915840016390/eLTLiD4Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 30,
+          "like_count": 21,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 105
+        },
+        "username": "ace31ch",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-06T17:59:27.000Z",
+        "description": "抛掉书本上街去",
+        "id": "1654908701772496896",
+        "location": "No.200 People Avenue, Shanghai",
+        "name": "AmeGPT",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991954477931245568/aYlWGYxB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5184,
+          "following_count": 1165,
+          "like_count": 20302,
+          "listed_count": 8,
+          "media_count": 257,
+          "tweet_count": 3943
+        },
+        "username": "tsumetaiame514",
+        "verified": false
+      }
+    ]
+  }
+}

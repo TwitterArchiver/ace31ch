@@ -1,0 +1,358 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1810570297437020160",
+    "conversation_id": "2038592871201472990",
+    "created_at": "2026-03-30T12:23:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-30T13:23:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2038592871201472990"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/NomtfYuwen/sta…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/NomtfYuwen/status/2038499199424020679",
+          "start": 11,
+          "url": "https://t.co/jBygE5RqB7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038592871201472990",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038499199424020679",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这将另我游玩网易版😋 https://t.co/jBygE5RqB7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 490,
+        "media_key": "3_2038499188020035584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEo0NgjbQAAygfD.jpg",
+        "width": 718
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1810570297437020160",
+        "conversation_id": "2038592871201472990",
+        "created_at": "2026-03-30T12:23:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T13:23:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038592871201472990"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/NomtfYuwen/sta…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/NomtfYuwen/status/2038499199424020679",
+              "start": 11,
+              "url": "https://t.co/jBygE5RqB7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038592871201472990",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038499199424020679",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这将另我游玩网易版😋 https://t.co/jBygE5RqB7"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038499188020035584"
+          ]
+        },
+        "author_id": "2027031128738275328",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597218340864",
+              "name": "Video Games - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "10043689888",
+              "name": "Minecraft"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10043689888",
+              "name": "Minecraft"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491899619193749511",
+              "name": "Sandbox games"
+            }
+          }
+        ],
+        "conversation_id": "2038499199424020679",
+        "created_at": "2026-03-30T06:10:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T07:10:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038499199424020679"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/G1JIzFARcA",
+              "end": 38,
+              "expanded_url": "https://x.com/NomtfYuwen/status/2038499199424020679/photo/1",
+              "media_key": "3_2038499188020035584",
+              "start": 15,
+              "url": "https://t.co/G1JIzFARcA"
+            },
+            {
+              "display_url": "x.com/nomtfyuwen/sta…",
+              "end": 62,
+              "expanded_url": "https://twitter.com/nomtfyuwen/status/2038434614243471664",
+              "start": 39,
+              "url": "https://t.co/MQhriDUPXt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038499199424020679",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 741,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038434614243471664",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "拿我皮肤玩末地烛我把你🐎杀了 https://t.co/G1JIzFARcA https://t.co/MQhriDUPXt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-09T07:03:02.000Z",
+        "description": "od wiki没有活着的传奇",
+        "id": "1810570297437020160",
+        "location": "山东省精神卫生中心",
+        "name": "spring风＃星宿四/三周目版",
+        "pinned_tweet_id": "2032809726925484190",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024747915840016390/eLTLiD4Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101,
+          "following_count": 83,
+          "like_count": 186,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 630
+        },
+        "username": "ace31ch",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-26T14:42:39.000Z",
+        "description": "MTF🏳️‍⚧️｜HRT2025.6.30😋｜已净身😈｜反跨🤓｜ENFP｜持证含糖🍥｜低价🍥：https://t.co/Gsq7AeQddl（@shaoxiancao1314）｜不药娘网：https://t.co/EPszM55UzA",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 87,
+                "start": 71,
+                "username": "shaoxiancao1314"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/qianxian1314520",
+                "end": 70,
+                "expanded_url": "http://t.me/qianxian1314520",
+                "start": 47,
+                "url": "https://t.co/Gsq7AeQddl"
+              },
+              {
+                "display_url": "反跨.com",
+                "end": 117,
+                "expanded_url": "http://www.xn--kor256k.com",
+                "start": 94,
+                "url": "https://t.co/EPszM55UzA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "反跨.com",
+                "end": 23,
+                "expanded_url": "http://www.xn--kor256k.com",
+                "start": 0,
+                "url": "https://t.co/EPszM55UzA"
+              }
+            ]
+          }
+        },
+        "id": "2027031128738275328",
+        "name": "唐毓文",
+        "pinned_tweet_id": "2038434614243471664",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032587229864853504/72tgSyzq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1663,
+          "following_count": 53,
+          "like_count": 97,
+          "listed_count": 4,
+          "media_count": 105,
+          "tweet_count": 716
+        },
+        "url": "https://t.co/EPszM55UzA",
+        "username": "NomtfYuwen",
+        "verified": false
+      }
+    ]
+  }
+}

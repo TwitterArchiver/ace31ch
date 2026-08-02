@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1810570297437020160",
+    "conversation_id": "2037480741190402172",
+    "created_at": "2026-03-27T10:43:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-27T11:43:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2037480741190402172"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Lomyral/status…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/Lomyral/status/2037394463996420539",
+          "start": 6,
+          "url": "https://t.co/xLbPODpHI3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037480741190402172",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037394463996420539",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "何意味。？ https://t.co/xLbPODpHI3"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1810570297437020160",
+        "conversation_id": "2037480741190402172",
+        "created_at": "2026-03-27T10:43:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T11:43:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037480741190402172"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Lomyral/status…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/Lomyral/status/2037394463996420539",
+              "start": 6,
+              "url": "https://t.co/xLbPODpHI3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037480741190402172",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037394463996420539",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "何意味。？ https://t.co/xLbPODpHI3"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1886385501130866688",
+        "conversation_id": "2037394463996420539",
+        "created_at": "2026-03-27T05:01:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T06:01:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037394463996420539"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2037394463996420539",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1234,
+          "like_count": 32,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "已经过去快一周了，我还在想上周六看到的旋转彩色大便，那坨大便真的超级大，特别震撼，尤其是它一边旋转一边向外飚屎朝你冲来的时候"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-09T07:03:02.000Z",
+        "description": "od wiki没有活着的传奇",
+        "id": "1810570297437020160",
+        "location": "山东省精神卫生中心",
+        "name": "spring风＃星宿四/三周目版",
+        "pinned_tweet_id": "2032809726925484190",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024747915840016390/eLTLiD4Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85,
+          "following_count": 80,
+          "like_count": 157,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 573
+        },
+        "username": "ace31ch",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-03T12:05:49.000Z",
+        "description": "enby,he/they.泛性恋.日常推,除了碎碎念就没别的了.不贩卖任何东西.我不吸毒，别钓了",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lomyral",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lomyral",
+                "start": 0,
+                "url": "https://t.co/ZWfkB4yLYI"
+              }
+            ]
+          }
+        },
+        "id": "1886385501130866688",
+        "location": "医院药房",
+        "name": "Lomyral",
+        "pinned_tweet_id": "2037008321446830236",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888630778453729280/vZIfPLyg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 439,
+          "following_count": 434,
+          "like_count": 33951,
+          "listed_count": 0,
+          "media_count": 65,
+          "tweet_count": 3660
+        },
+        "url": "https://t.co/ZWfkB4yLYI",
+        "username": "Lomyral",
+        "verified": false
+      }
+    ]
+  }
+}

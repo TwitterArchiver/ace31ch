@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2026096360064434176"
+      ]
+    },
+    "author_id": "1810570297437020160",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2025936115589648727",
+    "created_at": "2026-02-24T00:46:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-24T01:46:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026096363394720225"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1795785939438215168",
+          "start": 0,
+          "username": "EMeowSys"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/CdhKACckBm",
+          "end": 33,
+          "expanded_url": "https://x.com/ace31ch/status/2026096363394720225/photo/1",
+          "media_key": "3_2026096360064434176",
+          "start": 10,
+          "url": "https://t.co/CdhKACckBm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026096363394720225",
+    "in_reply_to_user_id": "1795785939438215168",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025936115589648727",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@EMeowSys https://t.co/CdhKACckBm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2026096360064434176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB4j555aQAA2vDJ.jpg",
+        "width": 933
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026096360064434176"
+          ]
+        },
+        "author_id": "1810570297437020160",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2025936115589648727",
+        "created_at": "2026-02-24T00:46:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T01:46:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026096363394720225"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1795785939438215168",
+              "start": 0,
+              "username": "EMeowSys"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CdhKACckBm",
+              "end": 33,
+              "expanded_url": "https://x.com/ace31ch/status/2026096363394720225/photo/1",
+              "media_key": "3_2026096360064434176",
+              "start": 10,
+              "url": "https://t.co/CdhKACckBm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026096363394720225",
+        "in_reply_to_user_id": "1795785939438215168",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025936115589648727",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EMeowSys https://t.co/CdhKACckBm"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1795785939438215168",
+        "conversation_id": "2025936115589648727",
+        "created_at": "2026-02-23T14:09:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T15:09:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025936115589648727"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/NagiExpress/st…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/NagiExpress/status/2025934410747367570",
+              "start": 3,
+              "url": "https://t.co/pV3px9IJC1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025936115589648727",
+        "lang": "qst",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 409,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025934410747367570",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "？？ https://t.co/pV3px9IJC1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-09T07:03:02.000Z",
+        "description": "od wiki没有活着的传奇",
+        "id": "1810570297437020160",
+        "location": "山东省精神卫生中心",
+        "name": "spring风＃星宿四/三周目版",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024747915840016390/eLTLiD4Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 35,
+          "like_count": 38,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 143
+        },
+        "username": "ace31ch",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-29T11:55:18.000Z",
+        "description": "这里易喵系统/末影猫/BG5CYK\n自发型/创伤型多意识体\nCN/EN/JP学习中\n社交渴望\n墙内活跃\n二次元/业余无线电/轨道交通/程序设计/Minecraft\n友跨顺女",
+        "id": "1795785939438215168",
+        "location": "虚空中的易喵系统",
+        "name": "易喵系统(末影猫Project)",
+        "pinned_tweet_id": "1968195420506771945",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1795786104316272640/IXVNkPY1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1234,
+          "following_count": 2684,
+          "like_count": 10362,
+          "listed_count": 5,
+          "media_count": 412,
+          "tweet_count": 4902
+        },
+        "username": "EMeowSys",
+        "verified": false
+      }
+    ]
+  }
+}

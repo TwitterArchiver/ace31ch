@@ -1,0 +1,304 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2078526898649583616"
+      ]
+    },
+    "author_id": "1810570297437020160",
+    "conversation_id": "2078522267601141914",
+    "created_at": "2026-07-18T17:06:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T18:06:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078526916999745736"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1916817753635426304",
+          "start": 0,
+          "username": "Goldwater8964"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/uWIKfnzcyP",
+          "end": 38,
+          "expanded_url": "https://x.com/ace31ch/status/2078526916999745736/photo/1",
+          "media_key": "3_2078526898649583616",
+          "start": 15,
+          "url": "https://t.co/uWIKfnzcyP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078526916999745736",
+    "in_reply_to_user_id": "1916817753635426304",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078522267601141914",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Goldwater8964 https://t.co/uWIKfnzcyP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 973,
+        "media_key": "3_2078526898649583616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNhpM6oaUAAIncL.jpg",
+        "width": 1169
+      },
+      {
+        "height": 1027,
+        "media_key": "3_2078522258520498176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNhk-0zbYAA6fyr.jpg",
+        "width": 1169
+      },
+      {
+        "height": 1028,
+        "media_key": "3_2078522258512060416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNhk-0xaoAA8UFn.jpg",
+        "width": 1169
+      },
+      {
+        "height": 840,
+        "media_key": "3_2078522258520522752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNhk-0zbwAA4zE-.jpg",
+        "width": 903
+      },
+      {
+        "height": 1012,
+        "media_key": "3_2078522258512130048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNhk-0xbsAA-RLG.jpg",
+        "width": 1169
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078526898649583616"
+          ]
+        },
+        "author_id": "1810570297437020160",
+        "conversation_id": "2078522267601141914",
+        "created_at": "2026-07-18T17:06:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T18:06:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078526916999745736"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1916817753635426304",
+              "start": 0,
+              "username": "Goldwater8964"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/uWIKfnzcyP",
+              "end": 38,
+              "expanded_url": "https://x.com/ace31ch/status/2078526916999745736/photo/1",
+              "media_key": "3_2078526898649583616",
+              "start": 15,
+              "url": "https://t.co/uWIKfnzcyP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078526916999745736",
+        "in_reply_to_user_id": "1916817753635426304",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078522267601141914",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Goldwater8964 https://t.co/uWIKfnzcyP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078522258520498176",
+            "3_2078522258512060416",
+            "3_2078522258520522752",
+            "3_2078522258512130048"
+          ]
+        },
+        "author_id": "1916817753635426304",
+        "conversation_id": "2078522267601141914",
+        "created_at": "2026-07-18T16:48:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T17:48:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078522267601141914"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/D3M8CNBZ47",
+              "end": 34,
+              "expanded_url": "https://x.com/Goldwater8964/status/2078522267601141914/photo/1",
+              "media_key": "3_2078522258520498176",
+              "start": 11,
+              "url": "https://t.co/D3M8CNBZ47"
+            },
+            {
+              "display_url": "pic.x.com/D3M8CNBZ47",
+              "end": 34,
+              "expanded_url": "https://x.com/Goldwater8964/status/2078522267601141914/photo/1",
+              "media_key": "3_2078522258512060416",
+              "start": 11,
+              "url": "https://t.co/D3M8CNBZ47"
+            },
+            {
+              "display_url": "pic.x.com/D3M8CNBZ47",
+              "end": 34,
+              "expanded_url": "https://x.com/Goldwater8964/status/2078522267601141914/photo/1",
+              "media_key": "3_2078522258520522752",
+              "start": 11,
+              "url": "https://t.co/D3M8CNBZ47"
+            },
+            {
+              "display_url": "pic.x.com/D3M8CNBZ47",
+              "end": 34,
+              "expanded_url": "https://x.com/Goldwater8964/status/2078522267601141914/photo/1",
+              "media_key": "3_2078522258512130048",
+              "start": 11,
+              "url": "https://t.co/D3M8CNBZ47"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078522267601141914",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 30,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我看到BMPT就这样 https://t.co/D3M8CNBZ47"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-09T07:03:02.000Z",
+        "description": "- ✰*🔮✩👾✰*💜✩-\n生活在互聯網！我是低齡唐逼大傻福，十分抱歉！\n宇宙級嚴重嗜睡\nintp-t/🇨🇳建制左/社會自由主義/民主社會主義\n黑色長條生物：@Shivam3228",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 78,
+                "username": "Shivam3228"
+              }
+            ]
+          }
+        },
+        "id": "1810570297437020160",
+        "location": "精神衛生中心",
+        "name": "spring风＃星宿四/三周目版",
+        "pinned_tweet_id": "2053483960211214638",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024747915840016390/eLTLiD4Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 282,
+          "following_count": 185,
+          "like_count": 664,
+          "listed_count": 1,
+          "media_count": 88,
+          "tweet_count": 1227
+        },
+        "url": "",
+        "username": "ace31ch",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-28T11:32:29.000Z",
+        "description": "成和败努力尝试\n人若有志应该不怕迟\n谁人在我未为意\n成就靠真本事\n做个真的汉子\n承担起苦痛跟失意",
+        "id": "1916817753635426304",
+        "location": "Auckland Region, New Zealand",
+        "name": "Friedrich🇳🇿🇦🇺",
+        "pinned_tweet_id": "2072446798132883670",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065133243230265344/6BqOTcEn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1928,
+          "following_count": 1049,
+          "like_count": 8503,
+          "listed_count": 5,
+          "media_count": 376,
+          "tweet_count": 1554
+        },
+        "url": "",
+        "username": "Goldwater8964",
+        "verified": true
+      }
+    ]
+  }
+}

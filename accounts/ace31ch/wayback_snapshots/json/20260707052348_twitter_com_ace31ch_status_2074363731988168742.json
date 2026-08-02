@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1810570297437020160",
+    "conversation_id": "2074339378009448900",
+    "created_at": "2026-07-07T05:23:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T06:23:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074363731988168742"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1562375313559994368",
+          "start": 0,
+          "username": "xnyn47519716"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074363731988168742",
+    "in_reply_to_user_id": "1562375313559994368",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074339378009448900",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xnyn47519716 小时候看这集被建制派的大手制裁了😭"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1404,
+        "media_key": "3_2074339371600461824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMmIqwvaQAAXlK9.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1810570297437020160",
+        "conversation_id": "2074339378009448900",
+        "created_at": "2026-07-07T05:23:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T06:23:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074363731988168742"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1562375313559994368",
+              "start": 0,
+              "username": "xnyn47519716"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074363731988168742",
+        "in_reply_to_user_id": "1562375313559994368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074339378009448900",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xnyn47519716 小时候看这集被建制派的大手制裁了😭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074339371600461824"
+          ]
+        },
+        "author_id": "1562375313559994368",
+        "conversation_id": "2074339378009448900",
+        "created_at": "2026-07-07T03:47:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T04:47:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074339378009448900"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kHAKMch4LQ",
+              "end": 34,
+              "expanded_url": "https://x.com/xnyn47519716/status/2074339378009448900/photo/1",
+              "media_key": "3_2074339371600461824",
+              "start": 11,
+              "url": "https://t.co/kHAKMch4LQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074339378009448900",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 314,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我在微信视频号刷到的 https://t.co/kHAKMch4LQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-09T07:03:02.000Z",
+        "description": "- ✰*🔮✩👾✰*💜✩-\n生活在互聯網！我是低齡唐逼大傻福，十分抱歉！\n宇宙級嚴重嗜睡\nintp-t/🇨🇳建制左/社會自由主義/民主社會主義\n黑色長條生物：@Shivam3228",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 78,
+                "username": "Shivam3228"
+              }
+            ]
+          }
+        },
+        "id": "1810570297437020160",
+        "location": "精神衛生中心",
+        "name": "spring风＃星宿四/三周目版",
+        "pinned_tweet_id": "2053483960211214638",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024747915840016390/eLTLiD4Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 258,
+          "following_count": 181,
+          "like_count": 656,
+          "listed_count": 1,
+          "media_count": 84,
+          "tweet_count": 1211
+        },
+        "url": "",
+        "username": "ace31ch",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-24T09:45:09.000Z",
+        "description": "無言フォロー失礼します。Anti-CCP 8964\n中国出身｜18↑｜日本語勉強中｜女性\n昭和軍歌・演歌・IJN / IJA関連が好きです 🇯🇵色々な思想や価値観に理解あります。\n\nDMどうぞ🐱※R18系ばかりの方はごめんなさい🚫\n\n※イラスト依頼品\n\n本垢→ @dolphin_5ge\n♡ @Minoru260502",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 143,
+                "start": 131,
+                "username": "dolphin_5ge"
+              },
+              {
+                "end": 159,
+                "start": 146,
+                "username": "Minoru260502"
+              }
+            ]
+          }
+        },
+        "id": "1562375313559994368",
+        "name": "桃之夭夭二代目(普瑞巴林重度依赖)",
+        "pinned_tweet_id": "2073696601894248854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059987682537943041/QAI4GHke_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 236,
+          "following_count": 256,
+          "like_count": 5543,
+          "listed_count": 1,
+          "media_count": 118,
+          "tweet_count": 812
+        },
+        "url": "",
+        "username": "xnyn47519716",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1810570297437020160",
+    "conversation_id": "2035332905548063002",
+    "created_at": "2026-03-22T05:14:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-22T06:14:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035585888441491808"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1958561918328643584",
+          "start": 0,
+          "username": "qwq_jihoon"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035585888441491808",
+    "in_reply_to_user_id": "1958561918328643584",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035332905548063002",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qwq_jihoon 这并不好笑，我只看到了一个绝望的oder"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 483,
+        "media_key": "3_2035332887629971456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HD70ekbawAAp-wY.jpg",
+        "width": 1007
+      },
+      {
+        "height": 483,
+        "media_key": "3_2035332887608995840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HD70ekWasAABcih.jpg",
+        "width": 917
+      },
+      {
+        "height": 818,
+        "media_key": "3_2035332887600640000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HD70ekUbMAAAkR5.jpg",
+        "width": 950
+      },
+      {
+        "height": 1454,
+        "media_key": "3_2035332887609032704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HD70ekWbQAAv9dW.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1810570297437020160",
+        "conversation_id": "2035332905548063002",
+        "created_at": "2026-03-22T05:14:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T06:14:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035585888441491808"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1958561918328643584",
+              "start": 0,
+              "username": "qwq_jihoon"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035585888441491808",
+        "in_reply_to_user_id": "1958561918328643584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035332905548063002",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qwq_jihoon 这并不好笑，我只看到了一个绝望的oder"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2035332887629971456",
+            "3_2035332887608995840",
+            "3_2035332887600640000",
+            "3_2035332887609032704"
+          ]
+        },
+        "author_id": "1958561918328643584",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2035332905548063002",
+        "created_at": "2026-03-21T12:29:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-21T13:29:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035332905548063002"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gLln7KS0Is",
+              "end": 55,
+              "expanded_url": "https://x.com/qwq_jihoon/status/2035332905548063002/photo/1",
+              "media_key": "3_2035332887629971456",
+              "start": 32,
+              "url": "https://t.co/gLln7KS0Is"
+            },
+            {
+              "display_url": "pic.x.com/gLln7KS0Is",
+              "end": 55,
+              "expanded_url": "https://x.com/qwq_jihoon/status/2035332905548063002/photo/1",
+              "media_key": "3_2035332887608995840",
+              "start": 32,
+              "url": "https://t.co/gLln7KS0Is"
+            },
+            {
+              "display_url": "pic.x.com/gLln7KS0Is",
+              "end": 55,
+              "expanded_url": "https://x.com/qwq_jihoon/status/2035332905548063002/photo/1",
+              "media_key": "3_2035332887600640000",
+              "start": 32,
+              "url": "https://t.co/gLln7KS0Is"
+            },
+            {
+              "display_url": "pic.x.com/gLln7KS0Is",
+              "end": 55,
+              "expanded_url": "https://x.com/qwq_jihoon/status/2035332905548063002/photo/1",
+              "media_key": "3_2035332887609032704",
+              "start": 32,
+              "url": "https://t.co/gLln7KS0Is"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035332905548063002",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 335,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你们想逼死我啊，我神经好痛，我神经痛死了，医生赶紧给我开药啊！ https://t.co/gLln7KS0Is"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-09T07:03:02.000Z",
+        "description": "od wiki没有活着的传奇",
+        "id": "1810570297437020160",
+        "location": "山东省精神卫生中心",
+        "name": "spring风＃星宿四/三周目版",
+        "pinned_tweet_id": "2032809726925484190",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024747915840016390/eLTLiD4Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79,
+          "following_count": 78,
+          "like_count": 145,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 526
+        },
+        "username": "ace31ch",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-21T16:08:55.000Z",
+        "description": "查成分互fo|od自残|加vq门槛52000不给别加|: @IBGDRGN|: @Lilpeep|最爱的蜜: @GD_Aug18",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 29,
+                "username": "IBGDRGN"
+              },
+              {
+                "end": 48,
+                "start": 40,
+                "username": "Lilpeep"
+              },
+              {
+                "end": 64,
+                "start": 55,
+                "username": "GD_Aug18"
+              }
+            ]
+          }
+        },
+        "id": "1958561918328643584",
+        "location": "距离你0.52km",
+        "name": "小犬_824",
+        "pinned_tweet_id": "2034637832522973409",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035455155391602688/FdpBvaq9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 128,
+          "following_count": 124,
+          "like_count": 6627,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 468
+        },
+        "username": "qwq_jihoon",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1810570297437020160",
+    "conversation_id": "2026159381050736880",
+    "created_at": "2026-02-24T04:56:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-24T05:56:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2026159381050736880"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/na_an31255/sta…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/na_an31255/status/2025963603346817462",
+          "start": 9,
+          "url": "https://t.co/9Kx47Wt9G7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026159381050736880",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025963603346817462",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我看是这辈子完了 https://t.co/9Kx47Wt9G7"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1810570297437020160",
+        "conversation_id": "2026159381050736880",
+        "created_at": "2026-02-24T04:56:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T05:56:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026159381050736880"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/na_an31255/sta…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/na_an31255/status/2025963603346817462",
+              "start": 9,
+              "url": "https://t.co/9Kx47Wt9G7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026159381050736880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025963603346817462",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我看是这辈子完了 https://t.co/9Kx47Wt9G7"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1978128183875514369",
+        "conversation_id": "2025963603346817462",
+        "created_at": "2026-02-23T15:58:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T16:58:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025963603346817462"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2025963603346817462",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 264,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "不自残就去嗑药，不嗑药就去吸毒，不吸毒就去乱交，前路一片光明"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-09T07:03:02.000Z",
+        "description": "od wiki没有活着的传奇",
+        "id": "1810570297437020160",
+        "location": "山东省精神卫生中心",
+        "name": "spring风＃星宿四/三周目版",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024747915840016390/eLTLiD4Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 37,
+          "like_count": 47,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 163
+        },
+        "username": "ace31ch",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-14T15:58:15.000Z",
+        "description": "喵/小草&我的秘密空间and日记本/精神不稳定性格有缺陷/无知 虚伪 贪婪 嫉妒 束缚 伤害/",
+        "id": "1978128183875514369",
+        "location": "乌托邦",
+        "name": "电车驶过身体发出告别声",
+        "pinned_tweet_id": "1997278535908729264",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992294900721946624/YU9ja8dB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 139,
+          "following_count": 132,
+          "like_count": 77,
+          "listed_count": 0,
+          "media_count": 82,
+          "tweet_count": 588
+        },
+        "username": "na_an31255",
+        "verified": false
+      }
+    ]
+  }
+}

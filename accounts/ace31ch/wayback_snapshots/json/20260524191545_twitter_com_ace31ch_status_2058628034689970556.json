@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1810570297437020160",
+    "conversation_id": "2058628034689970556",
+    "created_at": "2026-05-24T19:15:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T20:15:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058628034689970556"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2052313022321037312",
+          "start": 3,
+          "username": "NhpxY43417"
+        }
+      ],
+      "urls": [
+        {
+          "description": "You are invited to the channel 狸花中转站. Click above to",
+          "display_url": "t.me/+CbFzLX7Ja9BlM…",
+          "end": 48,
+          "expanded_url": "https://t.me/+CbFzLX7Ja9BlMzVh",
+          "images": [
+            {
+              "height": 320,
+              "url": "https://pbs.twimg.com/news_img/2058627174052372480/HmvhDS6O?format=jpg&name=orig",
+              "width": 320
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2058627174052372480/HmvhDS6O?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 25,
+          "status": 200,
+          "title": "狸花中转站",
+          "unwound_url": "https://t.me/+CbFzLX7Ja9BlMzVh",
+          "url": "https://t.co/dl64bSA91M"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058628034689970556",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058627168947876260",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @NhpxY43417: 解离剂滞销帮帮我们https://t.co/dl64bSA91M"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1810570297437020160",
+        "conversation_id": "2058628034689970556",
+        "created_at": "2026-05-24T19:15:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T20:15:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058628034689970556"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2052313022321037312",
+              "start": 3,
+              "username": "NhpxY43417"
+            }
+          ],
+          "urls": [
+            {
+              "description": "You are invited to the channel 狸花中转站. Click above to",
+              "display_url": "t.me/+CbFzLX7Ja9BlM…",
+              "end": 48,
+              "expanded_url": "https://t.me/+CbFzLX7Ja9BlMzVh",
+              "images": [
+                {
+                  "height": 320,
+                  "url": "https://pbs.twimg.com/news_img/2058627174052372480/HmvhDS6O?format=jpg&name=orig",
+                  "width": 320
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2058627174052372480/HmvhDS6O?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 25,
+              "status": 200,
+              "title": "狸花中转站",
+              "unwound_url": "https://t.me/+CbFzLX7Ja9BlMzVh",
+              "url": "https://t.co/dl64bSA91M"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058628034689970556",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058627168947876260",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @NhpxY43417: 解离剂滞销帮帮我们https://t.co/dl64bSA91M"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2052313022321037312",
+        "conversation_id": "2058627168947876260",
+        "created_at": "2026-05-24T19:12:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T20:12:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058627168947876260"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "You are invited to the channel 狸花中转站. Click above to",
+              "display_url": "t.me/+CbFzLX7Ja9BlM…",
+              "end": 32,
+              "expanded_url": "https://t.me/+CbFzLX7Ja9BlMzVh",
+              "images": [
+                {
+                  "height": 320,
+                  "url": "https://pbs.twimg.com/news_img/2058627174052372480/HmvhDS6O?format=jpg&name=orig",
+                  "width": 320
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2058627174052372480/HmvhDS6O?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 9,
+              "status": 200,
+              "title": "狸花中转站",
+              "unwound_url": "https://t.me/+CbFzLX7Ja9BlMzVh",
+              "url": "https://t.co/dl64bSA91M"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058627168947876260",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "解离剂滞销帮帮我们https://t.co/dl64bSA91M"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-09T07:03:02.000Z",
+        "description": "- ✰*🔮✩👾✰*💜✩-\n生活在互聯網！我是低齡唐逼大傻福，十分抱歉！\n宇宙級嚴重嗜睡\nintp-t/🇨🇳建制左/社會自由主義\n黑色長條生物：@Kuromi_ooooo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 71,
+                "username": "Kuromi_ooooo"
+              }
+            ]
+          }
+        },
+        "id": "1810570297437020160",
+        "location": "精神衛生中心",
+        "name": "spring风＃星宿四/三周目版",
+        "pinned_tweet_id": "2053483960211214638",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024747915840016390/eLTLiD4Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 220,
+          "following_count": 163,
+          "like_count": 431,
+          "listed_count": 1,
+          "media_count": 69,
+          "tweet_count": 1051
+        },
+        "username": "ace31ch",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-07T09:02:35.000Z",
+        "description": "猫\n还是耐药王\ntg@ngdj1124",
+        "id": "2052313022321037312",
+        "name": "猫二代目",
+        "pinned_tweet_id": "2055751135399752014",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053192001223606272/JJrL7kxw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 51,
+          "like_count": 8,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 62
+        },
+        "username": "NhpxY43417",
+        "verified": false
+      }
+    ]
+  }
+}

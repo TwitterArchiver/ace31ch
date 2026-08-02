@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1810570297437020160",
+    "conversation_id": "2081711891488137697",
+    "created_at": "2026-07-28T08:21:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T09:21:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082018564954017916"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1862276306937028610",
+          "start": 0,
+          "username": "n972439"
+        },
+        {
+          "end": 21,
+          "id": "1773650884544937984",
+          "start": 9,
+          "username": "denjiro_uso"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082018564954017916",
+    "in_reply_to_user_id": "1862276306937028610",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081975472238530953",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@n972439 @denjiro_uso 加入其他政党你需要在某一个领比较厉害例如老师医生什么的才能加入其他政党"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1810570297437020160",
+        "conversation_id": "2081711891488137697",
+        "created_at": "2026-07-28T08:21:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T09:21:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082018564954017916"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1862276306937028610",
+              "start": 0,
+              "username": "n972439"
+            },
+            {
+              "end": 21,
+              "id": "1773650884544937984",
+              "start": 9,
+              "username": "denjiro_uso"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082018564954017916",
+        "in_reply_to_user_id": "1862276306937028610",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081975472238530953",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@n972439 @denjiro_uso 加入其他政党你需要在某一个领比较厉害例如老师医生什么的才能加入其他政党"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1862276306937028610",
+        "conversation_id": "2081711891488137697",
+        "created_at": "2026-07-28T05:30:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T06:30:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081975472238530953"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1773650884544937984",
+              "start": 0,
+              "username": "denjiro_uso"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081975472238530953",
+        "in_reply_to_user_id": "1773650884544937984",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 160,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081711891488137697",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@denjiro_uso 北朝鮮なんかもそうだが、共産党以外の衛星政党に入ってる議員は、どういう経緯で入党することになったんだ。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-09T07:03:02.000Z",
+        "description": "- ✰*🔮✩👾✰*💜✩-\n生活在互聯網！我是低齡唐逼大傻福，十分抱歉！\nintp-t/🇨🇳建制左/社會自由主義/民主社會主義\n黑色長條生物：@Shivam3228",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 70,
+                "username": "Shivam3228"
+              }
+            ]
+          }
+        },
+        "id": "1810570297437020160",
+        "location": "精神衛生中心",
+        "name": "spring风＃星宿四/三周目版",
+        "pinned_tweet_id": "2053483960211214638",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024747915840016390/eLTLiD4Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 288,
+          "following_count": 200,
+          "like_count": 729,
+          "listed_count": 1,
+          "media_count": 101,
+          "tweet_count": 1273
+        },
+        "url": "",
+        "username": "ace31ch",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-28T23:24:15.000Z",
+        "description": "",
+        "id": "1862276306937028610",
+        "name": "菅原英樹",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 245,
+          "following_count": 1262,
+          "like_count": 116660,
+          "listed_count": 3,
+          "media_count": 1,
+          "tweet_count": 11846
+        },
+        "url": "",
+        "username": "n972439",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-29T09:59:16.000Z",
+        "description": "世界史好きの謎の人\n変な垢以外フォロバ率１０００％\n今フォローすると古参！\n\n @tera_keysub\n鍵垢です",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 40,
+                "username": "tera_keysub"
+              }
+            ]
+          }
+        },
+        "id": "1773650884544937984",
+        "location": "モナティアム",
+        "name": "TERA",
+        "pinned_tweet_id": "2040368330448740420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061399461281288192/TPWQGwm3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 757,
+          "following_count": 822,
+          "like_count": 6667,
+          "listed_count": 0,
+          "media_count": 621,
+          "tweet_count": 2258
+        },
+        "url": "",
+        "username": "denjiro_uso",
+        "verified": false
+      }
+    ]
+  }
+}

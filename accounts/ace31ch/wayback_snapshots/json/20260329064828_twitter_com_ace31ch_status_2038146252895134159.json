@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1810570297437020160",
+    "conversation_id": "2038146252895134159",
+    "created_at": "2026-03-29T06:48:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-29T07:48:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2038146252895134159"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/anblk984/statu…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/anblk984/status/2038055770059866564",
+          "start": 4,
+          "url": "https://t.co/1HyWDeqtGT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038146252895134159",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038055770059866564",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "没绷住 https://t.co/1HyWDeqtGT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 832,
+        "media_key": "3_2038055768197656576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEig7E_bcAAcAL9.jpg",
+        "width": 843
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1810570297437020160",
+        "conversation_id": "2038146252895134159",
+        "created_at": "2026-03-29T06:48:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T07:48:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038146252895134159"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/anblk984/statu…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/anblk984/status/2038055770059866564",
+              "start": 4,
+              "url": "https://t.co/1HyWDeqtGT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038146252895134159",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038055770059866564",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "没绷住 https://t.co/1HyWDeqtGT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038055768197656576"
+          ]
+        },
+        "author_id": "1103830967163117568",
+        "conversation_id": "2038055770059866564",
+        "created_at": "2026-03-29T00:48:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T01:48:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038055770059866564"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HjBdck6uqJ",
+              "end": 31,
+              "expanded_url": "https://x.com/anblk984/status/2038055770059866564/photo/1",
+              "media_key": "3_2038055768197656576",
+              "start": 8,
+              "url": "https://t.co/HjBdck6uqJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038055770059866564",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 13843,
+          "like_count": 268,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "浪蛆御用ai😁 https://t.co/HjBdck6uqJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-09T07:03:02.000Z",
+        "description": "od wiki没有活着的传奇",
+        "id": "1810570297437020160",
+        "location": "山东省精神卫生中心",
+        "name": "spring风＃星宿四/三周目版",
+        "pinned_tweet_id": "2032809726925484190",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024747915840016390/eLTLiD4Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 96,
+          "following_count": 83,
+          "like_count": 174,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 610
+        },
+        "username": "ace31ch",
+        "verified": false
+      },
+      {
+        "created_at": "2019-03-08T01:33:05.000Z",
+        "description": "黄泛区说书人/劳保爱习楠/狐鸣鬼泣，醒时尽皆虚妄；嬉笑怒骂，更无一物是真   最后感谢大爹画窝头像@data_syuxchu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 49,
+                "username": "data_syuxchu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/orewamaruganesu",
+                "end": 23,
+                "expanded_url": "https://t.me/orewamaruganesu",
+                "start": 0,
+                "url": "https://t.co/H2pejl6igE"
+              }
+            ]
+          }
+        },
+        "id": "1103830967163117568",
+        "location": "梁家河冲浪里          下面是tg频道",
+        "name": "琵琶牧々",
+        "pinned_tweet_id": "1991346530033496380",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020118049534472192/Qa7ES9rk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10992,
+          "following_count": 989,
+          "like_count": 109612,
+          "listed_count": 60,
+          "media_count": 2325,
+          "tweet_count": 26950
+        },
+        "url": "https://t.co/H2pejl6igE",
+        "username": "anblk984",
+        "verified": true
+      }
+    ]
+  }
+}

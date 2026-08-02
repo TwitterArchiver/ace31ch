@@ -1,0 +1,318 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1810570297437020160",
+    "conversation_id": "2069174076787118143",
+    "created_at": "2026-06-23T11:35:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T12:35:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069383891560046697"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1916817753635426304",
+          "start": 0,
+          "username": "Goldwater8964"
+        },
+        {
+          "end": 31,
+          "id": "1925070486418997248",
+          "start": 15,
+          "username": "Juan123445_Pr1v"
+        },
+        {
+          "end": 42,
+          "id": "1244317490768904192",
+          "start": 32,
+          "username": "Dany_7621"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069383891560046697",
+    "in_reply_to_user_id": "1916817753635426304",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069282505333825647",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Goldwater8964 @Juan123445_Pr1v @Dany_7621 这是DKP不是DDR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2069282497318547456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLeRd8Ca8AA20lQ.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1810570297437020160",
+        "conversation_id": "2069174076787118143",
+        "created_at": "2026-06-23T11:35:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T12:35:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069383891560046697"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1916817753635426304",
+              "start": 0,
+              "username": "Goldwater8964"
+            },
+            {
+              "end": 31,
+              "id": "1925070486418997248",
+              "start": 15,
+              "username": "Juan123445_Pr1v"
+            },
+            {
+              "end": 42,
+              "id": "1244317490768904192",
+              "start": 32,
+              "username": "Dany_7621"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069383891560046697",
+        "in_reply_to_user_id": "1916817753635426304",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069282505333825647",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Goldwater8964 @Juan123445_Pr1v @Dany_7621 这是DKP不是DDR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069282497318547456"
+          ]
+        },
+        "author_id": "1916817753635426304",
+        "conversation_id": "2069174076787118143",
+        "created_at": "2026-06-23T04:52:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T05:52:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069282505333825647"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1925070486418997248",
+              "start": 0,
+              "username": "Juan123445_Pr1v"
+            },
+            {
+              "end": 27,
+              "id": "1244317490768904192",
+              "start": 17,
+              "username": "Dany_7621"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/WCBFkWFd9j",
+              "end": 100,
+              "expanded_url": "https://x.com/Goldwater8964/status/2069282505333825647/photo/1",
+              "media_key": "3_2069282497318547456",
+              "start": 77,
+              "url": "https://t.co/WCBFkWFd9j"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069282505333825647",
+        "in_reply_to_user_id": "1925070486418997248",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 133,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069174076787118143",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Juan123445_Pr1v @Dany_7621 We even have some transsexual people from DDR🤣🤣🤣 https://t.co/WCBFkWFd9j"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-09T07:03:02.000Z",
+        "description": "- ✰*🔮✩👾✰*💜✩-\n生活在互聯網！我是低齡唐逼大傻福，十分抱歉！\n宇宙級嚴重嗜睡\nintp-t/🇨🇳建制左/社會自由主義/民主社會主義\n黑色長條生物：@Shivam3228",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 78,
+                "username": "Shivam3228"
+              }
+            ]
+          }
+        },
+        "id": "1810570297437020160",
+        "location": "精神衛生中心",
+        "name": "spring风＃星宿四/三周目版",
+        "pinned_tweet_id": "2053483960211214638",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024747915840016390/eLTLiD4Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 237,
+          "following_count": 178,
+          "like_count": 610,
+          "listed_count": 1,
+          "media_count": 81,
+          "tweet_count": 1167
+        },
+        "url": "",
+        "username": "ace31ch",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-28T11:32:29.000Z",
+        "description": "悉尼之鼠🦘 UNSW学生🇦🇺 新西兰ACT正式成员🇳🇿 哈耶克最锋利的剑 满人正黄旗完颜氏",
+        "id": "1916817753635426304",
+        "location": "Auckland Region, New Zealand",
+        "name": "Friedrich🇳🇿🇦🇺",
+        "pinned_tweet_id": "2062041029390610678",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065133243230265344/6BqOTcEn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1841,
+          "following_count": 1029,
+          "like_count": 7703,
+          "listed_count": 5,
+          "media_count": 329,
+          "tweet_count": 1445
+        },
+        "url": "",
+        "username": "Goldwater8964",
+        "verified": true
+      },
+      {
+        "created_at": "2025-05-21T06:06:00.000Z",
+        "description": "☭\nComputerizationist, MGS fan, Loji's husband, 🇨🇴/UNAL, TFR fan/Open DMs/I follow back!(Follow≠Endorsement)/Priv @juan_priv123445 Alt @juan123455_ /Wokecel",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 129,
+                "start": 113,
+                "username": "juan_priv123445"
+              },
+              {
+                "end": 146,
+                "start": 134,
+                "username": "juan123455_"
+              }
+            ]
+          }
+        },
+        "id": "1925070486418997248",
+        "name": "Juan123445 🇨🇴🚩☭",
+        "pinned_tweet_id": "2051636937811693589",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062247818236923904/GnHJptjc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1172,
+          "following_count": 1636,
+          "like_count": 18936,
+          "listed_count": 7,
+          "media_count": 1984,
+          "tweet_count": 9779
+        },
+        "url": "",
+        "username": "Juan123445_Pr1v",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-29T17:36:51.000Z",
+        "description": "the poison itselft\nNO  MINORS FUCK OFF KIDS🔻🔞\nLeftist Larp  and also things related to art and furry slop",
+        "id": "1244317490768904192",
+        "location": "C.C.C.P",
+        "name": "Dany🌳 🚩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068214829068738560/A36Zuj6b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 188,
+          "following_count": 2069,
+          "like_count": 10657,
+          "listed_count": 5,
+          "media_count": 470,
+          "tweet_count": 5073
+        },
+        "url": "",
+        "username": "Dany_7621",
+        "verified": false
+      }
+    ]
+  }
+}

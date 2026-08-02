@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1810570297437020160",
+    "conversation_id": "2025166776766767594",
+    "created_at": "2026-02-21T11:12:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-21T12:12:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2025166776766767594"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/fffffffx286556…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/fffffffx286556/status/2024904260174176709",
+          "start": 5,
+          "url": "https://t.co/Wss3UMG8qx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025166776766767594",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024904260174176709",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这期神了 https://t.co/Wss3UMG8qx"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1810570297437020160",
+        "conversation_id": "2025166776766767594",
+        "created_at": "2026-02-21T11:12:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T12:12:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025166776766767594"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/fffffffx286556…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/fffffffx286556/status/2024904260174176709",
+              "start": 5,
+              "url": "https://t.co/Wss3UMG8qx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025166776766767594",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024904260174176709",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这期神了 https://t.co/Wss3UMG8qx"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788854643163877376",
+        "conversation_id": "2024904260174176709",
+        "created_at": "2026-02-20T17:49:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T18:49:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024904260174176709"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2024904260174176709",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 15332,
+          "like_count": 221,
+          "quote_count": 1,
+          "reply_count": 37,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "张作霖看着晕倒的蒋介石说：老蒋你也不抗日啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-09T07:03:02.000Z",
+        "description": "od wiki没有活着的传奇",
+        "id": "1810570297437020160",
+        "name": "spring风＃星宿四/三周目版",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024747915840016390/eLTLiD4Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 20,
+          "like_count": 7,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 72
+        },
+        "username": "ace31ch",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-10T08:52:45.000Z",
+        "description": "希望你每天开心^_^     kiwi不是我",
+        "id": "1788854643163877376",
+        "name": "伤心猕猴桃",
+        "pinned_tweet_id": "1975435007926935943",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021277425875943425/ddlPGrls_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29368,
+          "following_count": 66,
+          "like_count": 2855,
+          "listed_count": 44,
+          "media_count": 234,
+          "tweet_count": 1357
+        },
+        "username": "fffffffx286556",
+        "verified": false
+      }
+    ]
+  }
+}

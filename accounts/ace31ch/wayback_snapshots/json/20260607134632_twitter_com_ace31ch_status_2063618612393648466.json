@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1810570297437020160",
+    "conversation_id": "2063551011793584273",
+    "created_at": "2026-06-07T13:46:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T14:46:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063618612393648466"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1714510407006851072",
+          "start": 0,
+          "username": "hhhhhhhhhh68887"
+        },
+        {
+          "end": 26,
+          "id": "2000383206445719552",
+          "start": 17,
+          "username": "PRC_Arba"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063618612393648466",
+    "in_reply_to_user_id": "1714510407006851072",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063551134103707760",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hhhhhhhhhh68887 @PRC_Arba 实事求是"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1810570297437020160",
+        "conversation_id": "2063551011793584273",
+        "created_at": "2026-06-07T13:46:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T14:46:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063618612393648466"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1714510407006851072",
+              "start": 0,
+              "username": "hhhhhhhhhh68887"
+            },
+            {
+              "end": 26,
+              "id": "2000383206445719552",
+              "start": 17,
+              "username": "PRC_Arba"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063618612393648466",
+        "in_reply_to_user_id": "1714510407006851072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063551134103707760",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hhhhhhhhhh68887 @PRC_Arba 实事求是"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1714510407006851072",
+        "conversation_id": "2063551011793584273",
+        "created_at": "2026-06-07T09:18:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T10:18:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063551134103707760"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2000383206445719552",
+              "start": 0,
+              "username": "PRC_Arba"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063551134103707760",
+        "in_reply_to_user_id": "2000383206445719552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 90,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063551011793584273",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PRC_Arba 两个凡是"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-09T07:03:02.000Z",
+        "description": "- ✰*🔮✩👾✰*💜✩-\n生活在互聯網！我是低齡唐逼大傻福，十分抱歉！\n宇宙級嚴重嗜睡\nintp-t/🇨🇳建制左/社會自由主義/民主社會主義\n黑色長條生物：@Shivam3228",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 78,
+                "username": "Shivam3228"
+              }
+            ]
+          }
+        },
+        "id": "1810570297437020160",
+        "location": "精神衛生中心",
+        "name": "spring风＃星宿四/三周目版",
+        "pinned_tweet_id": "2053483960211214638",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024747915840016390/eLTLiD4Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 231,
+          "following_count": 171,
+          "like_count": 568,
+          "listed_count": 1,
+          "media_count": 80,
+          "tweet_count": 1143
+        },
+        "username": "ace31ch",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-18T05:15:24.000Z",
+        "description": "希腊裔法国人、未来主义者、超现实主义诗人、残酷戏剧创造者、法兰西护国主与极速弥赛亚。\n\n放弃和弥漫的虚无作斗争吧...",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "steamcommunity.com/sharedfiles/fi…",
+                "end": 23,
+                "expanded_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2587855526",
+                "start": 0,
+                "url": "https://t.co/M2EioLD2t1"
+              }
+            ]
+          }
+        },
+        "id": "1714510407006851072",
+        "location": "“太阳”",
+        "name": "⚡︎安托南•阿尔托𝓐𝓷𝓽𝓸𝓷𝓲𝓷 𝓐𝓻𝓽𝓪𝓾𝓭🇫🇷",
+        "pinned_tweet_id": "1821412705938629078",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061724312898555904/PTwvbERT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1382,
+          "following_count": 911,
+          "like_count": 23760,
+          "listed_count": 2,
+          "media_count": 1042,
+          "tweet_count": 9829
+        },
+        "url": "https://t.co/M2EioLD2t1",
+        "username": "hhhhhhhhhh68887",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-15T01:51:45.000Z",
+        "description": "PRC🇨🇳|前期本土自由派中期网左|目前为左翼建制派|左翼民族主义|毛粉|亲欧反美|反独促统、一国一制|对本土自由派/毛左友好|理性拥护习近平|不拉黑屏蔽任何人\n台湾朋友：@whitelate0001",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 100,
+                "start": 86,
+                "username": "whitelate0001"
+              }
+            ]
+          }
+        },
+        "id": "2000383206445719552",
+        "location": "THE PEOPLE'S REPUBLIC OF CHINA",
+        "name": "AVA🇨🇳",
+        "pinned_tweet_id": "2006763449796407599",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063506873958150144/oPUHx-6w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1013,
+          "following_count": 153,
+          "like_count": 2491,
+          "listed_count": 2,
+          "media_count": 236,
+          "tweet_count": 1297
+        },
+        "username": "PRC_Arba",
+        "verified": false
+      }
+    ]
+  }
+}

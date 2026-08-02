@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1810570297437020160",
+    "conversation_id": "2039248578720481758",
+    "created_at": "2026-04-01T11:57:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-01T12:57:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039311176304300205"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1703963332020146176",
+          "start": 0,
+          "username": "The_RadicalDino"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039311176304300205",
+    "in_reply_to_user_id": "1703963332020146176",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039248578720481758",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@The_RadicalDino 中国的公立学校会这样子的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 500,
+        "media_key": "3_2039248576879202304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEzdxrmbEAAWpWb.jpg",
+        "width": 327
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1810570297437020160",
+        "conversation_id": "2039248578720481758",
+        "created_at": "2026-04-01T11:57:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T12:57:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039311176304300205"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1703963332020146176",
+              "start": 0,
+              "username": "The_RadicalDino"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039311176304300205",
+        "in_reply_to_user_id": "1703963332020146176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039248578720481758",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@The_RadicalDino 中国的公立学校会这样子的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2039248576879202304"
+          ]
+        },
+        "author_id": "1703963332020146176",
+        "conversation_id": "2039248578720481758",
+        "created_at": "2026-04-01T07:48:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T08:48:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039248578720481758"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UK7xQmm1N2",
+              "end": 279,
+              "expanded_url": "https://x.com/The_RadicalDino/status/2039248578720481758/photo/1",
+              "media_key": "3_2039248576879202304",
+              "start": 256,
+              "url": "https://t.co/UK7xQmm1N2"
+            },
+            {
+              "display_url": "x.com/lianshufa/stat…",
+              "end": 303,
+              "expanded_url": "https://twitter.com/lianshufa/status/2038505539093803373",
+              "start": 280,
+              "url": "https://t.co/G73K9D4TIb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039248578720481758",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 4871,
+          "like_count": 154,
+          "quote_count": 2,
+          "reply_count": 11,
+          "retweet_count": 28
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038505539093803373",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "A queer kid's hair was cut by their barbaric School\nIf you westerners do not know, in China, school will forcibly cut your hair\nChinese schools are extremely obvious instruments of discipline\nImagine your entire school can only have one ugly hairstyle...🤮 https://t.co/UK7xQmm1N2 https://t.co/G73K9D4TIb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-09T07:03:02.000Z",
+        "description": "INTP-A",
+        "id": "1810570297437020160",
+        "location": "山东省精神卫生中心",
+        "name": "spring风＃星宿四/三周目版",
+        "pinned_tweet_id": "2038607791414468833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024747915840016390/eLTLiD4Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 135,
+          "following_count": 103,
+          "like_count": 225,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 696
+        },
+        "username": "ace31ch",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-19T02:45:23.000Z",
+        "description": "They/He\nThe Lord of Shang-Yang!\nChinese Libertarian Socialist who's also a Zoologist! \nConservation, Zoology, and Political Philosophy",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@TheRadicalDin…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@TheRadicalDino?si=PmyaI9AwRSrJVOTB",
+                "start": 0,
+                "url": "https://t.co/MAnua6sdOJ"
+              }
+            ]
+          }
+        },
+        "id": "1703963332020146176",
+        "location": "Shang-Yang, Western Provinces",
+        "name": "The RadicalDino",
+        "pinned_tweet_id": "1881081013289529702",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1705807724054020096/43vUbgkn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2896,
+          "following_count": 1090,
+          "like_count": 376498,
+          "listed_count": 15,
+          "media_count": 1114,
+          "tweet_count": 17448
+        },
+        "url": "https://t.co/MAnua6sdOJ",
+        "username": "The_RadicalDino",
+        "verified": false
+      }
+    ]
+  }
+}

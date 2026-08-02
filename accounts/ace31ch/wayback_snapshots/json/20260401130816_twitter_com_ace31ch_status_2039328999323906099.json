@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1810570297437020160",
+    "conversation_id": "2039060637716726093",
+    "created_at": "2026-04-01T13:08:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-01T14:08:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039328999323906099"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1884745808605818880",
+          "start": 0,
+          "username": "Bunbohue40037"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039328999323906099",
+    "in_reply_to_user_id": "1884745808605818880",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039060637716726093",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Bunbohue40037 难绷老大哥"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 722,
+        "media_key": "3_2039060633464049664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEwy170bkAArgwk.jpg",
+        "width": 1080
+      },
+      {
+        "height": 768,
+        "media_key": "3_2039060633455575040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEwy17yaQAAtOjE.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1810570297437020160",
+        "conversation_id": "2039060637716726093",
+        "created_at": "2026-04-01T13:08:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T14:08:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039328999323906099"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1884745808605818880",
+              "start": 0,
+              "username": "Bunbohue40037"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039328999323906099",
+        "in_reply_to_user_id": "1884745808605818880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039060637716726093",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Bunbohue40037 难绷老大哥"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2039060633464049664",
+            "3_2039060633455575040"
+          ]
+        },
+        "author_id": "1884745808605818880",
+        "conversation_id": "2039060637716726093",
+        "created_at": "2026-03-31T19:21:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T20:21:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039060637716726093"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lORn0Ph9pP",
+              "end": 28,
+              "expanded_url": "https://x.com/Bunbohue40037/status/2039060637716726093/photo/1",
+              "media_key": "3_2039060633464049664",
+              "start": 5,
+              "url": "https://t.co/lORn0Ph9pP"
+            },
+            {
+              "display_url": "pic.x.com/lORn0Ph9pP",
+              "end": 28,
+              "expanded_url": "https://x.com/Bunbohue40037/status/2039060637716726093/photo/1",
+              "media_key": "3_2039060633455575040",
+              "start": 5,
+              "url": "https://t.co/lORn0Ph9pP"
+            },
+            {
+              "display_url": "x.com/ezekiel_ka6778…",
+              "end": 52,
+              "expanded_url": "https://twitter.com/ezekiel_ka67785/status/2038607918564856124",
+              "start": 29,
+              "url": "https://t.co/WlkQxfYI8r"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039060637716726093",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1115,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038607918564856124",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "逆天翻译 https://t.co/lORn0Ph9pP https://t.co/WlkQxfYI8r"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-09T07:03:02.000Z",
+        "description": "INTP-A",
+        "id": "1810570297437020160",
+        "location": "山东省精神卫生中心",
+        "name": "spring风＃星宿四/三周目版",
+        "pinned_tweet_id": "2038607791414468833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024747915840016390/eLTLiD4Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 139,
+          "following_count": 103,
+          "like_count": 227,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 704
+        },
+        "username": "ace31ch",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-29T23:30:05.000Z",
+        "description": "she/they",
+        "id": "1884745808605818880",
+        "name": "Bún bò Huế（春节 ver）🎄🍥",
+        "pinned_tweet_id": "1967610162459623452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993755498269581312/BXnTU-n5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 334,
+          "following_count": 436,
+          "like_count": 138070,
+          "listed_count": 2,
+          "media_count": 1141,
+          "tweet_count": 16202
+        },
+        "username": "Bunbohue40037",
+        "verified": false
+      }
+    ]
+  }
+}

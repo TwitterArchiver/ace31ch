@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2024897002803527684"
+      ],
+      "media_source_tweet_id": [
+        "2024897010483261831"
+      ]
+    },
+    "author_id": "1810570297437020160",
+    "conversation_id": "2025126177200062877",
+    "created_at": "2026-02-21T08:31:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-21T09:31:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025126177200062877"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1799308675158605825",
+          "start": 3,
+          "username": "CPUP2024"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/znHlRyAUlc",
+          "end": 47,
+          "expanded_url": "https://x.com/CPUP2024/status/2024897010483261831/photo/1",
+          "media_key": "3_2024897002803527684",
+          "start": 24,
+          "url": "https://t.co/znHlRyAUlc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025126177200062877",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024897010483261831",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @CPUP2024: 那咋了，我是威权逼 https://t.co/znHlRyAUlc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 963,
+        "media_key": "3_2024897002803527684",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBnhGH7bgAQCWT_.jpg",
+        "width": 1289
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024897002803527684"
+          ],
+          "media_source_tweet_id": [
+            "2024897010483261831"
+          ]
+        },
+        "author_id": "1810570297437020160",
+        "conversation_id": "2025126177200062877",
+        "created_at": "2026-02-21T08:31:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T09:31:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025126177200062877"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1799308675158605825",
+              "start": 3,
+              "username": "CPUP2024"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/znHlRyAUlc",
+              "end": 47,
+              "expanded_url": "https://x.com/CPUP2024/status/2024897010483261831/photo/1",
+              "media_key": "3_2024897002803527684",
+              "start": 24,
+              "url": "https://t.co/znHlRyAUlc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025126177200062877",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024897010483261831",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @CPUP2024: 那咋了，我是威权逼 https://t.co/znHlRyAUlc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024897002803527684"
+          ]
+        },
+        "author_id": "1799308675158605825",
+        "conversation_id": "2024897010483261831",
+        "created_at": "2026-02-20T17:20:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T18:20:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024897010483261831"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/znHlRyAUlc",
+              "end": 33,
+              "expanded_url": "https://x.com/CPUP2024/status/2024897010483261831/photo/1",
+              "media_key": "3_2024897002803527684",
+              "start": 10,
+              "url": "https://t.co/znHlRyAUlc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024897010483261831",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 3201,
+          "like_count": 101,
+          "quote_count": 0,
+          "reply_count": 21,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "那咋了，我是威权逼 https://t.co/znHlRyAUlc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-09T07:03:02.000Z",
+        "description": "od wiki没有活着的传奇",
+        "id": "1810570297437020160",
+        "name": "spring风＃星宿四/三周目版",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024747915840016390/eLTLiD4Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 19,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 65
+        },
+        "username": "ace31ch",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-08T05:13:27.000Z",
+        "description": "欢迎来到葱的页面！小号@mikulovermua 偏生活。一位自豪的汉人，左翼建制派，支持CPC&🇨🇳，已锁似粉红成分。仰慕☪️ ally&非二元性别🏳️‍🌈&同志骄傲 stand with🇵🇸🇷🇺🇻🇪and Islamic Republic of Iran 同情粉红 毛左 左翼民族主义 拒霍犹港台",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "mikulovermua"
+              }
+            ]
+          }
+        },
+        "id": "1799308675158605825",
+        "location": "中华苏维埃共和国胜利后的中华人民共和国",
+        "name": "赛高の葱娘酱miku🇨🇳 ——我过我Chinese Year你过你Loser Year呗😸",
+        "pinned_tweet_id": "2023294364613812529",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011306261418295298/faMkCRSb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1903,
+          "following_count": 1526,
+          "like_count": 40770,
+          "listed_count": 34,
+          "media_count": 866,
+          "tweet_count": 11009
+        },
+        "username": "CPUP2024",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1810570297437020160",
+    "conversation_id": "2033178043930587439",
+    "created_at": "2026-03-16T14:55:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-16T15:55:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033557688962142280"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "822329886257790976",
+          "start": 0,
+          "username": "LumidexNZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033557688962142280",
+    "in_reply_to_user_id": "822329886257790976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033178043930587439",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LumidexNZ 怎么能对鲨鲨这样"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 2383,
+        "height": 1280,
+        "media_key": "13_2033177986862882816",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2033177986862882816/img/690iYtKwUapiXgcB.jpg",
+        "public_metrics": {
+          "view_count": 2056
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2033177986862882816/vid/avc1/320x568/GfeOcsWQ8Ef3Y30d.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2033177986862882816/vid/avc1/480x852/ClgC99meR3-oH66v.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2033177986862882816/vid/avc1/720x1280/GX_Z7qjIyHWmlLVy.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2033177986862882816/pl/Uik4aHZimkpwXxiY.m3u8"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2033177986854514689",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDdMm1ebcAEJVeL.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1810570297437020160",
+        "conversation_id": "2033178043930587439",
+        "created_at": "2026-03-16T14:55:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T15:55:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033557688962142280"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "822329886257790976",
+              "start": 0,
+              "username": "LumidexNZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033557688962142280",
+        "in_reply_to_user_id": "822329886257790976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033178043930587439",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LumidexNZ 怎么能对鲨鲨这样"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2033177986862882816",
+            "3_2033177986854514689"
+          ]
+        },
+        "author_id": "822329886257790976",
+        "conversation_id": "2033178043930587439",
+        "created_at": "2026-03-15T13:46:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T14:46:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033178043930587439"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VWThJuuPLi",
+              "end": 31,
+              "expanded_url": "https://x.com/LumidexNZ/status/2033178043930587439/video/1",
+              "media_key": "13_2033177986862882816",
+              "start": 8,
+              "url": "https://t.co/VWThJuuPLi"
+            },
+            {
+              "display_url": "pic.x.com/VWThJuuPLi",
+              "end": 31,
+              "expanded_url": "https://x.com/LumidexNZ/status/2033178043930587439/video/1",
+              "media_key": "3_2033177986854514689",
+              "start": 8,
+              "url": "https://t.co/VWThJuuPLi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033178043930587439",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 5348,
+          "like_count": 142,
+          "quote_count": 0,
+          "reply_count": 20,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "鲨鲨已被我驯服 https://t.co/VWThJuuPLi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-09T07:03:02.000Z",
+        "description": "od wiki没有活着的传奇",
+        "id": "1810570297437020160",
+        "location": "山东省精神卫生中心",
+        "name": "spring风＃星宿四/三周目版",
+        "pinned_tweet_id": "2032809726925484190",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024747915840016390/eLTLiD4Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 69,
+          "like_count": 118,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 468
+        },
+        "username": "ace31ch",
+        "verified": false
+      },
+      {
+        "created_at": "2017-01-20T06:28:17.000Z",
+        "description": "精神病挂壁老鼠人｜168cm/51kg｜大猫咪🐈@morisase｜匿名提问https://t.co/MkVyELXohF 同类互fo🍥",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 24,
+                "username": "morisase"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/11176781",
+                "end": 61,
+                "expanded_url": "http://ngl.link/11176781",
+                "start": 38,
+                "url": "https://t.co/MkVyELXohF"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/RKudep",
+                "end": 23,
+                "expanded_url": "https://t.me/RKudep",
+                "start": 0,
+                "url": "https://t.co/y8BdM7JDKk"
+              }
+            ]
+          }
+        },
+        "id": "822329886257790976",
+        "location": "喵星",
+        "name": "Lumidex🏳️‍⚧️",
+        "pinned_tweet_id": "1996780227146781129",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974094378621947904/Xsfc6pAa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1171,
+          "following_count": 534,
+          "like_count": 4122,
+          "listed_count": 1,
+          "media_count": 113,
+          "tweet_count": 1777
+        },
+        "url": "https://t.co/y8BdM7JDKk",
+        "username": "LumidexNZ",
+        "verified": false
+      }
+    ]
+  }
+}

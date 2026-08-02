@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1810570297437020160",
+    "conversation_id": "2024752385978212771",
+    "created_at": "2026-02-20T07:46:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-20T08:46:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2024752385978212771"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Furina_8620/st…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/Furina_8620/status/2024096327118852161",
+          "start": 5,
+          "url": "https://t.co/46fGB0gkQh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024752385978212771",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024096327118852161",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "那很好了 https://t.co/46fGB0gkQh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 972,
+        "media_key": "3_2024096323516133376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBcI4dJacAALDAz.jpg",
+        "width": 1264
+      },
+      {
+        "height": 1436,
+        "media_key": "3_2024096320156520448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBcI4Qoa0AA-ELs.jpg",
+        "width": 1492
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1810570297437020160",
+        "conversation_id": "2024752385978212771",
+        "created_at": "2026-02-20T07:46:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T08:46:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024752385978212771"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Furina_8620/st…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/Furina_8620/status/2024096327118852161",
+              "start": 5,
+              "url": "https://t.co/46fGB0gkQh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024752385978212771",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024096327118852161",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "那很好了 https://t.co/46fGB0gkQh"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024096323516133376",
+            "3_2024096320156520448"
+          ]
+        },
+        "author_id": "1581226356326617088",
+        "conversation_id": "2024096327118852161",
+        "created_at": "2026-02-18T12:19:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T13:19:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024096327118852161"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 83,
+              "id": "1868492139199709184",
+              "start": 75,
+              "username": "LamCimg"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/VpSOVBlPDa",
+              "end": 107,
+              "expanded_url": "https://x.com/Furina_8620/status/2024096327118852161/photo/1",
+              "media_key": "3_2024096323516133376",
+              "start": 84,
+              "url": "https://t.co/VpSOVBlPDa"
+            },
+            {
+              "display_url": "pic.x.com/VpSOVBlPDa",
+              "end": 107,
+              "expanded_url": "https://x.com/Furina_8620/status/2024096327118852161/photo/1",
+              "media_key": "3_2024096320156520448",
+              "start": 84,
+              "url": "https://t.co/VpSOVBlPDa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024096327118852161",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 50,
+          "impression_count": 28234,
+          "like_count": 181,
+          "quote_count": 27,
+          "reply_count": 26,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "一个很经典的问题：神经多样性-交通-LGBT就像一个三角一样，重合度相对较高。不知道有多少LGBT是交通爱好或者多少交通爱好者是LGBT？\n原图1来自@LamCimg https://t.co/VpSOVBlPDa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-09T07:03:02.000Z",
+        "description": "",
+        "id": "1810570297437020160",
+        "name": "spring风＃星宿四/三周目版",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024747915840016390/eLTLiD4Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 9,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 12
+        },
+        "username": "ace31ch",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-15T10:12:10.000Z",
+        "description": "東北亞航空鐵道歷史考據員、鋼琴音樂愛好者，巴別塔建設者。\n铁道｜航空｜旅行｜虹咲｜MyGO｜\n斯卡蒂｜陈｜艾雅法拉｜莱茵生命\n「思維過載」與「星塵疏離」綜合徵🏳️‍⚧️",
+        "id": "1581226356326617088",
+        "location": "普瑞赛斯考察站",
+        "name": "東北亞旅行家雪菜🇦🇶",
+        "pinned_tweet_id": "2008049582249533454",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015344776296472579/zMNIS8xU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 393,
+          "following_count": 294,
+          "like_count": 5821,
+          "listed_count": 1,
+          "media_count": 388,
+          "tweet_count": 1364
+        },
+        "username": "Furina_8620",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1810570297437020160",
+    "conversation_id": "2056294521730953256",
+    "created_at": "2026-05-18T14:37:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T15:37:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056383702188585061"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1759787246587379712",
+          "start": 0,
+          "username": "RainEngine2024m"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056383702188585061",
+    "in_reply_to_user_id": "1759787246587379712",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056294521730953256",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RainEngine2024m 冰冷的孩子变成了温暖的数字"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2056294518761385984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIls-Fha8AAKu4n.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1810570297437020160",
+        "conversation_id": "2056294521730953256",
+        "created_at": "2026-05-18T14:37:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T15:37:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056383702188585061"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1759787246587379712",
+              "start": 0,
+              "username": "RainEngine2024m"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056383702188585061",
+        "in_reply_to_user_id": "1759787246587379712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056294521730953256",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RainEngine2024m 冰冷的孩子变成了温暖的数字"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056294518761385984"
+          ]
+        },
+        "author_id": "1759787246587379712",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2056294521730953256",
+        "created_at": "2026-05-18T08:43:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T09:43:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056294521730953256"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OoMNVgiMTu",
+              "end": 163,
+              "expanded_url": "https://x.com/RainEngine2024m/status/2056294521730953256/photo/1",
+              "media_key": "3_2056294518761385984",
+              "start": 140,
+              "url": "https://t.co/OoMNVgiMTu"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "c999e6a453e9ef72"
+        },
+        "id": "2056294521730953256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 370,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一刷到这种新闻，我都是满脸的疑惑和不解，3.28 万元不仅没有治好你家孩子任何问题，反而造成了更严重的后果，我认为这 3.28 万元真正的用法是，带他旅行，和他谈心，以及他喜欢什么就买什么，不仅健康，还能促进关系，并且很多家长不知道的是，有些问题其实不大，硬是他们把问题给夸大了 https://t.co/OoMNVgiMTu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-09T07:03:02.000Z",
+        "description": "- ✰*🎀ੈ✩👾✰*💗ੈ✩-\n生活在互聯網！我是低齡唐逼大傻福，十分抱歉！\n宇宙級嚴重嗜睡\nintp-t/🇨🇳建制左/社會自由主義",
+        "id": "1810570297437020160",
+        "location": "精神衛生中心",
+        "name": "spring风＃星宿四/三周目版",
+        "pinned_tweet_id": "2053483960211214638",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024747915840016390/eLTLiD4Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 180,
+          "following_count": 148,
+          "like_count": 339,
+          "listed_count": 1,
+          "media_count": 54,
+          "tweet_count": 956
+        },
+        "username": "ace31ch",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-20T03:49:18.000Z",
+        "description": "专注次元联合创始人、FOCUSPACE品牌总经理、中国区市场部总经理｜雨擎项目组公关部总经理、产品高级体验官丨前小米门店运营 | 民主社会主义（民主、公平、法治、自由、平等） |友跨 | 数码博主 | 全平台同名",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/teamrain_2025",
+                "end": 23,
+                "expanded_url": "https://ngl.link/teamrain_2025",
+                "start": 0,
+                "url": "https://t.co/9qpFDKrzW9"
+              }
+            ]
+          }
+        },
+        "id": "1759787246587379712",
+        "location": "IP属地 ：朝鲜民主主义人民共和国",
+        "name": "高坂穗嘉图_Kernel",
+        "pinned_tweet_id": "2043020664203022783",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053668091486445568/2Q--XKwu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1552,
+          "following_count": 1504,
+          "like_count": 2966,
+          "listed_count": 12,
+          "media_count": 524,
+          "tweet_count": 1842
+        },
+        "url": "https://t.co/9qpFDKrzW9",
+        "username": "RainEngine2024m",
+        "verified": true
+      }
+    ]
+  }
+}

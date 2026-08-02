@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1810570297437020160",
+    "conversation_id": "2027018329773515133",
+    "created_at": "2026-02-26T19:12:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-26T20:12:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027099536242696539"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1916543476231208960",
+          "start": 0,
+          "username": "fayoubaike001"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027099536242696539",
+    "in_reply_to_user_id": "1916543476231208960",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027018329773515133",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fayoubaike001 我说管od不如先去管一下酗酒，od是嘎巴一下死了，酗酒容易赖着不死，所以说最好不要od和酗酒（（"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1070,
+        "media_key": "3_2027018190174474240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCFqTeqa0AApTc-.jpg",
+        "width": 720
+      },
+      {
+        "height": 1109,
+        "media_key": "3_2027018190170316800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCFqTepbYAAFSOP.jpg",
+        "width": 719
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1810570297437020160",
+        "conversation_id": "2027018329773515133",
+        "created_at": "2026-02-26T19:12:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T20:12:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027099536242696539"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1916543476231208960",
+              "start": 0,
+              "username": "fayoubaike001"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027099536242696539",
+        "in_reply_to_user_id": "1916543476231208960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027018329773515133",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fayoubaike001 我说管od不如先去管一下酗酒，od是嘎巴一下死了，酗酒容易赖着不死，所以说最好不要od和酗酒（（"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027018190174474240",
+            "3_2027018190170316800"
+          ]
+        },
+        "author_id": "1916543476231208960",
+        "conversation_id": "2027018329773515133",
+        "created_at": "2026-02-26T13:50:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T14:50:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027018329773515133"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qNSmaDRFN5",
+              "end": 60,
+              "expanded_url": "https://x.com/fayoubaike001/status/2027018329773515133/photo/1",
+              "media_key": "3_2027018190174474240",
+              "start": 37,
+              "url": "https://t.co/qNSmaDRFN5"
+            },
+            {
+              "display_url": "pic.x.com/qNSmaDRFN5",
+              "end": 60,
+              "expanded_url": "https://x.com/fayoubaike001/status/2027018329773515133/photo/1",
+              "media_key": "3_2027018190170316800",
+              "start": 37,
+              "url": "https://t.co/qNSmaDRFN5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027018329773515133",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 252,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这jb谁啊，劝他不要多管闲事，侵犯俺们正常人od的需求和权利你麻痹的！！ https://t.co/qNSmaDRFN5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-09T07:03:02.000Z",
+        "description": "od wiki没有活着的传奇",
+        "id": "1810570297437020160",
+        "location": "山东省精神卫生中心",
+        "name": "spring风＃星宿四/三周目版",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024747915840016390/eLTLiD4Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 43,
+          "like_count": 63,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 210
+        },
+        "username": "ace31ch",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-27T17:22:39.000Z",
+        "description": "以战为刃，以生为誓\n浴血而战，向死而生\n守护苍生，不负使命\n法友革命，救赎不息\n\nhttps://t.co/MU8VTbdyqD",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "fayou.club",
+                "end": 64,
+                "expanded_url": "https://fayou.club/",
+                "start": 41,
+                "url": "https://t.co/MU8VTbdyqD"
+              }
+            ]
+          }
+        },
+        "id": "1916543476231208960",
+        "name": "法友百科",
+        "pinned_tweet_id": "2026980292263899538",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026979894404808704/c76br8-L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 11,
+          "like_count": 6,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 33
+        },
+        "username": "fayoubaike001",
+        "verified": false
+      }
+    ]
+  }
+}

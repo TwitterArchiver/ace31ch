@@ -1,0 +1,311 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2079775977618735105"
+      ],
+      "media_source_tweet_id": [
+        "2080140853444829308"
+      ]
+    },
+    "author_id": "1810570297437020160",
+    "conversation_id": "2080199173669044670",
+    "created_at": "2026-07-23T07:51:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T08:51:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080199173669044670"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1260553941714186241",
+          "start": 3,
+          "username": "whyyoutouzhele"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/8rIWw1eEBV",
+          "end": 120,
+          "expanded_url": "https://x.com/whyyoutouzhele/status/2080140853444829308/video/1",
+          "media_key": "13_2079775977618735105",
+          "start": 97,
+          "url": "https://t.co/8rIWw1eEBV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080199173669044670",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 28
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080140853444829308",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @whyyoutouzhele: 《烈焰升腾》后续：三名制作者据称曾被拘，多名普通玩家遭调查\n\n7月20日，一名大学生在律师直播中透露，他因加入一个战争游戏玩家群，被警方叫去配合调查。… https://t.co/8rIWw1eEBV"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 160766,
+        "height": 1280,
+        "media_key": "13_2079775977618735105",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2079775977618735105/img/BO0YW0W1Q01a6MMH.jpg",
+        "public_metrics": {
+          "view_count": 27709
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2079775977618735105/vid/avc1/320x568/E2mNl65SDRrUVnYh.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2079775977618735105/vid/avc1/480x852/csU-B2kd_qAohFYw.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2079775977618735105/vid/avc1/720x1280/Aj_IRBz0o2PitfVI.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2079775977618735105/pl/WeyI9O5Q___oAuNO.m3u8?v=01b"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2079775977618735105"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "conversation_id": "2080140853444829308",
+        "created_at": "2026-07-23T04:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T05:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080140853444829308"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8rIWw1eEBV",
+              "end": 99,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2080140853444829308/video/1",
+              "media_key": "13_2079775977618735105",
+              "start": 76,
+              "url": "https://t.co/8rIWw1eEBV"
+            },
+            {
+              "display_url": "x.com/whyyoutouzhele…",
+              "end": 123,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/2004084702408585616",
+              "start": 100,
+              "url": "https://t.co/LTzp2tqnaZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080140853444829308",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "《烈焰升腾》后续：三名制作者据称曾被拘，多名普通玩家遭调查\n\n7月20日，一名大学生在律师直播中透露，他因加入一个战争游戏玩家群，被警方叫去配合调查。\n该学生称，三名主要制作人员曾与俄罗斯开发者共同制作《钢铁雄心4》模组，其中一条故事线设定中国在战争失败后出现分裂，三人目前已结束羁押，但案件状态不明。\n事件波及不止一个聊天群，其中一个群有100多人，许多普通群友都被警方或国安叫去做过笔录。\n他本人没有参与制作、没有分享或推广游戏，只是在群里潜水、询问攻略，也被纳入调查。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 63,
+          "impression_count": 87852,
+          "like_count": 303,
+          "quote_count": 8,
+          "reply_count": 64,
+          "retweet_count": 28
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004084702408585616",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "《烈焰升腾》后续：三名制作者据称曾被拘，多名普通玩家遭调查\n\n7月20日，一名大学生在律师直播中透露，他因加入一个战争游戏玩家群，被警方叫去配合调查。 https://t.co/8rIWw1eEBV https://t.co/LTzp2tqnaZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2079775977618735105"
+          ],
+          "media_source_tweet_id": [
+            "2080140853444829308"
+          ]
+        },
+        "author_id": "1810570297437020160",
+        "conversation_id": "2080199173669044670",
+        "created_at": "2026-07-23T07:51:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T08:51:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080199173669044670"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1260553941714186241",
+              "start": 3,
+              "username": "whyyoutouzhele"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8rIWw1eEBV",
+              "end": 120,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2080140853444829308/video/1",
+              "media_key": "13_2079775977618735105",
+              "start": 97,
+              "url": "https://t.co/8rIWw1eEBV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080199173669044670",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 28
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080140853444829308",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @whyyoutouzhele: 《烈焰升腾》后续：三名制作者据称曾被拘，多名普通玩家遭调查\n\n7月20日，一名大学生在律师直播中透露，他因加入一个战争游戏玩家群，被警方叫去配合调查。… https://t.co/8rIWw1eEBV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-09T07:03:02.000Z",
+        "description": "- ✰*🔮✩👾✰*💜✩-\n生活在互聯網！我是低齡唐逼大傻福，十分抱歉！\nintp-t/🇨🇳建制左/社會自由主義/民主社會主義\n黑色長條生物：@Shivam3228",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 70,
+                "username": "Shivam3228"
+              }
+            ]
+          }
+        },
+        "id": "1810570297437020160",
+        "location": "精神衛生中心",
+        "name": "spring风＃星宿四/三周目版",
+        "pinned_tweet_id": "2053483960211214638",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024747915840016390/eLTLiD4Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 289,
+          "following_count": 192,
+          "like_count": 689,
+          "listed_count": 1,
+          "media_count": 93,
+          "tweet_count": 1253
+        },
+        "url": "",
+        "username": "ace31ch",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/318DKi0R0h\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "telegram.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://telegram.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/318DKi0R0h"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://telegram.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/ipj3YpuAQW"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "2078717699849630025",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004720683905904640/8ZEZs67v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2243451,
+          "following_count": 1079,
+          "like_count": 9807,
+          "listed_count": 8832,
+          "media_count": 50903,
+          "tweet_count": 58122
+        },
+        "url": "https://t.co/ipj3YpuAQW",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

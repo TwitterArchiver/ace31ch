@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1810570297437020160",
+    "conversation_id": "2027392476663906706",
+    "created_at": "2026-02-27T17:51:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T18:51:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027441577967423573"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1633715238322466817",
+          "start": 0,
+          "username": "baimengmeng233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027441577967423573",
+    "in_reply_to_user_id": "1633715238322466817",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027392476663906706",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@baimengmeng233 cos的自己"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2027392466941583360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCK-tQRbIAAZp-_.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1810570297437020160",
+        "conversation_id": "2027392476663906706",
+        "created_at": "2026-02-27T17:51:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T18:51:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027441577967423573"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1633715238322466817",
+              "start": 0,
+              "username": "baimengmeng233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027441577967423573",
+        "in_reply_to_user_id": "1633715238322466817",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027392476663906706",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@baimengmeng233 cos的自己"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027392466941583360"
+          ]
+        },
+        "author_id": "1633715238322466817",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "2027392476663906706",
+        "created_at": "2026-02-27T14:36:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T15:36:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027392476663906706"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 46,
+              "start": 43,
+              "tag": "男娘"
+            },
+            {
+              "end": 50,
+              "start": 47,
+              "tag": "伪娘"
+            },
+            {
+              "end": 54,
+              "start": 51,
+              "tag": "药娘"
+            },
+            {
+              "end": 59,
+              "start": 55,
+              "tag": "mtf"
+            },
+            {
+              "end": 63,
+              "start": 60,
+              "tag": "黑丝"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/D2A9GaMiPq",
+              "end": 87,
+              "expanded_url": "https://x.com/baimengmeng233/status/2027392476663906706/photo/1",
+              "media_key": "3_2027392466941583360",
+              "start": 64,
+              "url": "https://t.co/D2A9GaMiPq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027392476663906706",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 734,
+          "like_count": 36,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "司机说我穿黑丝非常性感，长得很好看。还以为我在cosplay，我说实际上我每天都穿。 ＃男娘 ＃伪娘 ＃药娘 ＃mtf ＃黑丝 https://t.co/D2A9GaMiPq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-09T07:03:02.000Z",
+        "description": "od wiki没有活着的传奇",
+        "id": "1810570297437020160",
+        "location": "山东省精神卫生中心",
+        "name": "spring风＃星宿四/三周目版",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024747915840016390/eLTLiD4Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 47,
+          "like_count": 67,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 249
+        },
+        "username": "ace31ch",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-09T06:24:16.000Z",
+        "description": "20岁/身高160体重50/性格混乱/性别mtf/性取向是喜欢可爱的xnn和xyn/清水/持大证含糖/圈子不混只看戏的边缘独行者/中专毕业计算机自学编程笨蛋程序员一位。(扩列直接私聊我就可以了) 不喜欢随便玩抽象和来着不善的家伙靠近我,不是黄推。精神抑郁严重，精神失常的疯子（失业状态）",
+        "id": "1633715238322466817",
+        "location": "终点之路—一切的起与终",
+        "name": "羽梦🍥🏳️‍⚧️️",
+        "pinned_tweet_id": "2025099855190978827",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025079308826607616/RHqNbAWT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2819,
+          "following_count": 735,
+          "like_count": 10438,
+          "listed_count": 1,
+          "media_count": 677,
+          "tweet_count": 6905
+        },
+        "username": "baimengmeng233",
+        "verified": false
+      }
+    ]
+  }
+}

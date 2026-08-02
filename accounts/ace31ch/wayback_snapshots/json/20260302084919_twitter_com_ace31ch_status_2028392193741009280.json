@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1810570297437020160",
+    "conversation_id": "2028343807599624662",
+    "created_at": "2026-03-02T08:49:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-02T09:49:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028392193741009280"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1750730166480125952",
+          "start": 0,
+          "username": "riyo490503"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028392193741009280",
+    "in_reply_to_user_id": "1750730166480125952",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028343807599624662",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@riyo490503 钟离假死"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1810570297437020160",
+        "conversation_id": "2028343807599624662",
+        "created_at": "2026-03-02T08:49:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T09:49:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028392193741009280"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1750730166480125952",
+              "start": 0,
+              "username": "riyo490503"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028392193741009280",
+        "in_reply_to_user_id": "1750730166480125952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028343807599624662",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@riyo490503 钟离假死"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1750730166480125952",
+        "conversation_id": "2028343807599624662",
+        "created_at": "2026-03-02T05:37:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T06:37:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028343807599624662"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/PnKoZCN/status…",
+              "end": 68,
+              "expanded_url": "https://twitter.com/PnKoZCN/status/2028312704600162322",
+              "start": 45,
+              "url": "https://t.co/IKr5HLwvb1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028343807599624662",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028312704600162322",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "致敬传奇速通药娘王唐毓文🫡\n从反跨到吃糖到od到噶蛋到趋势，全流程速通，药娘圈永久的传奇 https://t.co/IKr5HLwvb1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-09T07:03:02.000Z",
+        "description": "od wiki没有活着的传奇",
+        "id": "1810570297437020160",
+        "location": "山东省精神卫生中心",
+        "name": "spring风＃星宿四/三周目版",
+        "pinned_tweet_id": "2028112366370464090",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024747915840016390/eLTLiD4Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 51,
+          "like_count": 73,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 292
+        },
+        "username": "ace31ch",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-26T03:59:41.000Z",
+        "description": "09/INFP-T/高一牲/自我性别认知混乱中/日本語を勉強したい/ododod！！/友跨/喜欢一切可爱的事物\n\n我会成为一国之材，而非一党之豺",
+        "id": "1750730166480125952",
+        "location": "中国 山东 济南",
+        "name": "柚riyo",
+        "pinned_tweet_id": "1925578602026037453",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1824458538137292803/lKoKoKLI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 210,
+          "following_count": 399,
+          "like_count": 2325,
+          "listed_count": 2,
+          "media_count": 68,
+          "tweet_count": 605
+        },
+        "username": "riyo490503",
+        "verified": false
+      }
+    ]
+  }
+}

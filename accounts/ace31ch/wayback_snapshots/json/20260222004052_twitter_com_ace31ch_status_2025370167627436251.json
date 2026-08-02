@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1810570297437020160",
+    "conversation_id": "2025370167627436251",
+    "created_at": "2026-02-22T00:40:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-22T01:40:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025370167627436251"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1424763174742540288",
+          "start": 3,
+          "username": "4yOung13"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025370167627436251",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025088771155525803",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @4yOung13: xyn的精神状态\n一般均包含：\n+ 神经多样性谱系（常见ASD，ADHD）\n+ 心境/情绪障碍谱系（双相情感障碍或抑郁障碍）\n+ 焦虑障碍\n+ 分离障碍（常见人格解体/现实解体障碍，较常见分离性身份障碍）\n+ 性别烦躁\n+ 人格障碍（常见边缘型人格障…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1810570297437020160",
+        "conversation_id": "2025370167627436251",
+        "created_at": "2026-02-22T00:40:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T01:40:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025370167627436251"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1424763174742540288",
+              "start": 3,
+              "username": "4yOung13"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025370167627436251",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025088771155525803",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @4yOung13: xyn的精神状态\n一般均包含：\n+ 神经多样性谱系（常见ASD，ADHD）\n+ 心境/情绪障碍谱系（双相情感障碍或抑郁障碍）\n+ 焦虑障碍\n+ 分离障碍（常见人格解体/现实解体障碍，较常见分离性身份障碍）\n+ 性别烦躁\n+ 人格障碍（常见边缘型人格障…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1424763174742540288",
+        "conversation_id": "2025088771155525803",
+        "created_at": "2026-02-21T06:02:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T07:02:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025088771155525803"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2025088771155525803",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 1478,
+          "like_count": 34,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "xyn的精神状态\n一般均包含：\n+ 神经多样性谱系（常见ASD，ADHD）\n+ 心境/情绪障碍谱系（双相情感障碍或抑郁障碍）\n+ 焦虑障碍\n+ 分离障碍（常见人格解体/现实解体障碍，较常见分离性身份障碍）\n+ 性别烦躁\n+ 人格障碍（常见边缘型人格障碍）\n（第1页，共2页）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-09T07:03:02.000Z",
+        "description": "od wiki没有活着的传奇",
+        "id": "1810570297437020160",
+        "name": "spring风＃星宿四/三周目版",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024747915840016390/eLTLiD4Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 24,
+          "like_count": 13,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 87
+        },
+        "username": "ace31ch",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-09T16:03:16.000Z",
+        "description": "MtF | zh & en | 老婆：@sincoew_yx @mengguyi | Not a developer | FX30 user | I am still alive",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 19,
+                "username": "sincoew_yx"
+              },
+              {
+                "end": 40,
+                "start": 31,
+                "username": "mengguyi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "young-4.com",
+                "end": 23,
+                "expanded_url": "http://young-4.com",
+                "start": 0,
+                "url": "https://t.co/51nCnOChN0"
+              }
+            ]
+          }
+        },
+        "id": "1424763174742540288",
+        "location": "Suzhou, China",
+        "name": "负4价的yOung元素",
+        "pinned_tweet_id": "1833549505641505054",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1735689705289662464/w07fsulG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 886,
+          "following_count": 309,
+          "like_count": 58879,
+          "listed_count": 3,
+          "media_count": 362,
+          "tweet_count": 1325
+        },
+        "url": "https://t.co/51nCnOChN0",
+        "username": "4yOung13",
+        "verified": false
+      }
+    ]
+  }
+}

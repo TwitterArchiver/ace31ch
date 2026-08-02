@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1810570297437020160",
+    "conversation_id": "2002847928797602145",
+    "created_at": "2026-02-20T18:08:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-20T19:08:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024908924856439231"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1916817753635426304",
+          "start": 0,
+          "username": "Goldwater8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024908924856439231",
+    "in_reply_to_user_id": "1916817753635426304",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2002847928797602145",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Goldwater8964 你这还保守啊？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2002847921721794560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8uLksFbYAASouM.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1810570297437020160",
+        "conversation_id": "2002847928797602145",
+        "created_at": "2026-02-20T18:08:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T19:08:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024908924856439231"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1916817753635426304",
+              "start": 0,
+              "username": "Goldwater8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024908924856439231",
+        "in_reply_to_user_id": "1916817753635426304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002847928797602145",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Goldwater8964 你这还保守啊？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2002847921721794560"
+          ]
+        },
+        "author_id": "1916817753635426304",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2002847928797602145",
+        "created_at": "2025-12-21T21:05:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-21T22:05:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2002847928797602145"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/se6zd0NGcZ",
+              "end": 164,
+              "expanded_url": "https://x.com/Goldwater8964/status/2002847928797602145/photo/1",
+              "media_key": "3_2002847921721794560",
+              "start": 141,
+              "url": "https://t.co/se6zd0NGcZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002847928797602145",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我自认保守主义者，但我和所谓中国保守主义者完全交流不了，我觉得我作为男性应该要承担家庭的大部分支出和家务、然后要做出一番事业，有完善的理财计划和足够的生存技能，如果有孩子那就要接受可承担范围内最好的教育，无论男孩女孩都是天赋人权的平等家庭成员，对其他家庭成员比如妻子应该理性沟通，不应该使用暴力这种刑事犯罪行为，我的妻子（假如我有）不应该在怀孕第七周后堕胎。\n\n中国保守主义老百姓的思想：女孩是赔钱货，不用好好养，妻子要三从四德，男人可以随便使用暴力，下海经商和投资是投机倒把\n\n哈？改革开放都没能把这帮人脑子改革好吗"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1415,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我自认保守主义者，但我和所谓中国保守主义者完全交流不了，我觉得我作为男性应该要承担家庭的大部分支出和家务、然后要做出一番事业，有完善的理财计划和足够的生存技能，如果有孩子那就要接受可承担范围内最好的教育，无论男孩女孩都是天赋人权的平等家庭成员，对其他家庭成员比如妻子应该理性沟通， https://t.co/se6zd0NGcZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-09T07:03:02.000Z",
+        "description": "od wiki没有活着的传奇",
+        "id": "1810570297437020160",
+        "name": "spring风＃星宿四/三周目版",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024747915840016390/eLTLiD4Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 17,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 38
+        },
+        "username": "ace31ch",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-28T11:32:29.000Z",
+        "description": "悉尼之鼠🦘 全网最自由的space—上麦判断认知学历 绝对的右派分子 🚪138/1998/19998 支持加密和外币",
+        "id": "1916817753635426304",
+        "location": "Auckland Region, New Zealand",
+        "name": "Friedrich🇳🇿🇦🇺",
+        "pinned_tweet_id": "2024378772410216859",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018364510457749504/B0j0ySjd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 628,
+          "following_count": 550,
+          "like_count": 2877,
+          "listed_count": 3,
+          "media_count": 81,
+          "tweet_count": 500
+        },
+        "username": "Goldwater8964",
+        "verified": true
+      }
+    ]
+  }
+}

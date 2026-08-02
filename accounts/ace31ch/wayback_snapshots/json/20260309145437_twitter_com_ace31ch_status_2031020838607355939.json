@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1810570297437020160",
+    "conversation_id": "2030856292676563195",
+    "created_at": "2026-03-09T14:54:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-09T15:54:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031020838607355939"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1970857021588262912",
+          "start": 0,
+          "username": "mwdxj29477"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031020838607355939",
+    "in_reply_to_user_id": "1970857021588262912",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030856292676563195",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mwdxj29477 又是一个可怜孩子"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1810570297437020160",
+        "conversation_id": "2030856292676563195",
+        "created_at": "2026-03-09T14:54:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T15:54:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031020838607355939"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1970857021588262912",
+              "start": 0,
+              "username": "mwdxj29477"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031020838607355939",
+        "in_reply_to_user_id": "1970857021588262912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030856292676563195",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mwdxj29477 又是一个可怜孩子"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1970857021588262912",
+        "conversation_id": "2030856292676563195",
+        "created_at": "2026-03-09T04:00:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T05:00:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030856292676563195"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2030856292676563195",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 3646,
+          "like_count": 61,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "炸柜了。。。炸柜了。。。😭\n早在3月6日我妈 在我房间找东西，就发现了我的 柜子里的3盒pr和4盒吃完的空国补😰， 她还拍了照片， 今天我早上请假， 我妈就跟我说了一下😱， 但我立刻打断了她。 她肯定是偏反对的😡， 问这是给谁吃的，我说给别人吃的，但后面我妈应该不会再提此事， 我爸应该不知道的😫"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-09T07:03:02.000Z",
+        "description": "od wiki没有活着的传奇",
+        "id": "1810570297437020160",
+        "location": "山东省精神卫生中心",
+        "name": "spring风＃星宿四/三周目版",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024747915840016390/eLTLiD4Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 56,
+          "like_count": 89,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 362
+        },
+        "username": "ace31ch",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-24T14:25:11.000Z",
+        "description": "含糖友跨顺男/已翻车/Hrt🍥01.28.2026/无证含糖/14岁年龄党/泛性恋/03.06炸柜/非二元性别/11.13.2011出厂/INFP-T/社恐/纯M/初二牲/成绩倒数的废物/体能废物/161cm51kg41码/只玩MC/民國派🇹🇼華獨/简中&繁中/同类互fo/下方提问箱↓TG:https://t.co/fG6XzUT3Y3",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/mwdxj",
+                "end": 169,
+                "expanded_url": "http://t.me/mwdxj",
+                "start": 146,
+                "url": "https://t.co/fG6XzUT3Y3"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mwdxj29477",
+                "end": 23,
+                "expanded_url": "http://ngl.link/mwdxj29477",
+                "start": 0,
+                "url": "https://t.co/l2FvEo2fLb"
+              }
+            ]
+          }
+        },
+        "id": "1970857021588262912",
+        "location": "中華民國 大陸淪陷區 湖北省「漢川縣」",
+        "name": "𝓜 𝔀 𝓭 𝔁 𝓳 ~🍥🇹🇼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030978261778563072/jnl2TC2R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1029,
+          "following_count": 780,
+          "like_count": 8432,
+          "listed_count": 2,
+          "media_count": 306,
+          "tweet_count": 1104
+        },
+        "url": "https://t.co/l2FvEo2fLb",
+        "username": "mwdxj29477",
+        "verified": false
+      }
+    ]
+  }
+}

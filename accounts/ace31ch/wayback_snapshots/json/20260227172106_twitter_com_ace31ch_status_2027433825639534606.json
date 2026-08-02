@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1810570297437020160",
+    "conversation_id": "2027276561494482982",
+    "created_at": "2026-02-27T17:21:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T18:21:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027433825639534606"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1422567543940677634",
+          "start": 0,
+          "username": "UraOlt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027433825639534606",
+    "in_reply_to_user_id": "1422567543940677634",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027276561494482982",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@UraOlt 神TM兽药"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1810570297437020160",
+        "conversation_id": "2027276561494482982",
+        "created_at": "2026-02-27T17:21:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T18:21:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027433825639534606"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1422567543940677634",
+              "start": 0,
+              "username": "UraOlt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027433825639534606",
+        "in_reply_to_user_id": "1422567543940677634",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027276561494482982",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@UraOlt 神TM兽药"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1422567543940677634",
+        "conversation_id": "2027276561494482982",
+        "created_at": "2026-02-27T06:56:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T07:56:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027276561494482982"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/gdioiui/status…",
+              "end": 132,
+              "expanded_url": "https://twitter.com/gdioiui/status/2027242138342449404",
+              "start": 109,
+              "url": "https://t.co/DEbW29qOax"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027276561494482982",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3378,
+          "like_count": 29,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027242138342449404",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "遇到个说要吃药的，说转钱给我，让我替他买药。给他介绍谷歌，推特，药商什么的，完全不感兴趣，就没管他了。我当初可是一个人瞎摸索，没人帮我的。 他这我主动帮他，有啥不懂的我给他讲都没兴趣，后来他在淘宝买了保健品/兽药…… https://t.co/DEbW29qOax"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-09T07:03:02.000Z",
+        "description": "od wiki没有活着的传奇",
+        "id": "1810570297437020160",
+        "location": "山东省精神卫生中心",
+        "name": "spring风＃星宿四/三周目版",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024747915840016390/eLTLiD4Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 45,
+          "like_count": 65,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 232
+        },
+        "username": "ace31ch",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-03T14:38:43.000Z",
+        "description": "他骑着格拉尼，他的骏马，穿过烟雾与地狱的业火。",
+        "id": "1422567543940677634",
+        "location": "Chiba-shi Wakaba-ku, Chiba",
+        "name": "❄️娑仴龙离裟🏳️‍⚧️",
+        "pinned_tweet_id": "1740103715061899409",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992072709862469632/KpZ4mmgH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1506,
+          "following_count": 457,
+          "like_count": 194170,
+          "listed_count": 3,
+          "media_count": 120,
+          "tweet_count": 12891
+        },
+        "username": "UraOlt",
+        "verified": false
+      }
+    ]
+  }
+}
