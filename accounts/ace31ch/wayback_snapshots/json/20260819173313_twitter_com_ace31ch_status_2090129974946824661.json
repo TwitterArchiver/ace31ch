@@ -1,0 +1,353 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1810570297437020160",
+    "conversation_id": "2090079231745085454",
+    "created_at": "2026-08-19T17:33:13.000Z",
+    "display_text_range": [
+      46,
+      60
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T18:33:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090129974946824661"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1907414826101669888",
+          "start": 0,
+          "username": "JamFarewellSong"
+        },
+        {
+          "end": 33,
+          "id": "2090066465802067968",
+          "start": 17,
+          "username": "drugs_artistbro"
+        },
+        {
+          "end": 45,
+          "id": "2034604809354137600",
+          "start": 34,
+          "username": "EmoVoooooo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090129974946824661",
+    "in_reply_to_user_id": "1907414826101669888",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090113872963547489",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JamFarewellSong @drugs_artistbro @EmoVoooooo 不是，是spring风二代目"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1810570297437020160",
+        "conversation_id": "2090079231745085454",
+        "created_at": "2026-08-19T17:33:13.000Z",
+        "display_text_range": [
+          46,
+          60
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T18:33:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090129974946824661"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1907414826101669888",
+              "start": 0,
+              "username": "JamFarewellSong"
+            },
+            {
+              "end": 33,
+              "id": "2090066465802067968",
+              "start": 17,
+              "username": "drugs_artistbro"
+            },
+            {
+              "end": 45,
+              "id": "2034604809354137600",
+              "start": 34,
+              "username": "EmoVoooooo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090129974946824661",
+        "in_reply_to_user_id": "1907414826101669888",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090113872963547489",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JamFarewellSong @drugs_artistbro @EmoVoooooo 不是，是spring风二代目"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907414826101669888",
+        "conversation_id": "2090079231745085454",
+        "created_at": "2026-08-19T16:29:14.000Z",
+        "display_text_range": [
+          17,
+          79
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T17:29:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090113872963547489"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2090066465802067968",
+              "start": 0,
+              "username": "drugs_artistbro"
+            },
+            {
+              "end": 28,
+              "id": "2034604809354137600",
+              "start": 17,
+              "username": "EmoVoooooo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090113872963547489",
+        "in_reply_to_user_id": "2090066465802067968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 35,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090079231745085454",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@drugs_artistbro @EmoVoooooo 是说这位吗？几个月来也是生死未卜，听到了关于ta坐牢和被抓进封闭精神病院的消息，也不知道是真是假。。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-07-09T07:03:02.000Z",
+        "description": "- ✰*🔮✩👾✰*💜✩-\n生活在互聯網！我是低齡唐逼大傻福，十分抱歉！\nintp-t/🇨🇳建制左/社會自由主義/民主社會主義\n黑色長條生物：@IiRin_00917_QwQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 70,
+                "username": "IiRin_00917_QwQ"
+              }
+            ]
+          }
+        },
+        "id": "1810570297437020160",
+        "is_identity_verified": false,
+        "location": "精神衛生中心",
+        "most_recent_tweet_id": "2090129974946824661",
+        "name": "spring风＃星宿四/三周目版",
+        "pinned_tweet_id": "2053483960211214638",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1810570297437020160/1775236698",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024747915840016390/eLTLiD4Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 303,
+          "following_count": 210,
+          "like_count": 857,
+          "listed_count": 0,
+          "media_count": 115,
+          "tweet_count": 1377
+        },
+        "url": "",
+        "username": "ace31ch",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-04-02T12:48:43.000Z",
+        "description": "the Bone Gatherer；电波系中央空调；MtX（断糖中）&泛性恋&ASD&BPD&CPTSD，性别/身材焦虑；od&自伤新手；文娱杂食党，Gore爱好者；心目中主观排行第一的乐队：“神聖かまってちゃん”，其次是“未來電波基地”；“如果海洋注定要决堤，就让所有的苦水都注入我心中”\n欢迎大家都来扩列互fo喵😇",
+        "id": "1907414826101669888",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090124792548790564",
+        "name": "果酱离歌🏳️‍⚧️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1907414826101669888/1775085260",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039485605093298176/XoZ5NfRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 567,
+          "following_count": 1730,
+          "like_count": 7096,
+          "listed_count": 1,
+          "media_count": 21,
+          "tweet_count": 1746
+        },
+        "url": "",
+        "username": "JamFarewellSong",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-19T13:25:46.000Z",
+        "description": "药物百科前wiki主|投稿报告请私信我|4i男娘INFP|提问箱:https://t.co/CSC72A8dFF|愿每一位药物滥用者都能脱离深渊|提供药物/精神病咨询|im crazy！年号雨玄二年  名人堂梦工厂RC-沐雨 零售策划药产品联系我的tg：@drug_artist",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 139,
+                "start": 127,
+                "username": "drug_artist"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/drugs_artist",
+                "end": 56,
+                "expanded_url": "http://ngl.link/drugs_artist",
+                "start": 33,
+                "url": "https://t.co/CSC72A8dFF"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/B866JKncpo"
+              }
+            ]
+          }
+        },
+        "id": "2090066465802067968",
+        "is_identity_verified": false,
+        "location": "Xanax天国 2mg省",
+        "most_recent_tweet_id": "2090102129226666062",
+        "name": "沐雨",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090068838293331968/paabMn1R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 38,
+          "like_count": 29,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 16
+        },
+        "url": "https://t.co/B866JKncpo",
+        "username": "drugs_artistbro",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-03-19T12:16:33.000Z",
+        "description": "跨圈新晋神/出厂日期8.29.2011/hrt9.3.2022/自杀干预者/可以回fo私信就行/友亚文化/友lgbt/反神人/药物请转接@Noverdose_DBD",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 82,
+                "start": 68,
+                "username": "Noverdose_DBD"
+              }
+            ]
+          }
+        },
+        "id": "2034604809354137600",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2038227832766402692",
+        "name": "Emo🏳️‍⚧️（二代目（黄推版",
+        "pinned_tweet_id": "2034606923224609012",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2034604809354137600/1773922709",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034605077659602944/cbFqxSrQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 153,
+          "following_count": 21,
+          "like_count": 13,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 56
+        },
+        "url": "",
+        "username": "EmoVoooooo",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
