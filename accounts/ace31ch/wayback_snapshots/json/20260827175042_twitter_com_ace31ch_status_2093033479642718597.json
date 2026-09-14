@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1810570297437020160",
+    "conversation_id": "2093033479642718597",
+    "created_at": "2026-08-27T17:50:42.000Z",
+    "display_text_range": [
+      0,
+      21
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T18:50:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2093033479642718597"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/bghtnya/status…",
+          "end": 45,
+          "expanded_url": "https://twitter.com/bghtnya/status/2092972565232828476",
+          "start": 22,
+          "url": "https://t.co/ijb1SIS9jK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093033479642718597",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092972565232828476",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "中元节这么o有点神秘，可以坦坦荡荡见春风了 https://t.co/ijb1SIS9jK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2608,
+        "media_key": "3_2092972551001772032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQu7cjMakAATH3N.jpg",
+        "width": 1200
+      },
+      {
+        "height": 2608,
+        "media_key": "3_2092972558165626881",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQu7c94aUAEASmR.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1810570297437020160",
+        "conversation_id": "2093033479642718597",
+        "created_at": "2026-08-27T17:50:42.000Z",
+        "display_text_range": [
+          0,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T18:50:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093033479642718597"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/bghtnya/status…",
+              "end": 45,
+              "expanded_url": "https://twitter.com/bghtnya/status/2092972565232828476",
+              "start": 22,
+              "url": "https://t.co/ijb1SIS9jK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093033479642718597",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092972565232828476",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "中元节这么o有点神秘，可以坦坦荡荡见春风了 https://t.co/ijb1SIS9jK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092972551001772032",
+            "3_2092972558165626881"
+          ]
+        },
+        "author_id": "1512976991976402949",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2092972565232828476",
+        "created_at": "2026-08-27T13:48:39.000Z",
+        "display_text_range": [
+          0,
+          54
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T14:38:20.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092969968140972535",
+          "2092972565232828476"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cV8OEx49IK",
+              "end": 78,
+              "expanded_url": "https://x.com/bghtnya/status/2092972565232828476/photo/1",
+              "media_key": "3_2092972551001772032",
+              "start": 55,
+              "url": "https://t.co/cV8OEx49IK"
+            },
+            {
+              "display_url": "pic.x.com/cV8OEx49IK",
+              "end": 78,
+              "expanded_url": "https://x.com/bghtnya/status/2092972565232828476/photo/1",
+              "media_key": "3_2092972558165626881",
+              "start": 55,
+              "url": "https://t.co/cV8OEx49IK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092972565232828476",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2092972551001772032"
+          },
+          {
+            "media_key": "3_2092972558165626881"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 5382,
+          "like_count": 81,
+          "quote_count": 4,
+          "reply_count": 28,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "最新消息：牢唐中元节o了1800mg（图二记错了） DXM 现在生死未卜\n疑似飞升第五高原见spring风了 https://t.co/cV8OEx49IK"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-07-09T07:03:02.000Z",
+        "description": "- ✰*🔮✩👾✰*💜✩-\n生活在互聯網！我是低齡唐逼大傻福，十分抱歉！\nintp-t/🇨🇳建制左/社會自由主義/民主社會主義\n黑色長條生物：@IiRin_00917_QwQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 70,
+                "username": "IiRin_00917_QwQ"
+              }
+            ]
+          }
+        },
+        "id": "1810570297437020160",
+        "is_identity_verified": false,
+        "location": "精神衛生中心",
+        "most_recent_tweet_id": "2093033479642718597",
+        "name": "spring风＃星宿四/三周目版",
+        "pinned_tweet_id": "2053483960211214638",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1810570297437020160/1775236698",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024747915840016390/eLTLiD4Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 305,
+          "following_count": 220,
+          "like_count": 900,
+          "listed_count": 0,
+          "media_count": 117,
+          "tweet_count": 1406
+        },
+        "url": "",
+        "username": "ace31ch",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖🖥 大一计算机 /  🍰1989.06.04 /  🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 🏳‍⚧🏳️‍🌈  无性别or跨女同 / 🦋 INFP-A  /   Ⓐ☭ 无政府共产主义   /   🪨登越无人见闻顶，重置五岳三山名",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mfuns.net/member/4328",
+                "end": 23,
+                "expanded_url": "https://mfuns.net/member/4328",
+                "start": 0,
+                "url": "https://t.co/o4J1P8mtmq"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "is_identity_verified": false,
+        "location": "https://github.com/bghtnya",
+        "most_recent_tweet_id": "2092979303948624041",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "pinned_tweet_id": "2056035833543815506",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1512976991976402949/1688735742",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055187971880759296/_-CqoRg3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10753,
+          "following_count": 2330,
+          "like_count": 182944,
+          "listed_count": 20,
+          "media_count": 4116,
+          "tweet_count": 50118
+        },
+        "url": "https://t.co/o4J1P8mtmq",
+        "username": "bghtnya",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

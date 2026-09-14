@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1810570297437020160",
+    "conversation_id": "2095375707765657933",
+    "created_at": "2026-09-03T04:57:53.000Z",
+    "display_text_range": [
+      0,
+      2
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-03T05:57:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2095375707765657933"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ovum0000/statu…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/ovum0000/status/2095193000943157419",
+          "start": 3,
+          "url": "https://t.co/9rjdbv34RX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095375707765657933",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095193000943157419",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "神人 https://t.co/9rjdbv34RX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2095192971482472448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HROe6CEboAAIFeh.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1810570297437020160",
+        "conversation_id": "2095375707765657933",
+        "created_at": "2026-09-03T04:57:53.000Z",
+        "display_text_range": [
+          0,
+          2
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T05:57:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095375707765657933"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ovum0000/statu…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/ovum0000/status/2095193000943157419",
+              "start": 3,
+              "url": "https://t.co/9rjdbv34RX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095375707765657933",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095193000943157419",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "神人 https://t.co/9rjdbv34RX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095192971482472448"
+          ]
+        },
+        "author_id": "2057497111718166531",
+        "conversation_id": "2095193000943157419",
+        "created_at": "2026-09-02T16:51:52.000Z",
+        "display_text_range": [
+          0,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T17:51:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095193000943157419"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UK8VxBDoes",
+              "end": 53,
+              "expanded_url": "https://x.com/ovum0000/status/2095193000943157419/photo/1",
+              "media_key": "3_2095192971482472448",
+              "start": 30,
+              "url": "https://t.co/UK8VxBDoes"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095193000943157419",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2095192971482472448"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1164,
+          "like_count": 29,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "大家好。这是我设计得国旗。希望可以入围。希望祖国越来越好。 https://t.co/UK8VxBDoes"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-07-09T07:03:02.000Z",
+        "description": "- ✰*🔮✩👾✰*💜✩-\n生活在互聯網！我是低齡唐逼大傻福，十分抱歉！\nintp-t/🇨🇳建制左/社會自由主義/民主社會主義\n黑色長條生物：@IiRin_00917_QwQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 70,
+                "username": "IiRin_00917_QwQ"
+              }
+            ]
+          }
+        },
+        "id": "1810570297437020160",
+        "is_identity_verified": false,
+        "location": "精神衛生中心",
+        "most_recent_tweet_id": "2095375707765657933",
+        "name": "spring风＃星宿四/三周目版",
+        "pinned_tweet_id": "2053483960211214638",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1810570297437020160/1775236698",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024747915840016390/eLTLiD4Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 305,
+          "following_count": 220,
+          "like_count": 919,
+          "listed_count": 0,
+          "media_count": 120,
+          "tweet_count": 1417
+        },
+        "url": "",
+        "username": "ace31ch",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-21T16:23:33.000Z",
+        "description": "天地114",
+        "id": "2057497111718166531",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095272162383040820",
+        "name": "支国人种美学讲师",
+        "pinned_tweet_id": "2084666841298067575",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2057497111718166531/1779839623",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090823618427305984/EdpxVEHA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 395,
+          "following_count": 66,
+          "like_count": 1792,
+          "listed_count": 0,
+          "media_count": 154,
+          "tweet_count": 1079
+        },
+        "url": "",
+        "username": "ovum0000",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

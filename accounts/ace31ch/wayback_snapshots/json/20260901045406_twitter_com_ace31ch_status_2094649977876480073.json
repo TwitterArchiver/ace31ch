@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1810570297437020160",
+    "conversation_id": "2094649977876480073",
+    "created_at": "2026-09-01T04:54:06.000Z",
+    "display_text_range": [
+      0,
+      2
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-01T05:54:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2094649977876480073"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/loveforeversfy…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/loveforeversfy/status/2094501114158965149",
+          "start": 3,
+          "url": "https://t.co/M9WIY6Vqam"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094649977876480073",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094501114158965149",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "神秘 https://t.co/M9WIY6Vqam"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 8106,
+        "height": 640,
+        "media_key": "13_2094501101634768896",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2094501101634768896/img/4_7iY-375pTEZeUL.jpg",
+        "public_metrics": {
+          "view_count": 215
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2094501101634768896/vid/avc1/320x426/Su6hm70q31PwlmZp.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2094501101634768896/vid/avc1/480x640/DdM4Qer6zRM1JYZW.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2094501101634768896/pl/9p3T9wg4Q7ADXKj7.m3u8"
+          }
+        ],
+        "width": 480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1810570297437020160",
+        "conversation_id": "2094649977876480073",
+        "created_at": "2026-09-01T04:54:06.000Z",
+        "display_text_range": [
+          0,
+          2
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T05:54:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094649977876480073"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/loveforeversfy…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/loveforeversfy/status/2094501114158965149",
+              "start": 3,
+              "url": "https://t.co/M9WIY6Vqam"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094649977876480073",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094501114158965149",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "神秘 https://t.co/M9WIY6Vqam"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2094501101634768896"
+          ]
+        },
+        "author_id": "1599012090517540869",
+        "conversation_id": "2094501114158965149",
+        "created_at": "2026-08-31T19:02:34.000Z",
+        "display_text_range": [
+          0,
+          6
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T20:02:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094501114158965149"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/c0rUdmc5n0",
+              "end": 30,
+              "expanded_url": "https://x.com/loveforeversfy/status/2094501114158965149/video/1",
+              "media_key": "13_2094501101634768896",
+              "start": 7,
+              "url": "https://t.co/c0rUdmc5n0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094501114158965149",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2094501101634768896"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 377,
+          "like_count": 12,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "最喜欢的一集 https://t.co/c0rUdmc5n0"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-07-09T07:03:02.000Z",
+        "description": "- ✰*🔮✩👾✰*💜✩-\n生活在互聯網！我是低齡唐逼大傻福，十分抱歉！\nintp-t/🇨🇳建制左/社會自由主義/民主社會主義\n黑色長條生物：@IiRin_00917_QwQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 70,
+                "username": "IiRin_00917_QwQ"
+              }
+            ]
+          }
+        },
+        "id": "1810570297437020160",
+        "is_identity_verified": false,
+        "location": "精神衛生中心",
+        "most_recent_tweet_id": "2094649977876480073",
+        "name": "spring风＃星宿四/三周目版",
+        "pinned_tweet_id": "2053483960211214638",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1810570297437020160/1775236698",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024747915840016390/eLTLiD4Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 306,
+          "following_count": 220,
+          "like_count": 914,
+          "listed_count": 0,
+          "media_count": 118,
+          "tweet_count": 1412
+        },
+        "url": "",
+        "username": "ace31ch",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "严重脑残｜enby｜🚪67",
+        "id": "1599012090517540869",
+        "is_identity_verified": false,
+        "location": "滨寿司",
+        "most_recent_tweet_id": "2094609541350772896",
+        "name": "蘑菇盆栽🍄",
+        "pinned_tweet_id": "2068997025849647511",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1599012090517540869/1765988501",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000518712626229248/-YPIFnC8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2839,
+          "following_count": 1551,
+          "like_count": 36271,
+          "listed_count": 11,
+          "media_count": 1277,
+          "tweet_count": 11758
+        },
+        "url": "",
+        "username": "loveforeversfy",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,330 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1810570297437020160",
+    "conversation_id": "2095098922972971242",
+    "created_at": "2026-09-02T10:38:02.000Z",
+    "display_text_range": [
+      0,
+      57
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-02T11:38:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095098922972971242"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1533024617811812352",
+          "start": 3,
+          "username": "Spr1ngW1nd"
+        },
+        {
+          "end": 26,
+          "id": "1515014571542872067",
+          "start": 16,
+          "username": "xyczgmyx1"
+        },
+        {
+          "end": 36,
+          "id": "1098027691259846656",
+          "start": 27,
+          "username": "49Addict"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095098922972971242",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1535973556831408128",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Spr1ngW1nd: @xyczgmyx1 @49addict 本来我也打算去外面搞这个，但是想了想算了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1810570297437020160",
+        "conversation_id": "2095098922972971242",
+        "created_at": "2026-09-02T10:38:02.000Z",
+        "display_text_range": [
+          0,
+          57
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T11:38:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095098922972971242"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1533024617811812352",
+              "start": 3,
+              "username": "Spr1ngW1nd"
+            },
+            {
+              "end": 26,
+              "id": "1515014571542872067",
+              "start": 16,
+              "username": "xyczgmyx1"
+            },
+            {
+              "end": 36,
+              "id": "1098027691259846656",
+              "start": 27,
+              "username": "49Addict"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095098922972971242",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1535973556831408128",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Spr1ngW1nd: @xyczgmyx1 @49addict 本来我也打算去外面搞这个，但是想了想算了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1533024617811812352",
+        "conversation_id": "1534364657146036224",
+        "created_at": "2022-06-12T13:13:27.000Z",
+        "display_text_range": [
+          21,
+          41
+        ],
+        "edit_controls": {
+          "editable_until": "2022-06-12T13:43:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1535973556831408128"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1515014571542872067",
+              "start": 0,
+              "username": "xyczgmyx1"
+            },
+            {
+              "end": 20,
+              "id": "1098027691259846656",
+              "start": 11,
+              "username": "49Addict"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1535973556831408128",
+        "in_reply_to_user_id": "1515014571542872067",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1534364657146036224",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xyczgmyx1 @49addict 本来我也打算去外面搞这个，但是想了想算了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-07-09T07:03:02.000Z",
+        "description": "- ✰*🔮✩👾✰*💜✩-\n生活在互聯網！我是低齡唐逼大傻福，十分抱歉！\nintp-t/🇨🇳建制左/社會自由主義/民主社會主義\n黑色長條生物：@IiRin_00917_QwQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 70,
+                "username": "IiRin_00917_QwQ"
+              }
+            ]
+          }
+        },
+        "id": "1810570297437020160",
+        "is_identity_verified": false,
+        "location": "精神衛生中心",
+        "most_recent_tweet_id": "2095098922972971242",
+        "name": "spring风＃星宿四/三周目版",
+        "pinned_tweet_id": "2053483960211214638",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1810570297437020160/1775236698",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024747915840016390/eLTLiD4Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 305,
+          "following_count": 219,
+          "like_count": 917,
+          "listed_count": 0,
+          "media_count": 119,
+          "tweet_count": 1416
+        },
+        "url": "",
+        "username": "ace31ch",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-06-04T09:55:35.000Z",
+        "description": "药物滥用的内容相关会转发到@Overdose_Wind /#StandWithUkraine/",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 46,
+                "start": 29,
+                "tag": "StandWithUkraine"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 27,
+                "start": 13,
+                "username": "Overdose_Wind"
+              }
+            ]
+          }
+        },
+        "id": "1533024617811812352",
+        "is_identity_verified": false,
+        "location": "Japan",
+        "most_recent_tweet_id": "1612059448746602496",
+        "name": "Spring风#参宿四",
+        "pinned_tweet_id": "1555067952335970305",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1533024617811812352/1660383960",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1606726635713335296/TrmJq-XY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7152,
+          "following_count": 352,
+          "like_count": 4357,
+          "listed_count": 18,
+          "media_count": 450,
+          "tweet_count": 4943
+        },
+        "url": "",
+        "username": "Spr1ngW1nd",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-04-15T17:10:15.000Z",
+        "description": "日本学习中/古典自由主义（Classical liberalism）+社会自由主义（Social liberalism）/支持女权与性少数群体/不接推广/邮箱twixyczgmyx1@proton.me",
+        "id": "1515014571542872067",
+        "is_identity_verified": false,
+        "location": "Chiyoda-ku, Tokyo",
+        "most_recent_tweet_id": "1607551567716311042",
+        "name": "润友们归来🏃看习中国正在土崩瓦解🌊大流浪反贼们出头之日已经到来🎌",
+        "pinned_tweet_id": "1597229908300038144",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1515014571542872067/1669666037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1606605969131466752/6xsI0vMR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52925,
+          "following_count": 2863,
+          "like_count": 29157,
+          "listed_count": 262,
+          "media_count": 993,
+          "tweet_count": 8526
+        },
+        "url": "",
+        "username": "xyczgmyx1",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-02-20T01:12:56.000Z",
+        "description": "中国大陸政治犯 異議人士 數十次被捕 曾在中國大陸公開紀念六四事件、參加過重慶大渡口工人運動｜X第二大促智商 無極 的经理｜该账号仅代表个人观点与 無極 团队无关｜抗衰生物黑客｜☯️道教徒（正一）｜提供医药中间体 试剂代采/合成｜AKA 葉經理/葉隱/葉洪文｜反者道之動 弱者道之用",
+        "id": "1098027691259846656",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2046248874335940909",
+        "name": "☯️玄阳🧬",
+        "pinned_tweet_id": "1990525522384990442",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1098027691259846656/1762990611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988728045633695748/JPFgKO6R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 8,
+          "like_count": 17,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 20
+        },
+        "url": "",
+        "username": "49Addict",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

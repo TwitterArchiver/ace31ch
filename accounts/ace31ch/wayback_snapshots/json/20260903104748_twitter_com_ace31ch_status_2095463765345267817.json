@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1810570297437020160",
+    "conversation_id": "2095463765345267817",
+    "created_at": "2026-09-03T10:47:48.000Z",
+    "display_text_range": [
+      0,
+      4
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-03T11:47:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2095463765345267817"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/YuwenMewo/stat…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/YuwenMewo/status/2095090468656947344",
+          "start": 5,
+          "url": "https://t.co/dk9c0Gee5q"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095463765345267817",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095090468656947344",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好神圣啊 https://t.co/dk9c0Gee5q"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1810570297437020160",
+        "conversation_id": "2095463765345267817",
+        "created_at": "2026-09-03T10:47:48.000Z",
+        "display_text_range": [
+          0,
+          4
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T11:47:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095463765345267817"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/YuwenMewo/stat…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/YuwenMewo/status/2095090468656947344",
+              "start": 5,
+              "url": "https://t.co/dk9c0Gee5q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095463765345267817",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095090468656947344",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好神圣啊 https://t.co/dk9c0Gee5q"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063957681984225280",
+        "conversation_id": "2095090468656947344",
+        "created_at": "2026-09-02T10:04:27.000Z",
+        "display_text_range": [
+          0,
+          153
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T11:04:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095090468656947344"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "ctt.ec/6FhTf",
+              "end": 38,
+              "expanded_url": "https://ctt.ec/6FhTf",
+              "start": 15,
+              "status": 200,
+              "title": "认同以下内容可点击链接自毁了 https://ctt.ec/6FhTf 我是阳痿/早泄恋足癖傻逼，我喜欢对着女生的脚底还有马赛克照片发情 我的小鸡吧只配永久锁在贞操锁里，这样才有安全感，像我这样的废物没有撸射的权利♡ 我渴望幻想变成女孩子被大鸡吧欺负 我需要用后穴高潮，努力变成前锁后塞的欠草人妖婊子",
+              "unwound_url": "https://clicktotweet.com/6FhTf",
+              "url": "https://t.co/VF1Uwi2RYA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095090468656947344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1151,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "认同以下内容可点击链接自毁了\nhttps://t.co/VF1Uwi2RYA\n我是阳痿/早泄恋足癖傻逼，我喜欢对着女生的脚底还有马赛克照片发情\n我的小鸡吧只配永久锁在贞操锁里，这样才有安全感，像我这样的废物没有撸射的权利♡\n我渴望幻想变成女孩子被大鸡吧欺负\n我需要用后穴高潮，努力变成前锁后塞的欠草人妖婊子"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-07-09T07:03:02.000Z",
+        "description": "- ✰*🔮✩👾✰*💜✩-\n生活在互聯網！我是低齡唐逼大傻福，十分抱歉！\nintp-t/🇨🇳建制左/社會自由主義/民主社會主義\n黑色長條生物：@IiRin_00917_QwQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 70,
+                "username": "IiRin_00917_QwQ"
+              }
+            ]
+          }
+        },
+        "id": "1810570297437020160",
+        "is_identity_verified": false,
+        "location": "精神衛生中心",
+        "most_recent_tweet_id": "2095463765345267817",
+        "name": "spring风＃星宿四/三周目版",
+        "pinned_tweet_id": "2053483960211214638",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1810570297437020160/1775236698",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024747915840016390/eLTLiD4Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 304,
+          "following_count": 219,
+          "like_count": 920,
+          "listed_count": 0,
+          "media_count": 120,
+          "tweet_count": 1418
+        },
+        "url": "",
+        "username": "ace31ch",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-08T12:21:21.000Z",
+        "description": "🏳️‍⚧️ MTF ♀\n🎂 10.19\n💉 HRT 2025.06.30\n🍥  持证含糖\n💻 科技宅一只\n✨ 努力长成理想中的自己\n我的telegram群：https://t.co/7n12aPlryP",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/+UFtO_LPe9vA0O…",
+                "end": 101,
+                "expanded_url": "https://t.me/+UFtO_LPe9vA0OTJk",
+                "start": 78,
+                "url": "https://t.co/7n12aPlryP"
+              }
+            ]
+          }
+        },
+        "id": "2063957681984225280",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095416060719820882",
+        "name": "唐毓文",
+        "pinned_tweet_id": "2094824868743463287",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2063957681984225280/1781144220",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063959820148064256/gZr_9bTC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2429,
+          "following_count": 96,
+          "like_count": 207,
+          "listed_count": 8,
+          "media_count": 779,
+          "tweet_count": 2975
+        },
+        "url": "",
+        "username": "YuwenMewo",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

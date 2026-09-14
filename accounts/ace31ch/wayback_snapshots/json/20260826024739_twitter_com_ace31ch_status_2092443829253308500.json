@@ -1,0 +1,314 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1810570297437020160",
+    "conversation_id": "2092213359366295684",
+    "created_at": "2026-08-26T02:47:39.000Z",
+    "display_text_range": [
+      20,
+      25
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-26T03:47:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092443829253308500"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1447499448649601025",
+          "start": 0,
+          "username": "LVTGW666"
+        },
+        {
+          "end": 19,
+          "id": "1956021138347450371",
+          "start": 10,
+          "username": "unofunky"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092443829253308500",
+    "in_reply_to_user_id": "1447499448649601025",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092232947676193167",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LVTGW666 @unofunky 这不余华嘛"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1810570297437020160",
+        "conversation_id": "2092213359366295684",
+        "created_at": "2026-08-26T02:47:39.000Z",
+        "display_text_range": [
+          20,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T03:47:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092443829253308500"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1447499448649601025",
+              "start": 0,
+              "username": "LVTGW666"
+            },
+            {
+              "end": 19,
+              "id": "1956021138347450371",
+              "start": 10,
+              "username": "unofunky"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092443829253308500",
+        "in_reply_to_user_id": "1447499448649601025",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092232947676193167",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LVTGW666 @unofunky 这不余华嘛"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1447499448649601025",
+        "conversation_id": "2092213359366295684",
+        "created_at": "2026-08-25T12:49:41.000Z",
+        "display_text_range": [
+          10,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T13:49:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092232947676193167"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1956021138347450371",
+              "start": 0,
+              "username": "unofunky"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092232947676193167",
+        "in_reply_to_user_id": "1956021138347450371",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 561,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092213359366295684",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@unofunky 这不汪洋嘛"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-07-09T07:03:02.000Z",
+        "description": "- ✰*🔮✩👾✰*💜✩-\n生活在互聯網！我是低齡唐逼大傻福，十分抱歉！\nintp-t/🇨🇳建制左/社會自由主義/民主社會主義\n黑色長條生物：@IiRin_00917_QwQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 70,
+                "username": "IiRin_00917_QwQ"
+              }
+            ]
+          }
+        },
+        "id": "1810570297437020160",
+        "is_identity_verified": false,
+        "location": "精神衛生中心",
+        "most_recent_tweet_id": "2092443829253308500",
+        "name": "spring风＃星宿四/三周目版",
+        "pinned_tweet_id": "2053483960211214638",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1810570297437020160/1775236698",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024747915840016390/eLTLiD4Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 307,
+          "following_count": 219,
+          "like_count": 886,
+          "listed_count": 0,
+          "media_count": 116,
+          "tweet_count": 1401
+        },
+        "url": "",
+        "username": "ace31ch",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-10-11T09:49:03.000Z",
+        "description": "我是一直都是啥b啊 分析哲学倒数第6324人 重铸正统施特劳斯荣光，我辈义不容辞 备用小号@lvtgw8964 YouTube：https://t.co/wPvV77mrq4",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 45,
+                "username": "lvtgw8964"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCzPNz…",
+                "end": 87,
+                "expanded_url": "https://youtube.com/channel/UCzPNzUrZ6mQE_DdUyEzWfVQ?si=9P3osu1z2MSLK9OS",
+                "start": 64,
+                "url": "https://t.co/wPvV77mrq4"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCzPNz…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/channel/UCzPNzUrZ6mQE_DdUyEzWfVQ?si=9P3osu1z2MSLK9OS",
+                "start": 0,
+                "url": "https://t.co/wPvV77mrq4"
+              }
+            ]
+          }
+        },
+        "id": "1447499448649601025",
+        "is_identity_verified": true,
+        "location": "Yokohama-shi Kanagawa",
+        "most_recent_tweet_id": "2092301031703261323",
+        "name": "利维坦冲浪里",
+        "pinned_tweet_id": "2008518971486806332",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1447499448649601025/1634922805",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1496193678477787137/gt41UKj__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74628,
+          "following_count": 1016,
+          "like_count": 15425,
+          "listed_count": 313,
+          "media_count": 6274,
+          "tweet_count": 14126
+        },
+        "url": "https://t.co/wPvV77mrq4",
+        "username": "LVTGW666",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-08-14T15:52:44.000Z",
+        "description": "保卫我们的后现代生活",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/AkMFTuN",
+                "end": 23,
+                "expanded_url": "https://b23.tv/AkMFTuN",
+                "start": 0,
+                "url": "https://t.co/mddsArB5yu"
+              }
+            ]
+          }
+        },
+        "id": "1956021138347450371",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092290560656847105",
+        "name": "网友菲顺比",
+        "pinned_tweet_id": "2071106503919206783",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1956021138347450371/1776612309",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091403600849506304/GpXiP6Ik_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 124,
+          "following_count": 365,
+          "like_count": 2755,
+          "listed_count": 1,
+          "media_count": 132,
+          "tweet_count": 1575
+        },
+        "url": "https://t.co/mddsArB5yu",
+        "username": "unofunky",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
